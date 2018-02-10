@@ -9,4 +9,6 @@ Raw Sports Data shows every medal given out at the Winter Olympics. You can find
 
 Data is broken down into Gold, Silver, Bronze, and Total.
 
+Sorted Sports Data! sorts all the medals given out by event (and then year). That file has a corresponding project.
+
 2018 data will eventually be necessary!
