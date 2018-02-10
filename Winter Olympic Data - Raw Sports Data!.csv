@@ -1,0 +1,2975 @@
+Year,Sport,Discipline,Gender,Event,Country,Medal
+1924,Biathlon,Biathlon,Men,Military Patrol,FRA,Bronze
+1924,Biathlon,Biathlon,Men,Military Patrol,SUI,Gold
+1924,Biathlon,Biathlon,Men,Military Patrol,FIN,Silver
+1924,Bobsleigh,Bobsleigh,Men,Four-Man,BEL,Bronze
+1924,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Gold
+1924,Bobsleigh,Bobsleigh,Men,Four-Man,GBR,Silver
+1924,Curling,Curling,Men,Curling,FRA,Bronze
+1924,Curling,Curling,Men,Curling,GBR,Gold
+1924,Curling,Curling,Men,Curling,SWE,Silver
+1924,Ice Hockey,Ice Hockey,Men,Ice Hockey,GBR,Bronze
+1924,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+1924,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+1924,Skating,Figure skating,Men,Individual,SUI,Bronze
+1924,Skating,Figure skating,Men,Individual,SWE,Gold
+1924,Skating,Figure skating,Men,Individual,AUT,Silver
+1924,Skating,Figure skating,Women,Individual,GBR,Bronze
+1924,Skating,Figure skating,Women,Individual,AUT,Gold
+1924,Skating,Figure skating,Women,Individual,USA,Silver
+1924,Skating,Figure skating,Men,Pairs,FRA,Bronze
+1924,Skating,Figure skating,Men,Pairs,AUT,Gold
+1924,Skating,Figure skating,Men,Pairs,FIN,Silver
+1924,Skating,Figure skating,Women,Pairs,FRA,Bronze
+1924,Skating,Figure skating,Women,Pairs,AUT,Gold
+1924,Skating,Figure skating,Women,Pairs,FIN,Silver
+1924,Skating,Speed skating,Men,10000M,NOR,Bronze
+1924,Skating,Speed skating,Men,10000M,FIN,Gold
+1924,Skating,Speed skating,Men,10000M,FIN,Silver
+1924,Skating,Speed skating,Men,1500M,NOR,Bronze
+1924,Skating,Speed skating,Men,1500M,FIN,Gold
+1924,Skating,Speed skating,Men,1500M,NOR,Silver
+1924,Skating,Speed skating,Men,5000M,NOR,Bronze
+1924,Skating,Speed skating,Men,5000M,FIN,Gold
+1924,Skating,Speed skating,Men,5000M,FIN,Silver
+1924,Skating,Speed skating,Men,500M,FIN,Bronze
+1924,Skating,Speed skating,Men,500M,NOR,Bronze
+1924,Skating,Speed skating,Men,500M,USA,Gold
+1924,Skating,Speed skating,Men,500M,NOR,Silver
+1924,Skating,Speed skating,Men,Combined (4 Events),FIN,Bronze
+1924,Skating,Speed skating,Men,Combined (4 Events),FIN,Gold
+1924,Skating,Speed skating,Men,Combined (4 Events),NOR,Silver
+1924,Skiing,Cross Country Skiing,Men,18KM,FIN,Bronze
+1924,Skiing,Cross Country Skiing,Men,18KM,NOR,Gold
+1924,Skiing,Cross Country Skiing,Men,18KM,NOR,Silver
+1924,Skiing,Cross Country Skiing,Men,50KM,NOR,Bronze
+1924,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1924,Skiing,Cross Country Skiing,Men,50KM,NOR,Silver
+1924,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1924,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1924,Skiing,Nordic Combined,Men,Individual,NOR,Silver
+1924,Skiing,Ski Jumping,Men,K90 Individual (70M),USA,Bronze
+1924,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1924,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1928,Bobsleigh,Bobsleigh,Men,Five-Man,GER,Bronze
+1928,Bobsleigh,Bobsleigh,Men,Five-Man,USA,Gold
+1928,Bobsleigh,Bobsleigh,Men,Five-Man,USA,Silver
+1928,Bobsleigh,Skeleton,Men,Individual,GBR,Bronze
+1928,Bobsleigh,Skeleton,Men,Individual,USA,Gold
+1928,Bobsleigh,Skeleton,Men,Individual,USA,Silver
+1928,Ice Hockey,Ice Hockey,Men,Ice Hockey,SUI,Bronze
+1928,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+1928,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Silver
+1928,Skating,Figure skating,Men,Individual,BEL,Bronze
+1928,Skating,Figure skating,Men,Individual,SWE,Gold
+1928,Skating,Figure skating,Men,Individual,AUT,Silver
+1928,Skating,Figure skating,Women,Individual,USA,Bronze
+1928,Skating,Figure skating,Women,Individual,NOR,Gold
+1928,Skating,Figure skating,Women,Individual,AUT,Silver
+1928,Skating,Figure skating,Men,Pairs,AUT,Bronze
+1928,Skating,Figure skating,Men,Pairs,FRA,Gold
+1928,Skating,Figure skating,Men,Pairs,AUT,Silver
+1928,Skating,Figure skating,Women,Pairs,AUT,Bronze
+1928,Skating,Figure skating,Women,Pairs,FRA,Gold
+1928,Skating,Figure skating,Women,Pairs,AUT,Silver
+1928,Skating,Speed skating,Men,1500M,NOR,Bronze
+1928,Skating,Speed skating,Men,1500M,FIN,Gold
+1928,Skating,Speed skating,Men,1500M,NOR,Silver
+1928,Skating,Speed skating,Men,5000M,NOR,Bronze
+1928,Skating,Speed skating,Men,5000M,NOR,Gold
+1928,Skating,Speed skating,Men,5000M,FIN,Silver
+1928,Skating,Speed skating,Men,500M,FIN,Bronze
+1928,Skating,Speed skating,Men,500M,NOR,Bronze
+1928,Skating,Speed skating,Men,500M,USA,Bronze
+1928,Skating,Speed skating,Men,500M,FIN,Gold
+1928,Skating,Speed skating,Men,500M,NOR,Gold
+1928,Skiing,Cross Country Skiing,Men,18KM,NOR,Bronze
+1928,Skiing,Cross Country Skiing,Men,18KM,NOR,Gold
+1928,Skiing,Cross Country Skiing,Men,18KM,NOR,Silver
+1928,Skiing,Cross Country Skiing,Men,50KM,SWE,Bronze
+1928,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1928,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1928,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1928,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1928,Skiing,Nordic Combined,Men,Individual,NOR,Silver
+1928,Skiing,Ski Jumping,Men,K90 Individual (70M),TCH,Bronze
+1928,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1928,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1932,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Bronze
+1932,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Gold
+1932,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Silver
+1932,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Bronze
+1932,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Gold
+1932,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+1932,Ice Hockey,Ice Hockey,Men,Ice Hockey,GER,Bronze
+1932,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+1932,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+1932,Skating,Figure skating,Men,Individual,CAN,Bronze
+1932,Skating,Figure skating,Men,Individual,AUT,Gold
+1932,Skating,Figure skating,Men,Individual,SWE,Silver
+1932,Skating,Figure skating,Women,Individual,USA,Bronze
+1932,Skating,Figure skating,Women,Individual,NOR,Gold
+1932,Skating,Figure skating,Women,Individual,AUT,Silver
+1932,Skating,Figure skating,Men,Pairs,HUN,Bronze
+1932,Skating,Figure skating,Men,Pairs,FRA,Gold
+1932,Skating,Figure skating,Men,Pairs,USA,Silver
+1932,Skating,Figure skating,Women,Pairs,HUN,Bronze
+1932,Skating,Figure skating,Women,Pairs,FRA,Gold
+1932,Skating,Figure skating,Women,Pairs,USA,Silver
+1932,Skating,Speed skating,Men,10000M,CAN,Bronze
+1932,Skating,Speed skating,Men,10000M,USA,Gold
+1932,Skating,Speed skating,Men,10000M,NOR,Silver
+1932,Skating,Speed skating,Men,1500M,CAN,Bronze
+1932,Skating,Speed skating,Men,1500M,USA,Gold
+1932,Skating,Speed skating,Men,1500M,CAN,Silver
+1932,Skating,Speed skating,Men,5000M,CAN,Bronze
+1932,Skating,Speed skating,Men,5000M,USA,Gold
+1932,Skating,Speed skating,Men,5000M,USA,Silver
+1932,Skating,Speed skating,Men,500M,CAN,Bronze
+1932,Skating,Speed skating,Men,500M,USA,Gold
+1932,Skating,Speed skating,Men,500M,NOR,Silver
+1932,Skiing,Cross Country Skiing,Men,18KM,FIN,Bronze
+1932,Skiing,Cross Country Skiing,Men,18KM,SWE,Gold
+1932,Skiing,Cross Country Skiing,Men,18KM,SWE,Silver
+1932,Skiing,Cross Country Skiing,Men,50KM,NOR,Bronze
+1932,Skiing,Cross Country Skiing,Men,50KM,FIN,Gold
+1932,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1932,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1932,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1932,Skiing,Nordic Combined,Men,Individual,NOR,Silver
+1932,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Bronze
+1932,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1932,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1936,Bobsleigh,Bobsleigh,Men,Four-Man,GBR,Bronze
+1936,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Gold
+1936,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Silver
+1936,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Bronze
+1936,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Gold
+1936,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+1936,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Bronze
+1936,Ice Hockey,Ice Hockey,Men,Ice Hockey,GBR,Gold
+1936,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Silver
+1936,Skating,Figure skating,Men,Individual,AUT,Bronze
+1936,Skating,Figure skating,Men,Individual,AUT,Gold
+1936,Skating,Figure skating,Men,Individual,GER,Silver
+1936,Skating,Figure skating,Women,Individual,SWE,Bronze
+1936,Skating,Figure skating,Women,Individual,NOR,Gold
+1936,Skating,Figure skating,Women,Individual,GBR,Silver
+1936,Skating,Figure skating,Men,Pairs,HUN,Bronze
+1936,Skating,Figure skating,Men,Pairs,GER,Gold
+1936,Skating,Figure skating,Men,Pairs,AUT,Silver
+1936,Skating,Figure skating,Women,Pairs,HUN,Bronze
+1936,Skating,Figure skating,Women,Pairs,GER,Gold
+1936,Skating,Figure skating,Women,Pairs,AUT,Silver
+1936,Skating,Speed skating,Men,10000M,AUT,Bronze
+1936,Skating,Speed skating,Men,10000M,NOR,Gold
+1936,Skating,Speed skating,Men,10000M,FIN,Silver
+1936,Skating,Speed skating,Men,1500M,FIN,Bronze
+1936,Skating,Speed skating,Men,1500M,NOR,Gold
+1936,Skating,Speed skating,Men,1500M,NOR,Silver
+1936,Skating,Speed skating,Men,5000M,FIN,Bronze
+1936,Skating,Speed skating,Men,5000M,NOR,Gold
+1936,Skating,Speed skating,Men,5000M,FIN,Silver
+1936,Skating,Speed skating,Men,500M,USA,Bronze
+1936,Skating,Speed skating,Men,500M,NOR,Gold
+1936,Skating,Speed skating,Men,500M,NOR,Silver
+1936,Skiing,Alpine Skiing,Men,Alpine Combined,FRA,Bronze
+1936,Skiing,Alpine Skiing,Men,Alpine Combined,GER,Gold
+1936,Skiing,Alpine Skiing,Men,Alpine Combined,GER,Silver
+1936,Skiing,Alpine Skiing,Women,Alpine Combined,NOR,Bronze
+1936,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Gold
+1936,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Silver
+1936,Skiing,Cross Country Skiing,Men,18KM,FIN,Bronze
+1936,Skiing,Cross Country Skiing,Men,18KM,SWE,Gold
+1936,Skiing,Cross Country Skiing,Men,18KM,NOR,Silver
+1936,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Bronze
+1936,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Gold
+1936,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1936,Skiing,Cross Country Skiing,Men,50KM,SWE,Bronze
+1936,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1936,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1936,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1936,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1936,Skiing,Nordic Combined,Men,Individual,NOR,Silver
+1936,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Bronze
+1936,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1936,Skiing,Ski Jumping,Men,K90 Individual (70M),SWE,Silver
+1948,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Bronze
+1948,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Gold
+1948,Bobsleigh,Bobsleigh,Men,Four-Man,BEL,Silver
+1948,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Bronze
+1948,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Gold
+1948,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+1948,Bobsleigh,Skeleton,Men,Individual,GBR,Bronze
+1948,Bobsleigh,Skeleton,Men,Individual,ITA,Gold
+1948,Bobsleigh,Skeleton,Men,Individual,USA,Silver
+1948,Ice Hockey,Ice Hockey,Men,Ice Hockey,SUI,Bronze
+1948,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+1948,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Silver
+1948,Skating,Figure skating,Men,Individual,AUT,Bronze
+1948,Skating,Figure skating,Men,Individual,USA,Gold
+1948,Skating,Figure skating,Men,Individual,SUI,Silver
+1948,Skating,Figure skating,Women,Individual,GBR,Bronze
+1948,Skating,Figure skating,Women,Individual,CAN,Gold
+1948,Skating,Figure skating,Women,Individual,AUT,Silver
+1948,Skating,Figure skating,Men,Pairs,CAN,Bronze
+1948,Skating,Figure skating,Men,Pairs,BEL,Gold
+1948,Skating,Figure skating,Men,Pairs,HUN,Silver
+1948,Skating,Figure skating,Women,Pairs,CAN,Bronze
+1948,Skating,Figure skating,Women,Pairs,BEL,Gold
+1948,Skating,Figure skating,Women,Pairs,HUN,Silver
+1948,Skating,Speed skating,Men,10000M,FIN,Bronze
+1948,Skating,Speed skating,Men,10000M,SWE,Gold
+1948,Skating,Speed skating,Men,10000M,FIN,Silver
+1948,Skating,Speed skating,Men,1500M,NOR,Bronze
+1948,Skating,Speed skating,Men,1500M,NOR,Gold
+1948,Skating,Speed skating,Men,1500M,SWE,Silver
+1948,Skating,Speed skating,Men,5000M,SWE,Bronze
+1948,Skating,Speed skating,Men,5000M,NOR,Gold
+1948,Skating,Speed skating,Men,5000M,NOR,Silver
+1948,Skating,Speed skating,Men,500M,NOR,Gold
+1948,Skating,Speed skating,Men,500M,NOR,Silver
+1948,Skating,Speed skating,Men,500M,USA,Silver
+1948,Skating,Speed skating,Men,500M,USA,Silver
+1948,Skiing,Alpine Skiing,Men,Alpine Combined,FRA,Bronze
+1948,Skiing,Alpine Skiing,Men,Alpine Combined,FRA,Gold
+1948,Skiing,Alpine Skiing,Men,Alpine Combined,SUI,Silver
+1948,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Bronze
+1948,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Gold
+1948,Skiing,Alpine Skiing,Women,Alpine Combined,USA,Silver
+1948,Skiing,Alpine Skiing,Men,Downhill,SUI,Bronze
+1948,Skiing,Alpine Skiing,Men,Downhill,SUI,Bronze
+1948,Skiing,Alpine Skiing,Men,Downhill,FRA,Gold
+1948,Skiing,Alpine Skiing,Men,Downhill,AUT,Silver
+1948,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+1948,Skiing,Alpine Skiing,Women,Downhill,SUI,Gold
+1948,Skiing,Alpine Skiing,Women,Downhill,AUT,Silver
+1948,Skiing,Alpine Skiing,Men,Slalom,FRA,Bronze
+1948,Skiing,Alpine Skiing,Men,Slalom,SUI,Gold
+1948,Skiing,Alpine Skiing,Men,Slalom,FRA,Silver
+1948,Skiing,Alpine Skiing,Women,Slalom,AUT,Bronze
+1948,Skiing,Alpine Skiing,Women,Slalom,USA,Gold
+1948,Skiing,Alpine Skiing,Women,Slalom,SUI,Silver
+1948,Skiing,Cross Country Skiing,Men,18KM,SWE,Bronze
+1948,Skiing,Cross Country Skiing,Men,18KM,SWE,Gold
+1948,Skiing,Cross Country Skiing,Men,18KM,SWE,Silver
+1948,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Bronze
+1948,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+1948,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Silver
+1948,Skiing,Cross Country Skiing,Men,50KM,FIN,Bronze
+1948,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1948,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1948,Skiing,Nordic Combined,Men,Individual,SWE,Bronze
+1948,Skiing,Nordic Combined,Men,Individual,FIN,Gold
+1948,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1948,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Bronze
+1948,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1948,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1952,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Bronze
+1952,Bobsleigh,Bobsleigh,Men,Four-Man,FRG,Gold
+1952,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Silver
+1952,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+1952,Bobsleigh,Bobsleigh,Men,Two-Man,FRG,Gold
+1952,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Silver
+1952,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Bronze
+1952,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+1952,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+1952,Skating,Figure skating,Men,Individual,USA,Bronze
+1952,Skating,Figure skating,Men,Individual,USA,Gold
+1952,Skating,Figure skating,Men,Individual,AUT,Silver
+1952,Skating,Figure skating,Women,Individual,FRA,Bronze
+1952,Skating,Figure skating,Women,Individual,GBR,Gold
+1952,Skating,Figure skating,Women,Individual,USA,Silver
+1952,Skating,Figure skating,Men,Pairs,HUN,Bronze
+1952,Skating,Figure skating,Men,Pairs,FRG,Gold
+1952,Skating,Figure skating,Men,Pairs,USA,Silver
+1952,Skating,Figure skating,Women,Pairs,HUN,Bronze
+1952,Skating,Figure skating,Women,Pairs,FRG,Gold
+1952,Skating,Figure skating,Women,Pairs,USA,Silver
+1952,Skating,Speed skating,Men,10000M,SWE,Bronze
+1952,Skating,Speed skating,Men,10000M,NOR,Gold
+1952,Skating,Speed skating,Men,10000M,NED,Silver
+1952,Skating,Speed skating,Men,1500M,NOR,Bronze
+1952,Skating,Speed skating,Men,1500M,NOR,Gold
+1952,Skating,Speed skating,Men,1500M,NED,Silver
+1952,Skating,Speed skating,Men,5000M,NOR,Bronze
+1952,Skating,Speed skating,Men,5000M,NOR,Gold
+1952,Skating,Speed skating,Men,5000M,NED,Silver
+1952,Skating,Speed skating,Men,500M,CAN,Bronze
+1952,Skating,Speed skating,Men,500M,NOR,Bronze
+1952,Skating,Speed skating,Men,500M,USA,Gold
+1952,Skating,Speed skating,Men,500M,USA,Silver
+1952,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1952,Skiing,Alpine Skiing,Men,Downhill,ITA,Gold
+1952,Skiing,Alpine Skiing,Men,Downhill,AUT,Silver
+1952,Skiing,Alpine Skiing,Women,Downhill,ITA,Bronze
+1952,Skiing,Alpine Skiing,Women,Downhill,AUT,Gold
+1952,Skiing,Alpine Skiing,Women,Downhill,FRG,Silver
+1952,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1952,Skiing,Alpine Skiing,Men,Giant Slalom,NOR,Gold
+1952,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1952,Skiing,Alpine Skiing,Women,Giant Slalom,FRG,Bronze
+1952,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Gold
+1952,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+1952,Skiing,Alpine Skiing,Men,Slalom,NOR,Bronze
+1952,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+1952,Skiing,Alpine Skiing,Men,Slalom,NOR,Silver
+1952,Skiing,Alpine Skiing,Women,Slalom,FRG,Bronze
+1952,Skiing,Alpine Skiing,Women,Slalom,USA,Gold
+1952,Skiing,Alpine Skiing,Women,Slalom,FRG,Silver
+1952,Skiing,Cross Country Skiing,Women,10KM,FIN,Bronze
+1952,Skiing,Cross Country Skiing,Women,10KM,FIN,Gold
+1952,Skiing,Cross Country Skiing,Women,10KM,FIN,Silver
+1952,Skiing,Cross Country Skiing,Men,18KM,FIN,Bronze
+1952,Skiing,Cross Country Skiing,Men,18KM,NOR,Gold
+1952,Skiing,Cross Country Skiing,Men,18KM,FIN,Silver
+1952,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Bronze
+1952,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Gold
+1952,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1952,Skiing,Cross Country Skiing,Men,50KM,NOR,Bronze
+1952,Skiing,Cross Country Skiing,Men,50KM,FIN,Gold
+1952,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1952,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1952,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1952,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1952,Skiing,Ski Jumping,Men,K90 Individual (70M),SWE,Bronze
+1952,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1952,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1956,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Bronze
+1956,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Gold
+1956,Bobsleigh,Bobsleigh,Men,Four-Man,ITA,Silver
+1956,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+1956,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Gold
+1956,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Silver
+1956,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Bronze
+1956,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1956,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+1956,Skating,Figure skating,Men,Individual,USA,Bronze
+1956,Skating,Figure skating,Men,Individual,USA,Gold
+1956,Skating,Figure skating,Men,Individual,USA,Silver
+1956,Skating,Figure skating,Women,Individual,AUT,Bronze
+1956,Skating,Figure skating,Women,Individual,USA,Gold
+1956,Skating,Figure skating,Women,Individual,USA,Silver
+1956,Skating,Figure skating,Men,Pairs,HUN,Bronze
+1956,Skating,Figure skating,Men,Pairs,AUT,Gold
+1956,Skating,Figure skating,Men,Pairs,CAN,Silver
+1956,Skating,Figure skating,Women,Pairs,HUN,Bronze
+1956,Skating,Figure skating,Women,Pairs,AUT,Gold
+1956,Skating,Figure skating,Women,Pairs,CAN,Silver
+1956,Skating,Speed skating,Men,10000M,URS,Bronze
+1956,Skating,Speed skating,Men,10000M,SWE,Gold
+1956,Skating,Speed skating,Men,10000M,NOR,Silver
+1956,Skating,Speed skating,Men,1500M,FIN,Bronze
+1956,Skating,Speed skating,Men,1500M,URS,Gold
+1956,Skating,Speed skating,Men,1500M,URS,Gold
+1956,Skating,Speed skating,Men,5000M,URS,Bronze
+1956,Skating,Speed skating,Men,5000M,URS,Gold
+1956,Skating,Speed skating,Men,5000M,SWE,Silver
+1956,Skating,Speed skating,Men,500M,NOR,Bronze
+1956,Skating,Speed skating,Men,500M,URS,Gold
+1956,Skating,Speed skating,Men,500M,URS,Silver
+1956,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1956,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+1956,Skiing,Alpine Skiing,Men,Downhill,SUI,Silver
+1956,Skiing,Alpine Skiing,Women,Downhill,CAN,Bronze
+1956,Skiing,Alpine Skiing,Women,Downhill,SUI,Gold
+1956,Skiing,Alpine Skiing,Women,Downhill,SUI,Silver
+1956,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1956,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Gold
+1956,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1956,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Bronze
+1956,Skiing,Alpine Skiing,Women,Giant Slalom,EUA,Gold
+1956,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+1956,Skiing,Alpine Skiing,Men,Slalom,SWE,Bronze
+1956,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+1956,Skiing,Alpine Skiing,Men,Slalom,JPN,Silver
+1956,Skiing,Alpine Skiing,Women,Slalom,URS,Bronze
+1956,Skiing,Alpine Skiing,Women,Slalom,SUI,Gold
+1956,Skiing,Alpine Skiing,Women,Slalom,AUT,Silver
+1956,Skiing,Cross Country Skiing,Women,10KM,SWE,Bronze
+1956,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1956,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1956,Skiing,Cross Country Skiing,Men,15KM,URS,Bronze
+1956,Skiing,Cross Country Skiing,Men,15KM,NOR,Gold
+1956,Skiing,Cross Country Skiing,Men,15KM,SWE,Silver
+1956,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Bronze
+1956,Skiing,Cross Country Skiing,Men,30KM Mass Start,FIN,Gold
+1956,Skiing,Cross Country Skiing,Men,30KM Mass Start,SWE,Silver
+1956,Skiing,Cross Country Skiing,Women,3X5KM Relay,SWE,Bronze
+1956,Skiing,Cross Country Skiing,Women,3X5KM Relay,FIN,Gold
+1956,Skiing,Cross Country Skiing,Women,3X5KM Relay,URS,Silver
+1956,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Bronze
+1956,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Gold
+1956,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Silver
+1956,Skiing,Cross Country Skiing,Men,50KM,URS,Bronze
+1956,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1956,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1956,Skiing,Nordic Combined,Men,Individual,POL,Bronze
+1956,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1956,Skiing,Nordic Combined,Men,Individual,SWE,Silver
+1956,Skiing,Ski Jumping,Men,K90 Individual (70M),EUA,Bronze
+1956,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Gold
+1956,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Silver
+1960,Biathlon,Biathlon,Men,20KM,URS,Bronze
+1960,Biathlon,Biathlon,Men,20KM,SWE,Gold
+1960,Biathlon,Biathlon,Men,20KM,FIN,Silver
+1960,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Bronze
+1960,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Gold
+1960,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Silver
+1960,Skating,Figure skating,Men,Individual,CAN,Bronze
+1960,Skating,Figure skating,Men,Individual,USA,Gold
+1960,Skating,Figure skating,Men,Individual,TCH,Silver
+1960,Skating,Figure skating,Women,Individual,USA,Bronze
+1960,Skating,Figure skating,Women,Individual,USA,Gold
+1960,Skating,Figure skating,Women,Individual,NED,Silver
+1960,Skating,Figure skating,Men,Pairs,USA,Bronze
+1960,Skating,Figure skating,Men,Pairs,CAN,Gold
+1960,Skating,Figure skating,Men,Pairs,EUA,Silver
+1960,Skating,Figure skating,Women,Pairs,USA,Bronze
+1960,Skating,Figure skating,Women,Pairs,CAN,Gold
+1960,Skating,Figure skating,Women,Pairs,EUA,Silver
+1960,Skating,Speed skating,Men,10000M,SWE,Bronze
+1960,Skating,Speed skating,Men,10000M,NOR,Gold
+1960,Skating,Speed skating,Men,10000M,URS,Silver
+1960,Skating,Speed skating,Women,1000M,URS,Bronze
+1960,Skating,Speed skating,Women,1000M,URS,Gold
+1960,Skating,Speed skating,Women,1000M,EUA,Silver
+1960,Skating,Speed skating,Men,1500M,URS,Bronze
+1960,Skating,Speed skating,Men,1500M,NOR,Gold
+1960,Skating,Speed skating,Men,1500M,URS,Gold
+1960,Skating,Speed skating,Women,1500M,POL,Bronze
+1960,Skating,Speed skating,Women,1500M,URS,Gold
+1960,Skating,Speed skating,Women,1500M,POL,Silver
+1960,Skating,Speed skating,Women,3000M,FIN,Bronze
+1960,Skating,Speed skating,Women,3000M,URS,Gold
+1960,Skating,Speed skating,Women,3000M,URS,Silver
+1960,Skating,Speed skating,Men,5000M,NED,Bronze
+1960,Skating,Speed skating,Men,5000M,URS,Gold
+1960,Skating,Speed skating,Men,5000M,NOR,Silver
+1960,Skating,Speed skating,Men,500M,URS,Bronze
+1960,Skating,Speed skating,Men,500M,URS,Gold
+1960,Skating,Speed skating,Men,500M,USA,Silver
+1960,Skating,Speed skating,Women,500M,USA,Bronze
+1960,Skating,Speed skating,Women,500M,EUA,Gold
+1960,Skating,Speed skating,Women,500M,URS,Silver
+1960,Skiing,Alpine Skiing,Men,Downhill,FRA,Bronze
+1960,Skiing,Alpine Skiing,Men,Downhill,FRA,Gold
+1960,Skiing,Alpine Skiing,Men,Downhill,EUA,Silver
+1960,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+1960,Skiing,Alpine Skiing,Women,Downhill,EUA,Gold
+1960,Skiing,Alpine Skiing,Women,Downhill,USA,Silver
+1960,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1960,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Gold
+1960,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1960,Skiing,Alpine Skiing,Women,Giant Slalom,ITA,Bronze
+1960,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Gold
+1960,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Silver
+1960,Skiing,Alpine Skiing,Men,Slalom,FRA,Bronze
+1960,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+1960,Skiing,Alpine Skiing,Men,Slalom,AUT,Silver
+1960,Skiing,Alpine Skiing,Women,Slalom,EUA,Bronze
+1960,Skiing,Alpine Skiing,Women,Slalom,CAN,Gold
+1960,Skiing,Alpine Skiing,Women,Slalom,USA,Silver
+1960,Skiing,Cross Country Skiing,Women,10KM,URS,Bronze
+1960,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1960,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1960,Skiing,Cross Country Skiing,Men,15KM,FIN,Bronze
+1960,Skiing,Cross Country Skiing,Men,15KM,NOR,Gold
+1960,Skiing,Cross Country Skiing,Men,15KM,SWE,Silver
+1960,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Bronze
+1960,Skiing,Cross Country Skiing,Men,30KM Mass Start,SWE,Gold
+1960,Skiing,Cross Country Skiing,Men,30KM Mass Start,SWE,Silver
+1960,Skiing,Cross Country Skiing,Women,3X5KM Relay,FIN,Bronze
+1960,Skiing,Cross Country Skiing,Women,3X5KM Relay,SWE,Gold
+1960,Skiing,Cross Country Skiing,Women,3X5KM Relay,URS,Silver
+1960,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Bronze
+1960,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Gold
+1960,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1960,Skiing,Cross Country Skiing,Men,50KM,SWE,Bronze
+1960,Skiing,Cross Country Skiing,Men,50KM,FIN,Gold
+1960,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1960,Skiing,Nordic Combined,Men,Individual,URS,Bronze
+1960,Skiing,Nordic Combined,Men,Individual,EUA,Gold
+1960,Skiing,Nordic Combined,Men,Individual,NOR,Silver
+1960,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Bronze
+1960,Skiing,Ski Jumping,Men,K90 Individual (70M),EUA,Gold
+1960,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Silver
+1964,Biathlon,Biathlon,Men,20KM,NOR,Bronze
+1964,Biathlon,Biathlon,Men,20KM,URS,Gold
+1964,Biathlon,Biathlon,Men,20KM,URS,Silver
+1964,Bobsleigh,Bobsleigh,Men,Four-Man,ITA,Bronze
+1964,Bobsleigh,Bobsleigh,Men,Four-Man,CAN,Gold
+1964,Bobsleigh,Bobsleigh,Men,Four-Man,AUT,Silver
+1964,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Bronze
+1964,Bobsleigh,Bobsleigh,Men,Two-Man,GBR,Gold
+1964,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Silver
+1964,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Bronze
+1964,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1964,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Silver
+1964,Luge,Luge,Men,Doubles,ITA,Bronze
+1964,Luge,Luge,Men,Doubles,AUT,Gold
+1964,Luge,Luge,Men,Doubles,AUT,Silver
+1964,Luge,Luge,Men,Singles,EUA,Bronze
+1964,Luge,Luge,Men,Singles,EUA,Gold
+1964,Luge,Luge,Men,Singles,EUA,Silver
+1964,Luge,Luge,Women,Singles,AUT,Bronze
+1964,Luge,Luge,Women,Singles,EUA,Gold
+1964,Luge,Luge,Women,Singles,EUA,Silver
+1964,Skating,Figure skating,Men,Individual,USA,Bronze
+1964,Skating,Figure skating,Men,Individual,EUA,Gold
+1964,Skating,Figure skating,Men,Individual,FRA,Silver
+1964,Skating,Figure skating,Women,Individual,CAN,Bronze
+1964,Skating,Figure skating,Women,Individual,NED,Gold
+1964,Skating,Figure skating,Women,Individual,AUT,Silver
+1964,Skating,Figure skating,Men,Pairs,USA,Bronze
+1964,Skating,Figure skating,Men,Pairs,URS,Gold
+1964,Skating,Figure skating,Men,Pairs,CAN,Silver
+1964,Skating,Figure skating,Men,Pairs,EUA,Silver
+1964,Skating,Figure skating,Women,Pairs,USA,Bronze
+1964,Skating,Figure skating,Women,Pairs,URS,Gold
+1964,Skating,Figure skating,Women,Pairs,CAN,Silver
+1964,Skating,Figure skating,Women,Pairs,EUA,Silver
+1964,Skating,Speed skating,Men,10000M,NOR,Bronze
+1964,Skating,Speed skating,Men,10000M,SWE,Gold
+1964,Skating,Speed skating,Men,10000M,NOR,Silver
+1964,Skating,Speed skating,Women,1000M,FIN,Bronze
+1964,Skating,Speed skating,Women,1000M,URS,Gold
+1964,Skating,Speed skating,Women,1000M,URS,Silver
+1964,Skating,Speed skating,Men,1500M,NOR,Bronze
+1964,Skating,Speed skating,Men,1500M,URS,Gold
+1964,Skating,Speed skating,Men,1500M,NED,Silver
+1964,Skating,Speed skating,Women,1500M,URS,Bronze
+1964,Skating,Speed skating,Women,1500M,URS,Gold
+1964,Skating,Speed skating,Women,1500M,FIN,Silver
+1964,Skating,Speed skating,Women,3000M,URS,Gold
+1964,Skating,Speed skating,Women,3000M,PRK,Silver
+1964,Skating,Speed skating,Women,3000M,URS,Silver
+1964,Skating,Speed skating,Men,5000M,NOR,Bronze
+1964,Skating,Speed skating,Men,5000M,NOR,Gold
+1964,Skating,Speed skating,Men,5000M,NOR,Silver
+1964,Skating,Speed skating,Men,500M,USA,Gold
+1964,Skating,Speed skating,Men,500M,NOR,Silver
+1964,Skating,Speed skating,Men,500M,URS,Silver
+1964,Skating,Speed skating,Men,500M,URS,Silver
+1964,Skating,Speed skating,Women,500M,URS,Bronze
+1964,Skating,Speed skating,Women,500M,URS,Gold
+1964,Skating,Speed skating,Women,500M,URS,Silver
+1964,Skiing,Alpine Skiing,Men,Downhill,EUA,Bronze
+1964,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+1964,Skiing,Alpine Skiing,Men,Downhill,FRA,Silver
+1964,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+1964,Skiing,Alpine Skiing,Women,Downhill,AUT,Gold
+1964,Skiing,Alpine Skiing,Women,Downhill,AUT,Silver
+1964,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1964,Skiing,Alpine Skiing,Men,Giant Slalom,FRA,Gold
+1964,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1964,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Gold
+1964,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Silver
+1964,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Silver
+1964,Skiing,Alpine Skiing,Men,Slalom,USA,Bronze
+1964,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+1964,Skiing,Alpine Skiing,Men,Slalom,USA,Silver
+1964,Skiing,Alpine Skiing,Women,Slalom,USA,Bronze
+1964,Skiing,Alpine Skiing,Women,Slalom,FRA,Gold
+1964,Skiing,Alpine Skiing,Women,Slalom,FRA,Silver
+1964,Skiing,Cross Country Skiing,Women,10KM,URS,Bronze
+1964,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1964,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1964,Skiing,Cross Country Skiing,Men,15KM,SWE,Bronze
+1964,Skiing,Cross Country Skiing,Men,15KM,FIN,Gold
+1964,Skiing,Cross Country Skiing,Men,15KM,NOR,Silver
+1964,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Bronze
+1964,Skiing,Cross Country Skiing,Men,30KM Mass Start,FIN,Gold
+1964,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1964,Skiing,Cross Country Skiing,Women,3X5KM Relay,FIN,Bronze
+1964,Skiing,Cross Country Skiing,Women,3X5KM Relay,URS,Gold
+1964,Skiing,Cross Country Skiing,Women,3X5KM Relay,SWE,Silver
+1964,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Bronze
+1964,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+1964,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Silver
+1964,Skiing,Cross Country Skiing,Men,50KM,FIN,Bronze
+1964,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1964,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1964,Skiing,Cross Country Skiing,Women,5KM,URS,Bronze
+1964,Skiing,Cross Country Skiing,Women,5KM,URS,Gold
+1964,Skiing,Cross Country Skiing,Women,5KM,FIN,Silver
+1964,Skiing,Nordic Combined,Men,Individual,EUA,Bronze
+1964,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1964,Skiing,Nordic Combined,Men,Individual,URS,Silver
+1964,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Bronze
+1964,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Gold
+1964,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Silver
+1964,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Bronze
+1964,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Gold
+1964,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1968,Biathlon,Biathlon,Men,20KM,URS,Bronze
+1968,Biathlon,Biathlon,Men,20KM,NOR,Gold
+1968,Biathlon,Biathlon,Men,20KM,URS,Silver
+1968,Biathlon,Biathlon,Men,4X7.5KM Relay,SWE,Bronze
+1968,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1968,Biathlon,Biathlon,Men,4X7.5KM Relay,NOR,Silver
+1968,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Bronze
+1968,Bobsleigh,Bobsleigh,Men,Four-Man,ITA,Gold
+1968,Bobsleigh,Bobsleigh,Men,Four-Man,AUT,Silver
+1968,Bobsleigh,Bobsleigh,Men,Two-Man,ROU,Bronze
+1968,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Gold
+1968,Bobsleigh,Bobsleigh,Men,Two-Man,FRG,Silver
+1968,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Bronze
+1968,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1968,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Silver
+1968,Luge,Luge,Men,Doubles,FRG,Bronze
+1968,Luge,Luge,Men,Doubles,GDR,Gold
+1968,Luge,Luge,Men,Doubles,AUT,Silver
+1968,Luge,Luge,Men,Singles,GDR,Bronze
+1968,Luge,Luge,Men,Singles,AUT,Gold
+1968,Luge,Luge,Men,Singles,GDR,Silver
+1968,Luge,Luge,Women,Singles,FRG,Bronze
+1968,Luge,Luge,Women,Singles,ITA,Gold
+1968,Luge,Luge,Women,Singles,FRG,Silver
+1968,Skating,Figure skating,Men,Individual,FRA,Bronze
+1968,Skating,Figure skating,Men,Individual,AUT,Gold
+1968,Skating,Figure skating,Men,Individual,USA,Silver
+1968,Skating,Figure skating,Women,Individual,TCH,Bronze
+1968,Skating,Figure skating,Women,Individual,USA,Gold
+1968,Skating,Figure skating,Women,Individual,GDR,Silver
+1968,Skating,Figure skating,Men,Pairs,FRG,Bronze
+1968,Skating,Figure skating,Men,Pairs,URS,Gold
+1968,Skating,Figure skating,Men,Pairs,URS,Silver
+1968,Skating,Figure skating,Women,Pairs,FRG,Bronze
+1968,Skating,Figure skating,Women,Pairs,URS,Gold
+1968,Skating,Figure skating,Women,Pairs,URS,Silver
+1968,Skating,Speed skating,Men,10000M,SWE,Bronze
+1968,Skating,Speed skating,Men,10000M,SWE,Gold
+1968,Skating,Speed skating,Men,10000M,NOR,Silver
+1968,Skating,Speed skating,Women,1000M,USA,Bronze
+1968,Skating,Speed skating,Women,1000M,NED,Gold
+1968,Skating,Speed skating,Women,1000M,URS,Silver
+1968,Skating,Speed skating,Men,1500M,NED,Gold
+1968,Skating,Speed skating,Men,1500M,NED,Silver
+1968,Skating,Speed skating,Men,1500M,NOR,Silver
+1968,Skating,Speed skating,Women,1500M,NED,Bronze
+1968,Skating,Speed skating,Women,1500M,FIN,Gold
+1968,Skating,Speed skating,Women,1500M,NED,Silver
+1968,Skating,Speed skating,Women,3000M,NED,Bronze
+1968,Skating,Speed skating,Women,3000M,NED,Gold
+1968,Skating,Speed skating,Women,3000M,FIN,Silver
+1968,Skating,Speed skating,Men,5000M,NED,Bronze
+1968,Skating,Speed skating,Men,5000M,NOR,Gold
+1968,Skating,Speed skating,Men,5000M,NED,Silver
+1968,Skating,Speed skating,Men,500M,FRG,Gold
+1968,Skating,Speed skating,Men,500M,NOR,Silver
+1968,Skating,Speed skating,Men,500M,USA,Silver
+1968,Skating,Speed skating,Women,500M,URS,Gold
+1968,Skating,Speed skating,Women,500M,USA,Silver
+1968,Skating,Speed skating,Women,500M,USA,Silver
+1968,Skating,Speed skating,Women,500M,USA,Silver
+1968,Skiing,Alpine Skiing,Men,Downhill,SUI,Bronze
+1968,Skiing,Alpine Skiing,Men,Downhill,FRA,Gold
+1968,Skiing,Alpine Skiing,Men,Downhill,FRA,Silver
+1968,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+1968,Skiing,Alpine Skiing,Women,Downhill,AUT,Gold
+1968,Skiing,Alpine Skiing,Women,Downhill,FRA,Silver
+1968,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1968,Skiing,Alpine Skiing,Men,Giant Slalom,FRA,Gold
+1968,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Silver
+1968,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Bronze
+1968,Skiing,Alpine Skiing,Women,Giant Slalom,CAN,Gold
+1968,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Silver
+1968,Skiing,Alpine Skiing,Men,Slalom,AUT,Bronze
+1968,Skiing,Alpine Skiing,Men,Slalom,FRA,Gold
+1968,Skiing,Alpine Skiing,Men,Slalom,AUT,Silver
+1968,Skiing,Alpine Skiing,Women,Slalom,FRA,Bronze
+1968,Skiing,Alpine Skiing,Women,Slalom,FRA,Gold
+1968,Skiing,Alpine Skiing,Women,Slalom,CAN,Silver
+1968,Skiing,Cross Country Skiing,Women,10KM,NOR,Bronze
+1968,Skiing,Cross Country Skiing,Women,10KM,SWE,Gold
+1968,Skiing,Cross Country Skiing,Women,10KM,NOR,Silver
+1968,Skiing,Cross Country Skiing,Men,15KM,SWE,Bronze
+1968,Skiing,Cross Country Skiing,Men,15KM,NOR,Gold
+1968,Skiing,Cross Country Skiing,Men,15KM,FIN,Silver
+1968,Skiing,Cross Country Skiing,Men,30KM Mass Start,FIN,Bronze
+1968,Skiing,Cross Country Skiing,Men,30KM Mass Start,ITA,Gold
+1968,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1968,Skiing,Cross Country Skiing,Women,3X5KM Relay,URS,Bronze
+1968,Skiing,Cross Country Skiing,Women,3X5KM Relay,NOR,Gold
+1968,Skiing,Cross Country Skiing,Women,3X5KM Relay,SWE,Silver
+1968,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1968,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Gold
+1968,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Silver
+1968,Skiing,Cross Country Skiing,Men,50KM,SUI,Bronze
+1968,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1968,Skiing,Cross Country Skiing,Men,50KM,URS,Silver
+1968,Skiing,Cross Country Skiing,Women,5KM,URS,Bronze
+1968,Skiing,Cross Country Skiing,Women,5KM,SWE,Gold
+1968,Skiing,Cross Country Skiing,Women,5KM,URS,Silver
+1968,Skiing,Nordic Combined,Men,Individual,GDR,Bronze
+1968,Skiing,Nordic Combined,Men,Individual,FRG,Gold
+1968,Skiing,Nordic Combined,Men,Individual,SUI,Silver
+1968,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Bronze
+1968,Skiing,Ski Jumping,Men,K120 Individual (90M),URS,Gold
+1968,Skiing,Ski Jumping,Men,K120 Individual (90M),TCH,Silver
+1968,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Bronze
+1968,Skiing,Ski Jumping,Men,K90 Individual (70M),TCH,Gold
+1968,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Silver
+1972,Biathlon,Biathlon,Men,20KM,SWE,Bronze
+1972,Biathlon,Biathlon,Men,20KM,NOR,Gold
+1972,Biathlon,Biathlon,Men,20KM,GDR,Silver
+1972,Biathlon,Biathlon,Men,4X7.5KM Relay,GDR,Bronze
+1972,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1972,Biathlon,Biathlon,Men,4X7.5KM Relay,FIN,Silver
+1972,Bobsleigh,Bobsleigh,Men,Four-Man,FRG,Bronze
+1972,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Gold
+1972,Bobsleigh,Bobsleigh,Men,Four-Man,ITA,Silver
+1972,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+1972,Bobsleigh,Bobsleigh,Men,Two-Man,FRG,Gold
+1972,Bobsleigh,Bobsleigh,Men,Two-Man,FRG,Silver
+1972,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Bronze
+1972,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1972,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+1972,Luge,Luge,Men,Doubles,GDR,Bronze
+1972,Luge,Luge,Men,Doubles,GDR,Gold
+1972,Luge,Luge,Men,Doubles,ITA,Gold
+1972,Luge,Luge,Men,Singles,GDR,Bronze
+1972,Luge,Luge,Men,Singles,GDR,Gold
+1972,Luge,Luge,Men,Singles,GDR,Silver
+1972,Luge,Luge,Women,Singles,GDR,Bronze
+1972,Luge,Luge,Women,Singles,GDR,Gold
+1972,Luge,Luge,Women,Singles,GDR,Silver
+1972,Skating,Figure skating,Men,Individual,FRA,Bronze
+1972,Skating,Figure skating,Men,Individual,TCH,Gold
+1972,Skating,Figure skating,Men,Individual,URS,Silver
+1972,Skating,Figure skating,Women,Individual,USA,Bronze
+1972,Skating,Figure skating,Women,Individual,AUT,Gold
+1972,Skating,Figure skating,Women,Individual,CAN,Silver
+1972,Skating,Figure skating,Men,Pairs,GDR,Bronze
+1972,Skating,Figure skating,Men,Pairs,URS,Gold
+1972,Skating,Figure skating,Men,Pairs,URS,Silver
+1972,Skating,Figure skating,Women,Pairs,GDR,Bronze
+1972,Skating,Figure skating,Women,Pairs,URS,Gold
+1972,Skating,Figure skating,Women,Pairs,URS,Silver
+1972,Skating,Speed skating,Men,10000M,NOR,Bronze
+1972,Skating,Speed skating,Men,10000M,NED,Gold
+1972,Skating,Speed skating,Men,10000M,NED,Silver
+1972,Skating,Speed skating,Women,1000M,USA,Bronze
+1972,Skating,Speed skating,Women,1000M,FRG,Gold
+1972,Skating,Speed skating,Women,1000M,NED,Silver
+1972,Skating,Speed skating,Men,1500M,SWE,Bronze
+1972,Skating,Speed skating,Men,1500M,NED,Gold
+1972,Skating,Speed skating,Men,1500M,NOR,Silver
+1972,Skating,Speed skating,Women,1500M,NED,Bronze
+1972,Skating,Speed skating,Women,1500M,USA,Gold
+1972,Skating,Speed skating,Women,1500M,NED,Silver
+1972,Skating,Speed skating,Women,3000M,NED,Bronze
+1972,Skating,Speed skating,Women,3000M,NED,Gold
+1972,Skating,Speed skating,Women,3000M,USA,Silver
+1972,Skating,Speed skating,Men,5000M,NOR,Bronze
+1972,Skating,Speed skating,Men,5000M,NED,Gold
+1972,Skating,Speed skating,Men,5000M,NOR,Silver
+1972,Skating,Speed skating,Men,500M,URS,Bronze
+1972,Skating,Speed skating,Men,500M,FRG,Gold
+1972,Skating,Speed skating,Men,500M,SWE,Silver
+1972,Skating,Speed skating,Women,500M,URS,Bronze
+1972,Skating,Speed skating,Women,500M,USA,Gold
+1972,Skating,Speed skating,Women,500M,URS,Silver
+1972,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1972,Skiing,Alpine Skiing,Men,Downhill,SUI,Gold
+1972,Skiing,Alpine Skiing,Men,Downhill,SUI,Silver
+1972,Skiing,Alpine Skiing,Women,Downhill,USA,Bronze
+1972,Skiing,Alpine Skiing,Women,Downhill,SUI,Gold
+1972,Skiing,Alpine Skiing,Women,Downhill,AUT,Silver
+1972,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Bronze
+1972,Skiing,Alpine Skiing,Men,Giant Slalom,ITA,Gold
+1972,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Silver
+1972,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Bronze
+1972,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Gold
+1972,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+1972,Skiing,Alpine Skiing,Men,Slalom,ITA,Bronze
+1972,Skiing,Alpine Skiing,Men,Slalom,ESP,Gold
+1972,Skiing,Alpine Skiing,Men,Slalom,ITA,Silver
+1972,Skiing,Alpine Skiing,Women,Slalom,FRA,Bronze
+1972,Skiing,Alpine Skiing,Women,Slalom,USA,Gold
+1972,Skiing,Alpine Skiing,Women,Slalom,FRA,Silver
+1972,Skiing,Cross Country Skiing,Women,10KM,FIN,Bronze
+1972,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1972,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1972,Skiing,Cross Country Skiing,Men,15KM,NOR,Bronze
+1972,Skiing,Cross Country Skiing,Men,15KM,SWE,Gold
+1972,Skiing,Cross Country Skiing,Men,15KM,URS,Silver
+1972,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Bronze
+1972,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Gold
+1972,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1972,Skiing,Cross Country Skiing,Women,3X5KM Relay,NOR,Bronze
+1972,Skiing,Cross Country Skiing,Women,3X5KM Relay,URS,Gold
+1972,Skiing,Cross Country Skiing,Women,3X5KM Relay,FIN,Silver
+1972,Skiing,Cross Country Skiing,Men,4X10KM Relay,SUI,Bronze
+1972,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Gold
+1972,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1972,Skiing,Cross Country Skiing,Men,50KM,URS,Bronze
+1972,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1972,Skiing,Cross Country Skiing,Men,50KM,NOR,Silver
+1972,Skiing,Cross Country Skiing,Women,5KM,TCH,Bronze
+1972,Skiing,Cross Country Skiing,Women,5KM,URS,Gold
+1972,Skiing,Cross Country Skiing,Women,5KM,FIN,Silver
+1972,Skiing,Nordic Combined,Men,Individual,GDR,Bronze
+1972,Skiing,Nordic Combined,Men,Individual,GDR,Gold
+1972,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1972,Skiing,Ski Jumping,Men,K120 Individual (90M),GDR,Bronze
+1972,Skiing,Ski Jumping,Men,K120 Individual (90M),POL,Gold
+1972,Skiing,Ski Jumping,Men,K120 Individual (90M),SUI,Silver
+1972,Skiing,Ski Jumping,Men,K90 Individual (70M),JPN,Bronze
+1972,Skiing,Ski Jumping,Men,K90 Individual (70M),JPN,Gold
+1972,Skiing,Ski Jumping,Men,K90 Individual (70M),JPN,Silver
+1976,Biathlon,Biathlon,Men,20KM,URS,Bronze
+1976,Biathlon,Biathlon,Men,20KM,URS,Gold
+1976,Biathlon,Biathlon,Men,20KM,FIN,Silver
+1976,Biathlon,Biathlon,Men,4X7.5KM Relay,GDR,Bronze
+1976,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1976,Biathlon,Biathlon,Men,4X7.5KM Relay,FIN,Silver
+1976,Bobsleigh,Bobsleigh,Men,Four-Man,FRG,Bronze
+1976,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Gold
+1976,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Silver
+1976,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+1976,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Gold
+1976,Bobsleigh,Bobsleigh,Men,Two-Man,FRG,Silver
+1976,Ice Hockey,Ice Hockey,Men,Ice Hockey,FRG,Bronze
+1976,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1976,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Silver
+1976,Luge,Luge,Men,Doubles,AUT,Bronze
+1976,Luge,Luge,Men,Doubles,GDR,Gold
+1976,Luge,Luge,Men,Doubles,FRG,Silver
+1976,Luge,Luge,Men,Singles,GDR,Bronze
+1976,Luge,Luge,Men,Singles,GDR,Gold
+1976,Luge,Luge,Men,Singles,FRG,Silver
+1976,Luge,Luge,Women,Singles,FRG,Bronze
+1976,Luge,Luge,Women,Singles,GDR,Gold
+1976,Luge,Luge,Women,Singles,GDR,Silver
+1976,Skating,Figure skating,Men,Ice Dancing,USA,Bronze
+1976,Skating,Figure skating,Men,Ice Dancing,URS,Gold
+1976,Skating,Figure skating,Men,Ice Dancing,URS,Silver
+1976,Skating,Figure skating,Women,Ice Dancing,USA,Bronze
+1976,Skating,Figure skating,Women,Ice Dancing,URS,Gold
+1976,Skating,Figure skating,Women,Ice Dancing,URS,Silver
+1976,Skating,Figure skating,Men,Individual,CAN,Bronze
+1976,Skating,Figure skating,Men,Individual,GBR,Gold
+1976,Skating,Figure skating,Men,Individual,URS,Silver
+1976,Skating,Figure skating,Women,Individual,GDR,Bronze
+1976,Skating,Figure skating,Women,Individual,USA,Gold
+1976,Skating,Figure skating,Women,Individual,NED,Silver
+1976,Skating,Figure skating,Men,Pairs,GDR,Bronze
+1976,Skating,Figure skating,Men,Pairs,URS,Gold
+1976,Skating,Figure skating,Men,Pairs,GDR,Silver
+1976,Skating,Figure skating,Women,Pairs,GDR,Bronze
+1976,Skating,Figure skating,Women,Pairs,URS,Gold
+1976,Skating,Figure skating,Women,Pairs,GDR,Silver
+1976,Skating,Speed skating,Men,10000M,NED,Bronze
+1976,Skating,Speed skating,Men,10000M,NED,Gold
+1976,Skating,Speed skating,Men,10000M,NOR,Silver
+1976,Skating,Speed skating,Men,1000M,URS,Bronze
+1976,Skating,Speed skating,Men,1000M,USA,Gold
+1976,Skating,Speed skating,Men,1000M,NOR,Silver
+1976,Skating,Speed skating,Women,1000M,USA,Bronze
+1976,Skating,Speed skating,Women,1000M,URS,Gold
+1976,Skating,Speed skating,Women,1000M,USA,Silver
+1976,Skating,Speed skating,Men,1500M,NED,Bronze
+1976,Skating,Speed skating,Men,1500M,NOR,Gold
+1976,Skating,Speed skating,Men,1500M,URS,Silver
+1976,Skating,Speed skating,Women,1500M,URS,Bronze
+1976,Skating,Speed skating,Women,1500M,URS,Gold
+1976,Skating,Speed skating,Women,1500M,USA,Silver
+1976,Skating,Speed skating,Women,3000M,NOR,Bronze
+1976,Skating,Speed skating,Women,3000M,URS,Gold
+1976,Skating,Speed skating,Women,3000M,GDR,Silver
+1976,Skating,Speed skating,Men,5000M,NED,Bronze
+1976,Skating,Speed skating,Men,5000M,NOR,Gold
+1976,Skating,Speed skating,Men,5000M,NED,Silver
+1976,Skating,Speed skating,Men,500M,USA,Bronze
+1976,Skating,Speed skating,Men,500M,URS,Gold
+1976,Skating,Speed skating,Men,500M,URS,Silver
+1976,Skating,Speed skating,Women,500M,URS,Bronze
+1976,Skating,Speed skating,Women,500M,USA,Gold
+1976,Skating,Speed skating,Women,500M,CAN,Silver
+1976,Skiing,Alpine Skiing,Men,Downhill,ITA,Bronze
+1976,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+1976,Skiing,Alpine Skiing,Men,Downhill,SUI,Silver
+1976,Skiing,Alpine Skiing,Women,Downhill,USA,Bronze
+1976,Skiing,Alpine Skiing,Women,Downhill,FRG,Gold
+1976,Skiing,Alpine Skiing,Women,Downhill,AUT,Silver
+1976,Skiing,Alpine Skiing,Men,Giant Slalom,SWE,Bronze
+1976,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Gold
+1976,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Silver
+1976,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Bronze
+1976,Skiing,Alpine Skiing,Women,Giant Slalom,CAN,Gold
+1976,Skiing,Alpine Skiing,Women,Giant Slalom,FRG,Silver
+1976,Skiing,Alpine Skiing,Men,Slalom,LIE,Bronze
+1976,Skiing,Alpine Skiing,Men,Slalom,ITA,Gold
+1976,Skiing,Alpine Skiing,Men,Slalom,ITA,Silver
+1976,Skiing,Alpine Skiing,Women,Slalom,LIE,Bronze
+1976,Skiing,Alpine Skiing,Women,Slalom,FRG,Gold
+1976,Skiing,Alpine Skiing,Women,Slalom,ITA,Silver
+1976,Skiing,Cross Country Skiing,Women,10KM,URS,Bronze
+1976,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1976,Skiing,Cross Country Skiing,Women,10KM,FIN,Silver
+1976,Skiing,Cross Country Skiing,Men,15KM,FIN,Bronze
+1976,Skiing,Cross Country Skiing,Men,15KM,URS,Gold
+1976,Skiing,Cross Country Skiing,Men,15KM,URS,Silver
+1976,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Bronze
+1976,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Gold
+1976,Skiing,Cross Country Skiing,Men,30KM Mass Start,USA,Silver
+1976,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Bronze
+1976,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Gold
+1976,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1976,Skiing,Cross Country Skiing,Women,4X5KM Relay,GDR,Bronze
+1976,Skiing,Cross Country Skiing,Women,4X5KM Relay,URS,Gold
+1976,Skiing,Cross Country Skiing,Women,4X5KM Relay,FIN,Silver
+1976,Skiing,Cross Country Skiing,Men,50KM,SWE,Bronze
+1976,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1976,Skiing,Cross Country Skiing,Men,50KM,GDR,Silver
+1976,Skiing,Cross Country Skiing,Women,5KM,URS,Bronze
+1976,Skiing,Cross Country Skiing,Women,5KM,FIN,Gold
+1976,Skiing,Cross Country Skiing,Women,5KM,URS,Silver
+1976,Skiing,Nordic Combined,Men,Individual,GDR,Bronze
+1976,Skiing,Nordic Combined,Men,Individual,GDR,Gold
+1976,Skiing,Nordic Combined,Men,Individual,FRG,Silver
+1976,Skiing,Ski Jumping,Men,K120 Individual (90M),GDR,Bronze
+1976,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Gold
+1976,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Silver
+1976,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Bronze
+1976,Skiing,Ski Jumping,Men,K90 Individual (70M),GDR,Gold
+1976,Skiing,Ski Jumping,Men,K90 Individual (70M),GDR,Silver
+1980,Biathlon,Biathlon,Men,10KM,URS,Bronze
+1980,Biathlon,Biathlon,Men,10KM,GDR,Gold
+1980,Biathlon,Biathlon,Men,10KM,URS,Silver
+1980,Biathlon,Biathlon,Men,20KM,GDR,Bronze
+1980,Biathlon,Biathlon,Men,20KM,URS,Gold
+1980,Biathlon,Biathlon,Men,20KM,GDR,Silver
+1980,Biathlon,Biathlon,Men,4X7.5KM Relay,FRG,Bronze
+1980,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1980,Biathlon,Biathlon,Men,4X7.5KM Relay,GDR,Silver
+1980,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Bronze
+1980,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Gold
+1980,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Silver
+1980,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Bronze
+1980,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Gold
+1980,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Silver
+1980,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Bronze
+1980,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Gold
+1980,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Silver
+1980,Luge,Luge,Men,Doubles,AUT,Bronze
+1980,Luge,Luge,Men,Doubles,GDR,Gold
+1980,Luge,Luge,Men,Doubles,ITA,Silver
+1980,Luge,Luge,Men,Singles,FRG,Bronze
+1980,Luge,Luge,Men,Singles,GDR,Gold
+1980,Luge,Luge,Men,Singles,ITA,Silver
+1980,Luge,Luge,Women,Singles,URS,Bronze
+1980,Luge,Luge,Women,Singles,URS,Gold
+1980,Luge,Luge,Women,Singles,GDR,Silver
+1980,Skating,Figure skating,Men,Ice Dancing,URS,Bronze
+1980,Skating,Figure skating,Men,Ice Dancing,URS,Gold
+1980,Skating,Figure skating,Men,Ice Dancing,HUN,Silver
+1980,Skating,Figure skating,Women,Ice Dancing,URS,Bronze
+1980,Skating,Figure skating,Women,Ice Dancing,URS,Gold
+1980,Skating,Figure skating,Women,Ice Dancing,HUN,Silver
+1980,Skating,Figure skating,Men,Individual,USA,Bronze
+1980,Skating,Figure skating,Men,Individual,GBR,Gold
+1980,Skating,Figure skating,Men,Individual,GDR,Silver
+1980,Skating,Figure skating,Women,Individual,FRG,Bronze
+1980,Skating,Figure skating,Women,Individual,GDR,Gold
+1980,Skating,Figure skating,Women,Individual,USA,Silver
+1980,Skating,Figure skating,Men,Pairs,GDR,Bronze
+1980,Skating,Figure skating,Men,Pairs,URS,Gold
+1980,Skating,Figure skating,Men,Pairs,URS,Silver
+1980,Skating,Figure skating,Women,Pairs,GDR,Bronze
+1980,Skating,Figure skating,Women,Pairs,URS,Gold
+1980,Skating,Figure skating,Women,Pairs,URS,Silver
+1980,Skating,Speed skating,Men,10000M,NOR,Bronze
+1980,Skating,Speed skating,Men,10000M,USA,Gold
+1980,Skating,Speed skating,Men,10000M,NED,Silver
+1980,Skating,Speed skating,Men,1000M,NOR,Bronze
+1980,Skating,Speed skating,Men,1000M,URS,Bronze
+1980,Skating,Speed skating,Men,1000M,USA,Gold
+1980,Skating,Speed skating,Men,1000M,CAN,Silver
+1980,Skating,Speed skating,Women,1000M,GDR,Bronze
+1980,Skating,Speed skating,Women,1000M,URS,Gold
+1980,Skating,Speed skating,Women,1000M,USA,Silver
+1980,Skating,Speed skating,Men,1500M,NOR,Bronze
+1980,Skating,Speed skating,Men,1500M,USA,Gold
+1980,Skating,Speed skating,Men,1500M,NOR,Silver
+1980,Skating,Speed skating,Women,1500M,GDR,Bronze
+1980,Skating,Speed skating,Women,1500M,NED,Gold
+1980,Skating,Speed skating,Women,1500M,NED,Silver
+1980,Skating,Speed skating,Women,3000M,USA,Bronze
+1980,Skating,Speed skating,Women,3000M,NOR,Gold
+1980,Skating,Speed skating,Women,3000M,GDR,Silver
+1980,Skating,Speed skating,Men,5000M,NOR,Bronze
+1980,Skating,Speed skating,Men,5000M,USA,Gold
+1980,Skating,Speed skating,Men,5000M,NOR,Silver
+1980,Skating,Speed skating,Men,500M,NED,Bronze
+1980,Skating,Speed skating,Men,500M,USA,Gold
+1980,Skating,Speed skating,Men,500M,URS,Silver
+1980,Skating,Speed skating,Women,500M,URS,Bronze
+1980,Skating,Speed skating,Women,500M,GDR,Gold
+1980,Skating,Speed skating,Women,500M,USA,Silver
+1980,Skiing,Alpine Skiing,Men,Downhill,CAN,Bronze
+1980,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+1980,Skiing,Alpine Skiing,Men,Downhill,AUT,Silver
+1980,Skiing,Alpine Skiing,Women,Downhill,SUI,Bronze
+1980,Skiing,Alpine Skiing,Women,Downhill,AUT,Gold
+1980,Skiing,Alpine Skiing,Women,Downhill,LIE,Silver
+1980,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1980,Skiing,Alpine Skiing,Men,Giant Slalom,SWE,Gold
+1980,Skiing,Alpine Skiing,Men,Giant Slalom,LIE,Silver
+1980,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Bronze
+1980,Skiing,Alpine Skiing,Women,Giant Slalom,LIE,Gold
+1980,Skiing,Alpine Skiing,Women,Giant Slalom,FRG,Silver
+1980,Skiing,Alpine Skiing,Men,Slalom,SUI,Bronze
+1980,Skiing,Alpine Skiing,Men,Slalom,SWE,Gold
+1980,Skiing,Alpine Skiing,Men,Slalom,USA,Silver
+1980,Skiing,Alpine Skiing,Women,Slalom,SUI,Bronze
+1980,Skiing,Alpine Skiing,Women,Slalom,LIE,Gold
+1980,Skiing,Alpine Skiing,Women,Slalom,FRG,Silver
+1980,Skiing,Cross Country Skiing,Women,10KM,FIN,Bronze
+1980,Skiing,Cross Country Skiing,Women,10KM,GDR,Gold
+1980,Skiing,Cross Country Skiing,Women,10KM,FIN,Silver
+1980,Skiing,Cross Country Skiing,Men,15KM,NOR,Bronze
+1980,Skiing,Cross Country Skiing,Men,15KM,SWE,Gold
+1980,Skiing,Cross Country Skiing,Men,15KM,FIN,Silver
+1980,Skiing,Cross Country Skiing,Men,30KM Mass Start,BUL,Bronze
+1980,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Gold
+1980,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Silver
+1980,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1980,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Gold
+1980,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1980,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Bronze
+1980,Skiing,Cross Country Skiing,Women,4X5KM Relay,GDR,Gold
+1980,Skiing,Cross Country Skiing,Women,4X5KM Relay,URS,Silver
+1980,Skiing,Cross Country Skiing,Men,50KM,URS,Bronze
+1980,Skiing,Cross Country Skiing,Men,50KM,URS,Gold
+1980,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1980,Skiing,Cross Country Skiing,Women,5KM,TCH,Bronze
+1980,Skiing,Cross Country Skiing,Women,5KM,URS,Gold
+1980,Skiing,Cross Country Skiing,Women,5KM,FIN,Silver
+1980,Skiing,Nordic Combined,Men,Individual,GDR,Bronze
+1980,Skiing,Nordic Combined,Men,Individual,GDR,Gold
+1980,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1980,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Bronze
+1980,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Gold
+1980,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Silver
+1980,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Gold
+1980,Skiing,Ski Jumping,Men,K90 Individual (70M),GDR,Silver
+1980,Skiing,Ski Jumping,Men,K90 Individual (70M),JPN,Silver
+1984,Biathlon,Biathlon,Men,10KM,GDR,Bronze
+1984,Biathlon,Biathlon,Men,10KM,NOR,Gold
+1984,Biathlon,Biathlon,Men,10KM,FRG,Silver
+1984,Biathlon,Biathlon,Men,20KM,NOR,Bronze
+1984,Biathlon,Biathlon,Men,20KM,FRG,Gold
+1984,Biathlon,Biathlon,Men,20KM,GDR,Silver
+1984,Biathlon,Biathlon,Men,4X7.5KM Relay,FRG,Bronze
+1984,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1984,Biathlon,Biathlon,Men,4X7.5KM Relay,NOR,Silver
+1984,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Bronze
+1984,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Gold
+1984,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Silver
+1984,Bobsleigh,Bobsleigh,Men,Two-Man,URS,Bronze
+1984,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Gold
+1984,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Silver
+1984,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Bronze
+1984,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1984,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Silver
+1984,Luge,Luge,Men,Doubles,GDR,Bronze
+1984,Luge,Luge,Men,Doubles,FRG,Gold
+1984,Luge,Luge,Men,Doubles,URS,Silver
+1984,Luge,Luge,Men,Singles,URS,Bronze
+1984,Luge,Luge,Men,Singles,ITA,Gold
+1984,Luge,Luge,Men,Singles,URS,Silver
+1984,Luge,Luge,Women,Singles,GDR,Bronze
+1984,Luge,Luge,Women,Singles,GDR,Gold
+1984,Luge,Luge,Women,Singles,GDR,Silver
+1984,Skating,Figure skating,Men,Ice Dancing,URS,Bronze
+1984,Skating,Figure skating,Men,Ice Dancing,GBR,Gold
+1984,Skating,Figure skating,Men,Ice Dancing,URS,Silver
+1984,Skating,Figure skating,Women,Ice Dancing,URS,Bronze
+1984,Skating,Figure skating,Women,Ice Dancing,GBR,Gold
+1984,Skating,Figure skating,Women,Ice Dancing,URS,Silver
+1984,Skating,Figure skating,Men,Individual,TCH,Bronze
+1984,Skating,Figure skating,Men,Individual,USA,Gold
+1984,Skating,Figure skating,Men,Individual,CAN,Silver
+1984,Skating,Figure skating,Women,Individual,URS,Bronze
+1984,Skating,Figure skating,Women,Individual,GDR,Gold
+1984,Skating,Figure skating,Women,Individual,USA,Silver
+1984,Skating,Figure skating,Men,Pairs,URS,Bronze
+1984,Skating,Figure skating,Men,Pairs,URS,Gold
+1984,Skating,Figure skating,Men,Pairs,USA,Silver
+1984,Skating,Figure skating,Women,Pairs,URS,Bronze
+1984,Skating,Figure skating,Women,Pairs,URS,Gold
+1984,Skating,Figure skating,Women,Pairs,USA,Silver
+1984,Skating,Speed skating,Men,10000M,GDR,Bronze
+1984,Skating,Speed skating,Men,10000M,URS,Gold
+1984,Skating,Speed skating,Men,10000M,SWE,Silver
+1984,Skating,Speed skating,Men,1000M,NOR,Bronze
+1984,Skating,Speed skating,Men,1000M,CAN,Gold
+1984,Skating,Speed skating,Men,1000M,URS,Silver
+1984,Skating,Speed skating,Women,1000M,URS,Bronze
+1984,Skating,Speed skating,Women,1000M,GDR,Gold
+1984,Skating,Speed skating,Women,1000M,GDR,Silver
+1984,Skating,Speed skating,Men,1500M,URS,Bronze
+1984,Skating,Speed skating,Men,1500M,CAN,Gold
+1984,Skating,Speed skating,Men,1500M,URS,Silver
+1984,Skating,Speed skating,Women,1500M,URS,Bronze
+1984,Skating,Speed skating,Women,1500M,GDR,Gold
+1984,Skating,Speed skating,Women,1500M,GDR,Silver
+1984,Skating,Speed skating,Women,3000M,GDR,Bronze
+1984,Skating,Speed skating,Women,3000M,GDR,Gold
+1984,Skating,Speed skating,Women,3000M,GDR,Silver
+1984,Skating,Speed skating,Men,5000M,GDR,Bronze
+1984,Skating,Speed skating,Men,5000M,SWE,Gold
+1984,Skating,Speed skating,Men,5000M,URS,Silver
+1984,Skating,Speed skating,Men,500M,CAN,Bronze
+1984,Skating,Speed skating,Men,500M,URS,Gold
+1984,Skating,Speed skating,Men,500M,JPN,Silver
+1984,Skating,Speed skating,Women,500M,URS,Bronze
+1984,Skating,Speed skating,Women,500M,GDR,Gold
+1984,Skating,Speed skating,Women,500M,GDR,Silver
+1984,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1984,Skiing,Alpine Skiing,Men,Downhill,USA,Gold
+1984,Skiing,Alpine Skiing,Men,Downhill,SUI,Silver
+1984,Skiing,Alpine Skiing,Women,Downhill,TCH,Bronze
+1984,Skiing,Alpine Skiing,Women,Downhill,SUI,Gold
+1984,Skiing,Alpine Skiing,Women,Downhill,SUI,Silver
+1984,Skiing,Alpine Skiing,Men,Giant Slalom,LIE,Bronze
+1984,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Gold
+1984,Skiing,Alpine Skiing,Men,Giant Slalom,YUG,Silver
+1984,Skiing,Alpine Skiing,Women,Giant Slalom,FRA,Bronze
+1984,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Gold
+1984,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Silver
+1984,Skiing,Alpine Skiing,Men,Slalom,FRA,Bronze
+1984,Skiing,Alpine Skiing,Men,Slalom,USA,Gold
+1984,Skiing,Alpine Skiing,Men,Slalom,USA,Silver
+1984,Skiing,Alpine Skiing,Women,Slalom,LIE,Bronze
+1984,Skiing,Alpine Skiing,Women,Slalom,ITA,Gold
+1984,Skiing,Alpine Skiing,Women,Slalom,FRA,Silver
+1984,Skiing,Cross Country Skiing,Women,10KM,NOR,Bronze
+1984,Skiing,Cross Country Skiing,Women,10KM,FIN,Gold
+1984,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1984,Skiing,Cross Country Skiing,Men,15KM,FIN,Bronze
+1984,Skiing,Cross Country Skiing,Men,15KM,SWE,Gold
+1984,Skiing,Cross Country Skiing,Men,15KM,FIN,Silver
+1984,Skiing,Cross Country Skiing,Women,20KM,NOR,Bronze
+1984,Skiing,Cross Country Skiing,Women,20KM,FIN,Gold
+1984,Skiing,Cross Country Skiing,Women,20KM,URS,Silver
+1984,Skiing,Cross Country Skiing,Men,30KM Mass Start,SWE,Bronze
+1984,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Gold
+1984,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Silver
+1984,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1984,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+1984,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Silver
+1984,Skiing,Cross Country Skiing,Women,4X5KM Relay,FIN,Bronze
+1984,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Gold
+1984,Skiing,Cross Country Skiing,Women,4X5KM Relay,TCH,Silver
+1984,Skiing,Cross Country Skiing,Men,50KM,FIN,Bronze
+1984,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1984,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1984,Skiing,Cross Country Skiing,Women,5KM,TCH,Bronze
+1984,Skiing,Cross Country Skiing,Women,5KM,FIN,Gold
+1984,Skiing,Cross Country Skiing,Women,5KM,NOR,Silver
+1984,Skiing,Nordic Combined,Men,Individual,FIN,Bronze
+1984,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1984,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1984,Skiing,Ski Jumping,Men,K120 Individual (90M),TCH,Bronze
+1984,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Gold
+1984,Skiing,Ski Jumping,Men,K120 Individual (90M),GDR,Silver
+1984,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Bronze
+1984,Skiing,Ski Jumping,Men,K90 Individual (70M),GDR,Gold
+1984,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Silver
+1988,Biathlon,Biathlon,Men,10KM,URS,Bronze
+1988,Biathlon,Biathlon,Men,10KM,GDR,Gold
+1988,Biathlon,Biathlon,Men,10KM,URS,Silver
+1988,Biathlon,Biathlon,Men,20KM,ITA,Bronze
+1988,Biathlon,Biathlon,Men,20KM,GDR,Gold
+1988,Biathlon,Biathlon,Men,20KM,URS,Silver
+1988,Biathlon,Biathlon,Men,4X7.5KM Relay,ITA,Bronze
+1988,Biathlon,Biathlon,Men,4X7.5KM Relay,URS,Gold
+1988,Biathlon,Biathlon,Men,4X7.5KM Relay,FRG,Silver
+1988,Bobsleigh,Bobsleigh,Men,Four-Man,URS,Bronze
+1988,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Gold
+1988,Bobsleigh,Bobsleigh,Men,Four-Man,GDR,Silver
+1988,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Bronze
+1988,Bobsleigh,Bobsleigh,Men,Two-Man,URS,Gold
+1988,Bobsleigh,Bobsleigh,Men,Two-Man,GDR,Silver
+1988,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Bronze
+1988,Ice Hockey,Ice Hockey,Men,Ice Hockey,URS,Gold
+1988,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Silver
+1988,Luge,Luge,Men,Doubles,FRG,Bronze
+1988,Luge,Luge,Men,Doubles,GDR,Gold
+1988,Luge,Luge,Men,Doubles,GDR,Silver
+1988,Luge,Luge,Men,Singles,URS,Bronze
+1988,Luge,Luge,Men,Singles,GDR,Gold
+1988,Luge,Luge,Men,Singles,FRG,Silver
+1988,Luge,Luge,Women,Singles,GDR,Bronze
+1988,Luge,Luge,Women,Singles,GDR,Gold
+1988,Luge,Luge,Women,Singles,GDR,Silver
+1988,Skating,Figure skating,Men,Ice Dancing,CAN,Bronze
+1988,Skating,Figure skating,Men,Ice Dancing,URS,Gold
+1988,Skating,Figure skating,Men,Ice Dancing,URS,Silver
+1988,Skating,Figure skating,Women,Ice Dancing,CAN,Bronze
+1988,Skating,Figure skating,Women,Ice Dancing,URS,Gold
+1988,Skating,Figure skating,Women,Ice Dancing,URS,Silver
+1988,Skating,Figure skating,Men,Individual,URS,Bronze
+1988,Skating,Figure skating,Men,Individual,USA,Gold
+1988,Skating,Figure skating,Men,Individual,CAN,Silver
+1988,Skating,Figure skating,Women,Individual,USA,Bronze
+1988,Skating,Figure skating,Women,Individual,GDR,Gold
+1988,Skating,Figure skating,Women,Individual,CAN,Silver
+1988,Skating,Figure skating,Men,Pairs,USA,Bronze
+1988,Skating,Figure skating,Men,Pairs,URS,Gold
+1988,Skating,Figure skating,Men,Pairs,URS,Silver
+1988,Skating,Figure skating,Women,Pairs,USA,Bronze
+1988,Skating,Figure skating,Women,Pairs,URS,Gold
+1988,Skating,Figure skating,Women,Pairs,URS,Silver
+1988,Skating,Speed skating,Men,10000M,NED,Bronze
+1988,Skating,Speed skating,Men,10000M,SWE,Gold
+1988,Skating,Speed skating,Men,10000M,AUT,Silver
+1988,Skating,Speed skating,Men,1000M,URS,Bronze
+1988,Skating,Speed skating,Men,1000M,URS,Gold
+1988,Skating,Speed skating,Men,1000M,GDR,Silver
+1988,Skating,Speed skating,Women,1000M,USA,Bronze
+1988,Skating,Speed skating,Women,1000M,GDR,Gold
+1988,Skating,Speed skating,Women,1000M,GDR,Silver
+1988,Skating,Speed skating,Men,1500M,AUT,Bronze
+1988,Skating,Speed skating,Men,1500M,GDR,Gold
+1988,Skating,Speed skating,Men,1500M,USA,Silver
+1988,Skating,Speed skating,Women,1500M,GDR,Bronze
+1988,Skating,Speed skating,Women,1500M,NED,Gold
+1988,Skating,Speed skating,Women,1500M,GDR,Silver
+1988,Skating,Speed skating,Women,3000M,GDR,Bronze
+1988,Skating,Speed skating,Women,3000M,NED,Gold
+1988,Skating,Speed skating,Women,3000M,GDR,Silver
+1988,Skating,Speed skating,Men,5000M,NED,Bronze
+1988,Skating,Speed skating,Men,5000M,SWE,Gold
+1988,Skating,Speed skating,Men,5000M,NED,Silver
+1988,Skating,Speed skating,Women,5000M,GDR,Bronze
+1988,Skating,Speed skating,Women,5000M,NED,Gold
+1988,Skating,Speed skating,Women,5000M,GDR,Silver
+1988,Skating,Speed skating,Men,500M,JPN,Bronze
+1988,Skating,Speed skating,Men,500M,GDR,Gold
+1988,Skating,Speed skating,Men,500M,NED,Silver
+1988,Skating,Speed skating,Women,500M,GDR,Bronze
+1988,Skating,Speed skating,Women,500M,USA,Gold
+1988,Skating,Speed skating,Women,500M,GDR,Silver
+1988,Skiing,Alpine Skiing,Men,Alpine Combined,SUI,Bronze
+1988,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Gold
+1988,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Silver
+1988,Skiing,Alpine Skiing,Women,Alpine Combined,SUI,Bronze
+1988,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Gold
+1988,Skiing,Alpine Skiing,Women,Alpine Combined,SUI,Silver
+1988,Skiing,Alpine Skiing,Men,Downhill,FRA,Bronze
+1988,Skiing,Alpine Skiing,Men,Downhill,SUI,Gold
+1988,Skiing,Alpine Skiing,Men,Downhill,SUI,Silver
+1988,Skiing,Alpine Skiing,Women,Downhill,CAN,Bronze
+1988,Skiing,Alpine Skiing,Women,Downhill,FRG,Gold
+1988,Skiing,Alpine Skiing,Women,Downhill,SUI,Silver
+1988,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Bronze
+1988,Skiing,Alpine Skiing,Men,Giant Slalom,ITA,Gold
+1988,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1988,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Bronze
+1988,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Gold
+1988,Skiing,Alpine Skiing,Women,Giant Slalom,FRG,Silver
+1988,Skiing,Alpine Skiing,Men,Slalom,LIE,Bronze
+1988,Skiing,Alpine Skiing,Men,Slalom,ITA,Gold
+1988,Skiing,Alpine Skiing,Men,Slalom,FRG,Silver
+1988,Skiing,Alpine Skiing,Women,Slalom,FRG,Bronze
+1988,Skiing,Alpine Skiing,Women,Slalom,SUI,Gold
+1988,Skiing,Alpine Skiing,Women,Slalom,YUG,Silver
+1988,Skiing,Alpine Skiing,Men,Super-G,SWE,Bronze
+1988,Skiing,Alpine Skiing,Men,Super-G,FRA,Gold
+1988,Skiing,Alpine Skiing,Men,Super-G,AUT,Silver
+1988,Skiing,Alpine Skiing,Women,Super-G,CAN,Bronze
+1988,Skiing,Alpine Skiing,Women,Super-G,AUT,Gold
+1988,Skiing,Alpine Skiing,Women,Super-G,SUI,Silver
+1988,Skiing,Cross Country Skiing,Women,10KM,FIN,Bronze
+1988,Skiing,Cross Country Skiing,Women,10KM,URS,Gold
+1988,Skiing,Cross Country Skiing,Women,10KM,URS,Silver
+1988,Skiing,Cross Country Skiing,Men,15KM,URS,Bronze
+1988,Skiing,Cross Country Skiing,Men,15KM,URS,Gold
+1988,Skiing,Cross Country Skiing,Men,15KM,NOR,Silver
+1988,Skiing,Cross Country Skiing,Women,20KM,URS,Bronze
+1988,Skiing,Cross Country Skiing,Women,20KM,URS,Gold
+1988,Skiing,Cross Country Skiing,Women,20KM,URS,Silver
+1988,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Bronze
+1988,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Gold
+1988,Skiing,Cross Country Skiing,Men,30KM Mass Start,URS,Silver
+1988,Skiing,Cross Country Skiing,Men,4X10KM Relay,TCH,Bronze
+1988,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+1988,Skiing,Cross Country Skiing,Men,4X10KM Relay,URS,Silver
+1988,Skiing,Cross Country Skiing,Women,4X5KM Relay,FIN,Bronze
+1988,Skiing,Cross Country Skiing,Women,4X5KM Relay,URS,Gold
+1988,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Silver
+1988,Skiing,Cross Country Skiing,Men,50KM,SUI,Bronze
+1988,Skiing,Cross Country Skiing,Men,50KM,SWE,Gold
+1988,Skiing,Cross Country Skiing,Men,50KM,ITA,Silver
+1988,Skiing,Cross Country Skiing,Women,5KM,URS,Bronze
+1988,Skiing,Cross Country Skiing,Women,5KM,FIN,Gold
+1988,Skiing,Cross Country Skiing,Women,5KM,URS,Silver
+1988,Skiing,Nordic Combined,Men,Individual,URS,Bronze
+1988,Skiing,Nordic Combined,Men,Individual,SUI,Gold
+1988,Skiing,Nordic Combined,Men,Individual,AUT,Silver
+1988,Skiing,Nordic Combined,Men,Team,AUT,Bronze
+1988,Skiing,Nordic Combined,Men,Team,FRG,Gold
+1988,Skiing,Nordic Combined,Men,Team,SUI,Silver
+1988,Skiing,Ski Jumping,Men,K120 Individual (90M),YUG,Bronze
+1988,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Gold
+1988,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Silver
+1988,Skiing,Ski Jumping,Men,K120 Team (90M),NOR,Bronze
+1988,Skiing,Ski Jumping,Men,K120 Team (90M),FIN,Gold
+1988,Skiing,Ski Jumping,Men,K120 Team (90M),YUG,Silver
+1988,Skiing,Ski Jumping,Men,K90 Individual (70M),TCH,Bronze
+1988,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Gold
+1988,Skiing,Ski Jumping,Men,K90 Individual (70M),TCH,Silver
+1992,Biathlon,Biathlon,Men,10KM,FIN,Bronze
+1992,Biathlon,Biathlon,Men,10KM,GER,Gold
+1992,Biathlon,Biathlon,Men,10KM,GER,Silver
+1992,Biathlon,Biathlon,Women,15KM,CAN,Bronze
+1992,Biathlon,Biathlon,Women,15KM,GER,Gold
+1992,Biathlon,Biathlon,Women,15KM,EUN,Silver
+1992,Biathlon,Biathlon,Men,20KM,SWE,Bronze
+1992,Biathlon,Biathlon,Men,20KM,EUN,Gold
+1992,Biathlon,Biathlon,Men,20KM,GER,Silver
+1992,Biathlon,Biathlon,Men,4X7.5KM Relay,SWE,Bronze
+1992,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Gold
+1992,Biathlon,Biathlon,Men,4X7.5KM Relay,EUN,Silver
+1992,Biathlon,Biathlon,Women,4X7.5KM Relay,EUN,Bronze
+1992,Biathlon,Biathlon,Women,4X7.5KM Relay,FRA,Gold
+1992,Biathlon,Biathlon,Women,4X7.5KM Relay,GER,Silver
+1992,Biathlon,Biathlon,Women,7.5KM,EUN,Bronze
+1992,Biathlon,Biathlon,Women,7.5KM,EUN,Gold
+1992,Biathlon,Biathlon,Women,7.5KM,GER,Silver
+1992,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Bronze
+1992,Bobsleigh,Bobsleigh,Men,Four-Man,AUT,Gold
+1992,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Silver
+1992,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Bronze
+1992,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Gold
+1992,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Silver
+1992,Ice Hockey,Ice Hockey,Men,Ice Hockey,TCH,Bronze
+1992,Ice Hockey,Ice Hockey,Men,Ice Hockey,EUN,Gold
+1992,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Silver
+1992,Luge,Luge,Men,Doubles,ITA,Bronze
+1992,Luge,Luge,Men,Doubles,GER,Gold
+1992,Luge,Luge,Men,Doubles,GER,Silver
+1992,Luge,Luge,Men,Singles,AUT,Bronze
+1992,Luge,Luge,Men,Singles,GER,Gold
+1992,Luge,Luge,Men,Singles,AUT,Silver
+1992,Luge,Luge,Women,Singles,GER,Bronze
+1992,Luge,Luge,Women,Singles,AUT,Gold
+1992,Luge,Luge,Women,Singles,AUT,Silver
+1992,Skating,Figure skating,Men,Ice Dancing,EUN,Bronze
+1992,Skating,Figure skating,Men,Ice Dancing,EUN,Gold
+1992,Skating,Figure skating,Men,Ice Dancing,FRA,Silver
+1992,Skating,Figure skating,Women,Ice Dancing,EUN,Bronze
+1992,Skating,Figure skating,Women,Ice Dancing,EUN,Gold
+1992,Skating,Figure skating,Women,Ice Dancing,FRA,Silver
+1992,Skating,Figure skating,Men,Individual,TCH,Bronze
+1992,Skating,Figure skating,Men,Individual,EUN,Gold
+1992,Skating,Figure skating,Men,Individual,USA,Silver
+1992,Skating,Figure skating,Women,Individual,USA,Bronze
+1992,Skating,Figure skating,Women,Individual,USA,Gold
+1992,Skating,Figure skating,Women,Individual,JPN,Silver
+1992,Skating,Figure skating,Men,Pairs,CAN,Bronze
+1992,Skating,Figure skating,Men,Pairs,EUN,Gold
+1992,Skating,Figure skating,Men,Pairs,EUN,Silver
+1992,Skating,Figure skating,Women,Pairs,CAN,Bronze
+1992,Skating,Figure skating,Women,Pairs,EUN,Gold
+1992,Skating,Figure skating,Women,Pairs,EUN,Silver
+1992,Skating,Short Track Speed Skating,Men,1000M,KOR,Bronze
+1992,Skating,Short Track Speed Skating,Men,1000M,KOR,Gold
+1992,Skating,Short Track Speed Skating,Men,1000M,CAN,Silver
+1992,Skating,Short Track Speed Skating,Women,3000M Relay,EUN,Bronze
+1992,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Gold
+1992,Skating,Short Track Speed Skating,Women,3000M Relay,USA,Silver
+1992,Skating,Short Track Speed Skating,Men,5000M Relay,JPN,Bronze
+1992,Skating,Short Track Speed Skating,Men,5000M Relay,KOR,Gold
+1992,Skating,Short Track Speed Skating,Men,5000M Relay,CAN,Silver
+1992,Skating,Short Track Speed Skating,Women,500M,PRK,Bronze
+1992,Skating,Short Track Speed Skating,Women,500M,USA,Gold
+1992,Skating,Short Track Speed Skating,Women,500M,CHN,Silver
+1992,Skating,Speed skating,Men,10000M,NOR,Bronze
+1992,Skating,Speed skating,Men,10000M,NED,Gold
+1992,Skating,Speed skating,Men,10000M,NOR,Silver
+1992,Skating,Speed skating,Men,1000M,JPN,Bronze
+1992,Skating,Speed skating,Men,1000M,GER,Gold
+1992,Skating,Speed skating,Men,1000M,KOR,Silver
+1992,Skating,Speed skating,Women,1000M,GER,Bronze
+1992,Skating,Speed skating,Women,1000M,USA,Gold
+1992,Skating,Speed skating,Women,1000M,CHN,Silver
+1992,Skating,Speed skating,Men,1500M,NED,Bronze
+1992,Skating,Speed skating,Men,1500M,NOR,Gold
+1992,Skating,Speed skating,Men,1500M,NOR,Silver
+1992,Skating,Speed skating,Women,1500M,JPN,Bronze
+1992,Skating,Speed skating,Women,1500M,GER,Gold
+1992,Skating,Speed skating,Women,1500M,GER,Silver
+1992,Skating,Speed skating,Women,3000M,AUT,Bronze
+1992,Skating,Speed skating,Women,3000M,GER,Gold
+1992,Skating,Speed skating,Women,3000M,GER,Silver
+1992,Skating,Speed skating,Men,5000M,NED,Bronze
+1992,Skating,Speed skating,Men,5000M,NOR,Gold
+1992,Skating,Speed skating,Men,5000M,NED,Silver
+1992,Skating,Speed skating,Women,5000M,GER,Bronze
+1992,Skating,Speed skating,Women,5000M,GER,Gold
+1992,Skating,Speed skating,Women,5000M,GER,Silver
+1992,Skating,Speed skating,Men,500M,JPN,Bronze
+1992,Skating,Speed skating,Men,500M,GER,Gold
+1992,Skating,Speed skating,Men,500M,JPN,Silver
+1992,Skating,Speed skating,Women,500M,GER,Bronze
+1992,Skating,Speed skating,Women,500M,USA,Gold
+1992,Skating,Speed skating,Women,500M,CHN,Silver
+1992,Skiing,Alpine Skiing,Men,Alpine Combined,SUI,Bronze
+1992,Skiing,Alpine Skiing,Men,Alpine Combined,ITA,Gold
+1992,Skiing,Alpine Skiing,Men,Alpine Combined,ITA,Silver
+1992,Skiing,Alpine Skiing,Women,Alpine Combined,FRA,Bronze
+1992,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Gold
+1992,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Silver
+1992,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1992,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+1992,Skiing,Alpine Skiing,Men,Downhill,FRA,Silver
+1992,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+1992,Skiing,Alpine Skiing,Women,Downhill,CAN,Gold
+1992,Skiing,Alpine Skiing,Women,Downhill,USA,Silver
+1992,Skiing,Alpine Skiing,Men,Giant Slalom,NOR,Bronze
+1992,Skiing,Alpine Skiing,Men,Giant Slalom,ITA,Gold
+1992,Skiing,Alpine Skiing,Men,Giant Slalom,LUX,Silver
+1992,Skiing,Alpine Skiing,Women,Giant Slalom,SWE,Gold
+1992,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+1992,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Silver
+1992,Skiing,Alpine Skiing,Men,Slalom,AUT,Bronze
+1992,Skiing,Alpine Skiing,Men,Slalom,NOR,Gold
+1992,Skiing,Alpine Skiing,Men,Slalom,ITA,Silver
+1992,Skiing,Alpine Skiing,Women,Slalom,ESP,Bronze
+1992,Skiing,Alpine Skiing,Women,Slalom,AUT,Gold
+1992,Skiing,Alpine Skiing,Women,Slalom,NZL,Silver
+1992,Skiing,Alpine Skiing,Men,Super-G,NOR,Bronze
+1992,Skiing,Alpine Skiing,Men,Super-G,NOR,Gold
+1992,Skiing,Alpine Skiing,Men,Super-G,LUX,Silver
+1992,Skiing,Alpine Skiing,Women,Super-G,GER,Bronze
+1992,Skiing,Alpine Skiing,Women,Super-G,ITA,Gold
+1992,Skiing,Alpine Skiing,Women,Super-G,FRA,Silver
+1992,Skiing,Cross Country Skiing,Men,10KM Pursuit,SWE,Bronze
+1992,Skiing,Cross Country Skiing,Men,10KM Pursuit,NOR,Gold
+1992,Skiing,Cross Country Skiing,Men,10KM Pursuit,ITA,Silver
+1992,Skiing,Cross Country Skiing,Women,15KM Mass Start,EUN,Bronze
+1992,Skiing,Cross Country Skiing,Women,15KM Mass Start,EUN,Gold
+1992,Skiing,Cross Country Skiing,Women,15KM Mass Start,FIN,Silver
+1992,Skiing,Cross Country Skiing,Women,30KM,EUN,Bronze
+1992,Skiing,Cross Country Skiing,Women,30KM,ITA,Gold
+1992,Skiing,Cross Country Skiing,Women,30KM,EUN,Silver
+1992,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Bronze
+1992,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Gold
+1992,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1992,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1992,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Gold
+1992,Skiing,Cross Country Skiing,Men,4X10KM Relay,ITA,Silver
+1992,Skiing,Cross Country Skiing,Women,4X5KM Relay,ITA,Bronze
+1992,Skiing,Cross Country Skiing,Women,4X5KM Relay,EUN,Gold
+1992,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Silver
+1992,Skiing,Cross Country Skiing,Men,50KM,ITA,Bronze
+1992,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1992,Skiing,Cross Country Skiing,Men,50KM,ITA,Silver
+1992,Skiing,Cross Country Skiing,Women,5KM,EUN,Bronze
+1992,Skiing,Cross Country Skiing,Women,5KM,FIN,Gold
+1992,Skiing,Cross Country Skiing,Women,5KM,EUN,Silver
+1992,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,ITA,Bronze
+1992,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,NOR,Gold
+1992,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,NOR,Silver
+1992,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,EUN,Bronze
+1992,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,EUN,Gold
+1992,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,ITA,Silver
+1992,Skiing,Freestyle Skiing,Men,Moguls,USA,Bronze
+1992,Skiing,Freestyle Skiing,Men,Moguls,FRA,Gold
+1992,Skiing,Freestyle Skiing,Men,Moguls,FRA,Silver
+1992,Skiing,Freestyle Skiing,Women,Moguls,NOR,Bronze
+1992,Skiing,Freestyle Skiing,Women,Moguls,USA,Gold
+1992,Skiing,Freestyle Skiing,Women,Moguls,EUN,Silver
+1992,Skiing,Nordic Combined,Men,Individual,AUT,Bronze
+1992,Skiing,Nordic Combined,Men,Individual,FRA,Gold
+1992,Skiing,Nordic Combined,Men,Individual,FRA,Silver
+1992,Skiing,Nordic Combined,Men,Team,AUT,Bronze
+1992,Skiing,Nordic Combined,Men,Team,JPN,Gold
+1992,Skiing,Nordic Combined,Men,Team,NOR,Silver
+1992,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Bronze
+1992,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Gold
+1992,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Silver
+1992,Skiing,Ski Jumping,Men,K120 Team (90M),TCH,Bronze
+1992,Skiing,Ski Jumping,Men,K120 Team (90M),FIN,Gold
+1992,Skiing,Ski Jumping,Men,K120 Team (90M),AUT,Silver
+1992,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Bronze
+1992,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Gold
+1992,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Silver
+1994,Biathlon,Biathlon,Men,10KM,RUS,Bronze
+1994,Biathlon,Biathlon,Men,10KM,RUS,Gold
+1994,Biathlon,Biathlon,Men,10KM,GER,Silver
+1994,Biathlon,Biathlon,Women,15KM,GER,Bronze
+1994,Biathlon,Biathlon,Women,15KM,CAN,Gold
+1994,Biathlon,Biathlon,Women,15KM,FRA,Silver
+1994,Biathlon,Biathlon,Men,20KM,GER,Bronze
+1994,Biathlon,Biathlon,Men,20KM,RUS,Gold
+1994,Biathlon,Biathlon,Men,20KM,GER,Silver
+1994,Biathlon,Biathlon,Men,4X7.5KM Relay,FRA,Bronze
+1994,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Gold
+1994,Biathlon,Biathlon,Men,4X7.5KM Relay,RUS,Silver
+1994,Biathlon,Biathlon,Women,4X7.5KM Relay,FRA,Bronze
+1994,Biathlon,Biathlon,Women,4X7.5KM Relay,RUS,Gold
+1994,Biathlon,Biathlon,Women,4X7.5KM Relay,GER,Silver
+1994,Biathlon,Biathlon,Women,7.5KM,UKR,Bronze
+1994,Biathlon,Biathlon,Women,7.5KM,CAN,Gold
+1994,Biathlon,Biathlon,Women,7.5KM,BLR,Silver
+1994,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Bronze
+1994,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Gold
+1994,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Silver
+1994,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Bronze
+1994,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Gold
+1994,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+1994,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Bronze
+1994,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Gold
+1994,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Silver
+1994,Luge,Luge,Men,Doubles,GER,Bronze
+1994,Luge,Luge,Men,Doubles,ITA,Gold
+1994,Luge,Luge,Men,Doubles,ITA,Silver
+1994,Luge,Luge,Men,Singles,ITA,Bronze
+1994,Luge,Luge,Men,Singles,GER,Gold
+1994,Luge,Luge,Men,Singles,AUT,Silver
+1994,Luge,Luge,Women,Singles,AUT,Bronze
+1994,Luge,Luge,Women,Singles,ITA,Gold
+1994,Luge,Luge,Women,Singles,GER,Silver
+1994,Skating,Figure skating,Men,Ice Dancing,GBR,Bronze
+1994,Skating,Figure skating,Men,Ice Dancing,RUS,Gold
+1994,Skating,Figure skating,Men,Ice Dancing,RUS,Silver
+1994,Skating,Figure skating,Women,Ice Dancing,GBR,Bronze
+1994,Skating,Figure skating,Women,Ice Dancing,RUS,Gold
+1994,Skating,Figure skating,Women,Ice Dancing,RUS,Silver
+1994,Skating,Figure skating,Men,Individual,FRA,Bronze
+1994,Skating,Figure skating,Men,Individual,RUS,Gold
+1994,Skating,Figure skating,Men,Individual,CAN,Silver
+1994,Skating,Figure skating,Women,Individual,CHN,Bronze
+1994,Skating,Figure skating,Women,Individual,UKR,Gold
+1994,Skating,Figure skating,Women,Individual,USA,Silver
+1994,Skating,Figure skating,Men,Pairs,CAN,Bronze
+1994,Skating,Figure skating,Men,Pairs,RUS,Gold
+1994,Skating,Figure skating,Men,Pairs,RUS,Silver
+1994,Skating,Figure skating,Women,Pairs,CAN,Bronze
+1994,Skating,Figure skating,Women,Pairs,RUS,Gold
+1994,Skating,Figure skating,Women,Pairs,RUS,Silver
+1994,Skating,Short Track Speed Skating,Men,1000M,CAN,Bronze
+1994,Skating,Short Track Speed Skating,Men,1000M,KOR,Gold
+1994,Skating,Short Track Speed Skating,Men,1000M,KOR,Silver
+1994,Skating,Short Track Speed Skating,Women,1000M,KOR,Bronze
+1994,Skating,Short Track Speed Skating,Women,1000M,KOR,Gold
+1994,Skating,Short Track Speed Skating,Women,1000M,CAN,Silver
+1994,Skating,Short Track Speed Skating,Women,3000M Relay,USA,Bronze
+1994,Skating,Short Track Speed Skating,Women,3000M Relay,KOR,Gold
+1994,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Silver
+1994,Skating,Short Track Speed Skating,Men,5000M Relay,AUS,Bronze
+1994,Skating,Short Track Speed Skating,Men,5000M Relay,ITA,Gold
+1994,Skating,Short Track Speed Skating,Men,5000M Relay,USA,Silver
+1994,Skating,Short Track Speed Skating,Men,500M,GBR,Bronze
+1994,Skating,Short Track Speed Skating,Men,500M,KOR,Gold
+1994,Skating,Short Track Speed Skating,Men,500M,ITA,Silver
+1994,Skating,Short Track Speed Skating,Women,500M,USA,Bronze
+1994,Skating,Short Track Speed Skating,Women,500M,USA,Gold
+1994,Skating,Short Track Speed Skating,Women,500M,CHN,Silver
+1994,Skating,Speed skating,Men,10000M,NED,Bronze
+1994,Skating,Speed skating,Men,10000M,NOR,Gold
+1994,Skating,Speed skating,Men,10000M,NOR,Silver
+1994,Skating,Speed skating,Men,1000M,RUS,Bronze
+1994,Skating,Speed skating,Men,1000M,USA,Gold
+1994,Skating,Speed skating,Men,1000M,BLR,Silver
+1994,Skating,Speed skating,Women,1000M,CHN,Bronze
+1994,Skating,Speed skating,Women,1000M,USA,Gold
+1994,Skating,Speed skating,Women,1000M,GER,Silver
+1994,Skating,Speed skating,Men,1500M,NED,Bronze
+1994,Skating,Speed skating,Men,1500M,NOR,Gold
+1994,Skating,Speed skating,Men,1500M,NED,Silver
+1994,Skating,Speed skating,Women,1500M,GER,Bronze
+1994,Skating,Speed skating,Women,1500M,AUT,Gold
+1994,Skating,Speed skating,Women,1500M,RUS,Silver
+1994,Skating,Speed skating,Women,3000M,GER,Bronze
+1994,Skating,Speed skating,Women,3000M,RUS,Gold
+1994,Skating,Speed skating,Women,3000M,AUT,Silver
+1994,Skating,Speed skating,Men,5000M,NED,Bronze
+1994,Skating,Speed skating,Men,5000M,NOR,Gold
+1994,Skating,Speed skating,Men,5000M,NOR,Silver
+1994,Skating,Speed skating,Women,5000M,JPN,Bronze
+1994,Skating,Speed skating,Women,5000M,GER,Gold
+1994,Skating,Speed skating,Women,5000M,GER,Silver
+1994,Skating,Speed skating,Men,500M,JPN,Bronze
+1994,Skating,Speed skating,Men,500M,RUS,Gold
+1994,Skating,Speed skating,Men,500M,RUS,Silver
+1994,Skating,Speed skating,Women,500M,GER,Bronze
+1994,Skating,Speed skating,Women,500M,USA,Gold
+1994,Skating,Speed skating,Women,500M,CAN,Silver
+1994,Skiing,Alpine Skiing,Men,Alpine Combined,NOR,Bronze
+1994,Skiing,Alpine Skiing,Men,Alpine Combined,NOR,Gold
+1994,Skiing,Alpine Skiing,Men,Alpine Combined,NOR,Silver
+1994,Skiing,Alpine Skiing,Women,Alpine Combined,SLO,Bronze
+1994,Skiing,Alpine Skiing,Women,Alpine Combined,SWE,Gold
+1994,Skiing,Alpine Skiing,Women,Alpine Combined,SUI,Silver
+1994,Skiing,Alpine Skiing,Men,Downhill,CAN,Bronze
+1994,Skiing,Alpine Skiing,Men,Downhill,USA,Gold
+1994,Skiing,Alpine Skiing,Men,Downhill,NOR,Silver
+1994,Skiing,Alpine Skiing,Women,Downhill,ITA,Bronze
+1994,Skiing,Alpine Skiing,Women,Downhill,GER,Gold
+1994,Skiing,Alpine Skiing,Women,Downhill,USA,Silver
+1994,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+1994,Skiing,Alpine Skiing,Men,Giant Slalom,GER,Gold
+1994,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Silver
+1994,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Bronze
+1994,Skiing,Alpine Skiing,Women,Giant Slalom,ITA,Gold
+1994,Skiing,Alpine Skiing,Women,Giant Slalom,GER,Silver
+1994,Skiing,Alpine Skiing,Men,Slalom,SLO,Bronze
+1994,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+1994,Skiing,Alpine Skiing,Men,Slalom,ITA,Silver
+1994,Skiing,Alpine Skiing,Women,Slalom,SLO,Bronze
+1994,Skiing,Alpine Skiing,Women,Slalom,SUI,Gold
+1994,Skiing,Alpine Skiing,Women,Slalom,AUT,Silver
+1994,Skiing,Alpine Skiing,Men,Super-G,NOR,Bronze
+1994,Skiing,Alpine Skiing,Men,Super-G,GER,Gold
+1994,Skiing,Alpine Skiing,Men,Super-G,USA,Silver
+1994,Skiing,Alpine Skiing,Women,Super-G,ITA,Bronze
+1994,Skiing,Alpine Skiing,Women,Super-G,USA,Gold
+1994,Skiing,Alpine Skiing,Women,Super-G,RUS,Silver
+1994,Skiing,Cross Country Skiing,Men,10KM Pursuit,ITA,Bronze
+1994,Skiing,Cross Country Skiing,Men,10KM Pursuit,NOR,Gold
+1994,Skiing,Cross Country Skiing,Men,10KM Pursuit,KAZ,Silver
+1994,Skiing,Cross Country Skiing,Women,15KM Mass Start,RUS,Bronze
+1994,Skiing,Cross Country Skiing,Women,15KM Mass Start,ITA,Gold
+1994,Skiing,Cross Country Skiing,Women,15KM Mass Start,RUS,Silver
+1994,Skiing,Cross Country Skiing,Women,30KM,FIN,Bronze
+1994,Skiing,Cross Country Skiing,Women,30KM,ITA,Gold
+1994,Skiing,Cross Country Skiing,Women,30KM,NOR,Silver
+1994,Skiing,Cross Country Skiing,Men,30KM Mass Start,FIN,Bronze
+1994,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Gold
+1994,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1994,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1994,Skiing,Cross Country Skiing,Men,4X10KM Relay,ITA,Gold
+1994,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+1994,Skiing,Cross Country Skiing,Women,4X5KM Relay,ITA,Bronze
+1994,Skiing,Cross Country Skiing,Women,4X5KM Relay,RUS,Gold
+1994,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Silver
+1994,Skiing,Cross Country Skiing,Men,50KM,NOR,Bronze
+1994,Skiing,Cross Country Skiing,Men,50KM,KAZ,Gold
+1994,Skiing,Cross Country Skiing,Men,50KM,FIN,Silver
+1994,Skiing,Cross Country Skiing,Women,5KM,FIN,Bronze
+1994,Skiing,Cross Country Skiing,Women,5KM,RUS,Gold
+1994,Skiing,Cross Country Skiing,Women,5KM,ITA,Silver
+1994,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,ITA,Bronze
+1994,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,NOR,Gold
+1994,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,KAZ,Silver
+1994,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,ITA,Bronze
+1994,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,RUS,Gold
+1994,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,ITA,Silver
+1994,Skiing,Freestyle Skiing,Men,Aerials,CAN,Bronze
+1994,Skiing,Freestyle Skiing,Men,Aerials,SUI,Gold
+1994,Skiing,Freestyle Skiing,Men,Aerials,CAN,Silver
+1994,Skiing,Freestyle Skiing,Women,Aerials,NOR,Bronze
+1994,Skiing,Freestyle Skiing,Women,Aerials,UZB,Gold
+1994,Skiing,Freestyle Skiing,Women,Aerials,SWE,Silver
+1994,Skiing,Freestyle Skiing,Men,Moguls,FRA,Bronze
+1994,Skiing,Freestyle Skiing,Men,Moguls,CAN,Gold
+1994,Skiing,Freestyle Skiing,Men,Moguls,RUS,Silver
+1994,Skiing,Freestyle Skiing,Women,Moguls,RUS,Bronze
+1994,Skiing,Freestyle Skiing,Women,Moguls,NOR,Gold
+1994,Skiing,Freestyle Skiing,Women,Moguls,USA,Silver
+1994,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+1994,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1994,Skiing,Nordic Combined,Men,Individual,JPN,Silver
+1994,Skiing,Nordic Combined,Men,Team,SUI,Bronze
+1994,Skiing,Nordic Combined,Men,Team,JPN,Gold
+1994,Skiing,Nordic Combined,Men,Team,NOR,Silver
+1994,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Bronze
+1994,Skiing,Ski Jumping,Men,K120 Individual (90M),GER,Gold
+1994,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Silver
+1994,Skiing,Ski Jumping,Men,K120 Team (90M),AUT,Bronze
+1994,Skiing,Ski Jumping,Men,K120 Team (90M),GER,Gold
+1994,Skiing,Ski Jumping,Men,K120 Team (90M),JPN,Silver
+1994,Skiing,Ski Jumping,Men,K90 Individual (70M),GER,Bronze
+1994,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+1994,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Silver
+1998,Biathlon,Biathlon,Men,10KM,FIN,Bronze
+1998,Biathlon,Biathlon,Men,10KM,NOR,Gold
+1998,Biathlon,Biathlon,Men,10KM,NOR,Silver
+1998,Biathlon,Biathlon,Women,15KM,GER,Bronze
+1998,Biathlon,Biathlon,Women,15KM,BUL,Gold
+1998,Biathlon,Biathlon,Women,15KM,UKR,Silver
+1998,Biathlon,Biathlon,Men,20KM,BLR,Bronze
+1998,Biathlon,Biathlon,Men,20KM,NOR,Gold
+1998,Biathlon,Biathlon,Men,20KM,ITA,Silver
+1998,Biathlon,Biathlon,Men,4X7.5KM Relay,RUS,Bronze
+1998,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Gold
+1998,Biathlon,Biathlon,Men,4X7.5KM Relay,NOR,Silver
+1998,Biathlon,Biathlon,Women,4X7.5KM Relay,NOR,Bronze
+1998,Biathlon,Biathlon,Women,4X7.5KM Relay,GER,Gold
+1998,Biathlon,Biathlon,Women,4X7.5KM Relay,RUS,Silver
+1998,Biathlon,Biathlon,Women,7.5KM,GER,Bronze
+1998,Biathlon,Biathlon,Women,7.5KM,RUS,Gold
+1998,Biathlon,Biathlon,Women,7.5KM,GER,Silver
+1998,Bobsleigh,Bobsleigh,Men,Four-Man,FRA,Bronze
+1998,Bobsleigh,Bobsleigh,Men,Four-Man,GBR,Bronze
+1998,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Gold
+1998,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Silver
+1998,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Bronze
+1998,Bobsleigh,Bobsleigh,Men,Two-Man,CAN,Gold
+1998,Bobsleigh,Bobsleigh,Men,Two-Man,ITA,Gold
+1998,Curling,Curling,Men,Curling,NOR,Bronze
+1998,Curling,Curling,Men,Curling,SUI,Gold
+1998,Curling,Curling,Men,Curling,CAN,Silver
+1998,Curling,Curling,Women,Curling,SWE,Bronze
+1998,Curling,Curling,Women,Curling,CAN,Gold
+1998,Curling,Curling,Women,Curling,DEN,Silver
+1998,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Bronze
+1998,Ice Hockey,Ice Hockey,Men,Ice Hockey,CZE,Gold
+1998,Ice Hockey,Ice Hockey,Men,Ice Hockey,RUS,Silver
+1998,Ice Hockey,Ice Hockey,Women,Ice Hockey,FIN,Bronze
+1998,Ice Hockey,Ice Hockey,Women,Ice Hockey,USA,Gold
+1998,Ice Hockey,Ice Hockey,Women,Ice Hockey,CAN,Silver
+1998,Luge,Luge,Men,Doubles,USA,Bronze
+1998,Luge,Luge,Men,Doubles,GER,Gold
+1998,Luge,Luge,Men,Doubles,USA,Silver
+1998,Luge,Luge,Men,Singles,GER,Bronze
+1998,Luge,Luge,Men,Singles,GER,Gold
+1998,Luge,Luge,Men,Singles,ITA,Silver
+1998,Luge,Luge,Women,Singles,AUT,Bronze
+1998,Luge,Luge,Women,Singles,GER,Gold
+1998,Luge,Luge,Women,Singles,GER,Silver
+1998,Skating,Figure skating,Men,Ice Dancing,FRA,Bronze
+1998,Skating,Figure skating,Men,Ice Dancing,RUS,Gold
+1998,Skating,Figure skating,Men,Ice Dancing,RUS,Silver
+1998,Skating,Figure skating,Women,Ice Dancing,FRA,Bronze
+1998,Skating,Figure skating,Women,Ice Dancing,RUS,Gold
+1998,Skating,Figure skating,Women,Ice Dancing,RUS,Silver
+1998,Skating,Figure skating,Men,Individual,FRA,Bronze
+1998,Skating,Figure skating,Men,Individual,RUS,Gold
+1998,Skating,Figure skating,Men,Individual,CAN,Silver
+1998,Skating,Figure skating,Women,Individual,CHN,Bronze
+1998,Skating,Figure skating,Women,Individual,USA,Gold
+1998,Skating,Figure skating,Women,Individual,USA,Silver
+1998,Skating,Figure skating,Men,Pairs,GER,Bronze
+1998,Skating,Figure skating,Men,Pairs,RUS,Gold
+1998,Skating,Figure skating,Men,Pairs,RUS,Silver
+1998,Skating,Figure skating,Women,Pairs,GER,Bronze
+1998,Skating,Figure skating,Women,Pairs,RUS,Gold
+1998,Skating,Figure skating,Women,Pairs,RUS,Silver
+1998,Skating,Short Track Speed Skating,Men,1000M,CAN,Bronze
+1998,Skating,Short Track Speed Skating,Men,1000M,KOR,Gold
+1998,Skating,Short Track Speed Skating,Men,1000M,CHN,Silver
+1998,Skating,Short Track Speed Skating,Women,1000M,KOR,Bronze
+1998,Skating,Short Track Speed Skating,Women,1000M,KOR,Gold
+1998,Skating,Short Track Speed Skating,Women,1000M,CHN,Silver
+1998,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Bronze
+1998,Skating,Short Track Speed Skating,Women,3000M Relay,KOR,Gold
+1998,Skating,Short Track Speed Skating,Women,3000M Relay,CHN,Silver
+1998,Skating,Short Track Speed Skating,Men,5000M Relay,CHN,Bronze
+1998,Skating,Short Track Speed Skating,Men,5000M Relay,CAN,Gold
+1998,Skating,Short Track Speed Skating,Men,5000M Relay,KOR,Silver
+1998,Skating,Short Track Speed Skating,Men,500M,JPN,Bronze
+1998,Skating,Short Track Speed Skating,Men,500M,JPN,Gold
+1998,Skating,Short Track Speed Skating,Men,500M,CHN,Silver
+1998,Skating,Short Track Speed Skating,Women,500M,KOR,Bronze
+1998,Skating,Short Track Speed Skating,Women,500M,CAN,Gold
+1998,Skating,Short Track Speed Skating,Women,500M,CHN,Silver
+1998,Skating,Speed skating,Men,10000M,NED,Bronze
+1998,Skating,Speed skating,Men,10000M,NED,Gold
+1998,Skating,Speed skating,Men,10000M,NED,Silver
+1998,Skating,Speed skating,Men,1000M,JPN,Bronze
+1998,Skating,Speed skating,Men,1000M,NED,Gold
+1998,Skating,Speed skating,Men,1000M,NED,Silver
+1998,Skating,Speed skating,Women,1000M,CAN,Bronze
+1998,Skating,Speed skating,Women,1000M,NED,Gold
+1998,Skating,Speed skating,Women,1000M,USA,Silver
+1998,Skating,Speed skating,Men,1500M,NED,Bronze
+1998,Skating,Speed skating,Men,1500M,NOR,Gold
+1998,Skating,Speed skating,Men,1500M,NED,Silver
+1998,Skating,Speed skating,Women,1500M,USA,Bronze
+1998,Skating,Speed skating,Women,1500M,NED,Gold
+1998,Skating,Speed skating,Women,1500M,GER,Silver
+1998,Skating,Speed skating,Women,3000M,GER,Bronze
+1998,Skating,Speed skating,Women,3000M,GER,Gold
+1998,Skating,Speed skating,Women,3000M,GER,Silver
+1998,Skating,Speed skating,Men,5000M,BEL,Bronze
+1998,Skating,Speed skating,Men,5000M,NED,Gold
+1998,Skating,Speed skating,Men,5000M,NED,Silver
+1998,Skating,Speed skating,Women,5000M,KAZ,Bronze
+1998,Skating,Speed skating,Women,5000M,GER,Gold
+1998,Skating,Speed skating,Women,5000M,GER,Silver
+1998,Skating,Speed skating,Men,500M,CAN,Bronze
+1998,Skating,Speed skating,Men,500M,JPN,Gold
+1998,Skating,Speed skating,Men,500M,CAN,Silver
+1998,Skating,Speed skating,Women,500M,JPN,Bronze
+1998,Skating,Speed skating,Women,500M,CAN,Gold
+1998,Skating,Speed skating,Women,500M,CAN,Silver
+1998,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Bronze
+1998,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Gold
+1998,Skiing,Alpine Skiing,Men,Alpine Combined,NOR,Silver
+1998,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Bronze
+1998,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Gold
+1998,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Silver
+1998,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+1998,Skiing,Alpine Skiing,Men,Downhill,FRA,Gold
+1998,Skiing,Alpine Skiing,Men,Downhill,NOR,Silver
+1998,Skiing,Alpine Skiing,Women,Downhill,FRA,Bronze
+1998,Skiing,Alpine Skiing,Women,Downhill,GER,Gold
+1998,Skiing,Alpine Skiing,Women,Downhill,SWE,Silver
+1998,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Bronze
+1998,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Gold
+1998,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Silver
+1998,Skiing,Alpine Skiing,Women,Giant Slalom,GER,Bronze
+1998,Skiing,Alpine Skiing,Women,Giant Slalom,ITA,Gold
+1998,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+1998,Skiing,Alpine Skiing,Men,Slalom,AUT,Bronze
+1998,Skiing,Alpine Skiing,Men,Slalom,NOR,Gold
+1998,Skiing,Alpine Skiing,Men,Slalom,NOR,Silver
+1998,Skiing,Alpine Skiing,Women,Slalom,AUS,Bronze
+1998,Skiing,Alpine Skiing,Women,Slalom,GER,Gold
+1998,Skiing,Alpine Skiing,Women,Slalom,ITA,Silver
+1998,Skiing,Alpine Skiing,Men,Super-G,AUT,Gold
+1998,Skiing,Alpine Skiing,Men,Super-G,AUT,Silver
+1998,Skiing,Alpine Skiing,Men,Super-G,SUI,Silver
+1998,Skiing,Alpine Skiing,Women,Super-G,AUT,Bronze
+1998,Skiing,Alpine Skiing,Women,Super-G,USA,Gold
+1998,Skiing,Alpine Skiing,Women,Super-G,AUT,Silver
+1998,Skiing,Cross Country Skiing,Men,10KM Pursuit,FIN,Bronze
+1998,Skiing,Cross Country Skiing,Men,10KM Pursuit,NOR,Gold
+1998,Skiing,Cross Country Skiing,Men,10KM Pursuit,AUT,Silver
+1998,Skiing,Cross Country Skiing,Women,15KM Mass Start,NOR,Bronze
+1998,Skiing,Cross Country Skiing,Women,15KM Mass Start,RUS,Gold
+1998,Skiing,Cross Country Skiing,Women,15KM Mass Start,RUS,Silver
+1998,Skiing,Cross Country Skiing,Women,30KM,RUS,Bronze
+1998,Skiing,Cross Country Skiing,Women,30KM,RUS,Gold
+1998,Skiing,Cross Country Skiing,Women,30KM,ITA,Silver
+1998,Skiing,Cross Country Skiing,Men,30KM Mass Start,ITA,Bronze
+1998,Skiing,Cross Country Skiing,Men,30KM Mass Start,FIN,Gold
+1998,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Silver
+1998,Skiing,Cross Country Skiing,Men,4X10KM Relay,FIN,Bronze
+1998,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Gold
+1998,Skiing,Cross Country Skiing,Men,4X10KM Relay,ITA,Silver
+1998,Skiing,Cross Country Skiing,Women,4X5KM Relay,ITA,Bronze
+1998,Skiing,Cross Country Skiing,Women,4X5KM Relay,RUS,Gold
+1998,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Silver
+1998,Skiing,Cross Country Skiing,Men,50KM,AUT,Bronze
+1998,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+1998,Skiing,Cross Country Skiing,Men,50KM,SWE,Silver
+1998,Skiing,Cross Country Skiing,Women,5KM,NOR,Bronze
+1998,Skiing,Cross Country Skiing,Women,5KM,RUS,Gold
+1998,Skiing,Cross Country Skiing,Women,5KM,CZE,Silver
+1998,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,KAZ,Bronze
+1998,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,NOR,Gold
+1998,Skiing,Cross Country Skiing,Men,Combined 10KM + 15KM Pursuit,NOR,Silver
+1998,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,CZE,Bronze
+1998,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,RUS,Gold
+1998,Skiing,Cross Country Skiing,Women,Combined 5KM + 10KM Pursuit,RUS,Silver
+1998,Skiing,Freestyle Skiing,Men,Aerials,BLR,Bronze
+1998,Skiing,Freestyle Skiing,Men,Aerials,USA,Gold
+1998,Skiing,Freestyle Skiing,Men,Aerials,FRA,Silver
+1998,Skiing,Freestyle Skiing,Women,Aerials,SUI,Bronze
+1998,Skiing,Freestyle Skiing,Women,Aerials,USA,Gold
+1998,Skiing,Freestyle Skiing,Women,Aerials,CHN,Silver
+1998,Skiing,Freestyle Skiing,Men,Moguls,FIN,Bronze
+1998,Skiing,Freestyle Skiing,Men,Moguls,USA,Gold
+1998,Skiing,Freestyle Skiing,Men,Moguls,FIN,Silver
+1998,Skiing,Freestyle Skiing,Women,Moguls,NOR,Bronze
+1998,Skiing,Freestyle Skiing,Women,Moguls,JPN,Gold
+1998,Skiing,Freestyle Skiing,Women,Moguls,GER,Silver
+1998,Skiing,Nordic Combined,Men,Individual,RUS,Bronze
+1998,Skiing,Nordic Combined,Men,Individual,NOR,Gold
+1998,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+1998,Skiing,Nordic Combined,Men,Team,FRA,Bronze
+1998,Skiing,Nordic Combined,Men,Team,NOR,Gold
+1998,Skiing,Nordic Combined,Men,Team,FIN,Silver
+1998,Skiing,Ski Jumping,Men,K120 Individual (90M),JPN,Bronze
+1998,Skiing,Ski Jumping,Men,K120 Individual (90M),JPN,Gold
+1998,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Silver
+1998,Skiing,Ski Jumping,Men,K120 Team (90M),AUT,Bronze
+1998,Skiing,Ski Jumping,Men,K120 Team (90M),JPN,Gold
+1998,Skiing,Ski Jumping,Men,K120 Team (90M),GER,Silver
+1998,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Bronze
+1998,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Gold
+1998,Skiing,Ski Jumping,Men,K90 Individual (70M),JPN,Silver
+1998,Skiing,Snowboard,Men,Giant-Slalom,SUI,Bronze
+1998,Skiing,Snowboard,Men,Giant-Slalom,CAN,Gold
+1998,Skiing,Snowboard,Men,Giant-Slalom,ITA,Silver
+1998,Skiing,Snowboard,Women,Giant-Slalom,AUT,Bronze
+1998,Skiing,Snowboard,Women,Giant-Slalom,FRA,Gold
+1998,Skiing,Snowboard,Women,Giant-Slalom,GER,Silver
+1998,Skiing,Snowboard,Men,Half-Pipe,USA,Bronze
+1998,Skiing,Snowboard,Men,Half-Pipe,SUI,Gold
+1998,Skiing,Snowboard,Men,Half-Pipe,NOR,Silver
+1998,Skiing,Snowboard,Women,Half-Pipe,USA,Bronze
+1998,Skiing,Snowboard,Women,Half-Pipe,GER,Gold
+1998,Skiing,Snowboard,Women,Half-Pipe,NOR,Silver
+2002,Biathlon,Biathlon,Men,10KM,AUT,Bronze
+2002,Biathlon,Biathlon,Men,10KM,NOR,Gold
+2002,Biathlon,Biathlon,Men,10KM,GER,Silver
+2002,Biathlon,Biathlon,Women,10KM Pursuit,BUL,Bronze
+2002,Biathlon,Biathlon,Women,10KM Pursuit,RUS,Gold
+2002,Biathlon,Biathlon,Women,10KM Pursuit,GER,Silver
+2002,Biathlon,Biathlon,Men,12.5Km Pursuit,GER,Bronze
+2002,Biathlon,Biathlon,Men,12.5Km Pursuit,NOR,Gold
+2002,Biathlon,Biathlon,Men,12.5Km Pursuit,FRA,Silver
+2002,Biathlon,Biathlon,Women,15KM,SWE,Bronze
+2002,Biathlon,Biathlon,Women,15KM,GER,Gold
+2002,Biathlon,Biathlon,Women,15KM,NOR,Silver
+2002,Biathlon,Biathlon,Men,20KM,RUS,Bronze
+2002,Biathlon,Biathlon,Men,20KM,NOR,Gold
+2002,Biathlon,Biathlon,Men,20KM,GER,Silver
+2002,Biathlon,Biathlon,Men,4X7.5KM Relay,FRA,Bronze
+2002,Biathlon,Biathlon,Men,4X7.5KM Relay,NOR,Gold
+2002,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Silver
+2002,Biathlon,Biathlon,Women,4X7.5KM Relay,RUS,Bronze
+2002,Biathlon,Biathlon,Women,4X7.5KM Relay,GER,Gold
+2002,Biathlon,Biathlon,Women,4X7.5KM Relay,NOR,Silver
+2002,Biathlon,Biathlon,Women,7.5KM,SWE,Bronze
+2002,Biathlon,Biathlon,Women,7.5KM,GER,Gold
+2002,Biathlon,Biathlon,Women,7.5KM,GER,Silver
+2002,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Bronze
+2002,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Gold
+2002,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Silver
+2002,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+2002,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Gold
+2002,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+2002,Bobsleigh,Bobsleigh,Women,Two-Man,GER,Bronze
+2002,Bobsleigh,Bobsleigh,Women,Two-Man,USA,Gold
+2002,Bobsleigh,Bobsleigh,Women,Two-Man,GER,Silver
+2002,Bobsleigh,Skeleton,Men,Individual,SUI,Bronze
+2002,Bobsleigh,Skeleton,Men,Individual,USA,Gold
+2002,Bobsleigh,Skeleton,Men,Individual,AUT,Silver
+2002,Bobsleigh,Skeleton,Women,Individual,GBR,Bronze
+2002,Bobsleigh,Skeleton,Women,Individual,USA,Gold
+2002,Bobsleigh,Skeleton,Women,Individual,USA,Silver
+2002,Curling,Curling,Men,Curling,SUI,Bronze
+2002,Curling,Curling,Men,Curling,NOR,Gold
+2002,Curling,Curling,Men,Curling,CAN,Silver
+2002,Curling,Curling,Women,Curling,CAN,Bronze
+2002,Curling,Curling,Women,Curling,GBR,Gold
+2002,Curling,Curling,Women,Curling,SUI,Silver
+2002,Ice Hockey,Ice Hockey,Men,Ice Hockey,RUS,Bronze
+2002,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+2002,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+2002,Ice Hockey,Ice Hockey,Women,Ice Hockey,SWE,Bronze
+2002,Ice Hockey,Ice Hockey,Women,Ice Hockey,CAN,Gold
+2002,Ice Hockey,Ice Hockey,Women,Ice Hockey,USA,Silver
+2002,Luge,Luge,Men,Doubles,USA,Bronze
+2002,Luge,Luge,Men,Doubles,GER,Gold
+2002,Luge,Luge,Men,Doubles,USA,Silver
+2002,Luge,Luge,Men,Singles,AUT,Bronze
+2002,Luge,Luge,Men,Singles,ITA,Gold
+2002,Luge,Luge,Men,Singles,GER,Silver
+2002,Luge,Luge,Women,Singles,GER,Bronze
+2002,Luge,Luge,Women,Singles,GER,Gold
+2002,Luge,Luge,Women,Singles,GER,Silver
+2002,Skating,Figure skating,Men,Ice Dancing,ITA,Bronze
+2002,Skating,Figure skating,Men,Ice Dancing,FRA,Gold
+2002,Skating,Figure skating,Men,Ice Dancing,RUS,Silver
+2002,Skating,Figure skating,Women,Ice Dancing,ITA,Bronze
+2002,Skating,Figure skating,Women,Ice Dancing,FRA,Gold
+2002,Skating,Figure skating,Women,Ice Dancing,RUS,Silver
+2002,Skating,Figure skating,Men,Individual,USA,Bronze
+2002,Skating,Figure skating,Men,Individual,RUS,Gold
+2002,Skating,Figure skating,Men,Individual,RUS,Silver
+2002,Skating,Figure skating,Women,Individual,USA,Bronze
+2002,Skating,Figure skating,Women,Individual,USA,Gold
+2002,Skating,Figure skating,Women,Individual,RUS,Silver
+2002,Skating,Figure skating,Men,Pairs,CHN,Bronze
+2002,Skating,Figure skating,Men,Pairs,CAN,Gold
+2002,Skating,Figure skating,Men,Pairs,RUS,Gold
+2002,Skating,Figure skating,Women,Pairs,CHN,Bronze
+2002,Skating,Figure skating,Women,Pairs,CAN,Gold
+2002,Skating,Figure skating,Women,Pairs,RUS,Gold
+2002,Skating,Short Track Speed Skating,Men,1000M,CAN,Bronze
+2002,Skating,Short Track Speed Skating,Men,1000M,AUS,Gold
+2002,Skating,Short Track Speed Skating,Men,1000M,USA,Silver
+2002,Skating,Short Track Speed Skating,Women,1000M,CHN,Bronze
+2002,Skating,Short Track Speed Skating,Women,1000M,CHN,Gold
+2002,Skating,Short Track Speed Skating,Women,1000M,KOR,Silver
+2002,Skating,Short Track Speed Skating,Men,1500M,CAN,Bronze
+2002,Skating,Short Track Speed Skating,Men,1500M,USA,Gold
+2002,Skating,Short Track Speed Skating,Men,1500M,CHN,Silver
+2002,Skating,Short Track Speed Skating,Women,1500M,BUL,Bronze
+2002,Skating,Short Track Speed Skating,Women,1500M,KOR,Gold
+2002,Skating,Short Track Speed Skating,Women,1500M,KOR,Silver
+2002,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Bronze
+2002,Skating,Short Track Speed Skating,Women,3000M Relay,KOR,Gold
+2002,Skating,Short Track Speed Skating,Women,3000M Relay,CHN,Silver
+2002,Skating,Short Track Speed Skating,Men,5000M Relay,CHN,Bronze
+2002,Skating,Short Track Speed Skating,Men,5000M Relay,CAN,Gold
+2002,Skating,Short Track Speed Skating,Men,5000M Relay,ITA,Silver
+2002,Skating,Short Track Speed Skating,Men,500M,USA,Bronze
+2002,Skating,Short Track Speed Skating,Men,500M,CAN,Gold
+2002,Skating,Short Track Speed Skating,Men,500M,CAN,Silver
+2002,Skating,Short Track Speed Skating,Women,500M,CHN,Bronze
+2002,Skating,Short Track Speed Skating,Women,500M,CHN,Gold
+2002,Skating,Short Track Speed Skating,Women,500M,BUL,Silver
+2002,Skating,Speed skating,Men,10000M,NOR,Bronze
+2002,Skating,Speed skating,Men,10000M,NED,Gold
+2002,Skating,Speed skating,Men,10000M,NED,Silver
+2002,Skating,Speed skating,Men,1000M,USA,Bronze
+2002,Skating,Speed skating,Men,1000M,NED,Gold
+2002,Skating,Speed skating,Men,1000M,NED,Silver
+2002,Skating,Speed skating,Women,1000M,USA,Bronze
+2002,Skating,Speed skating,Women,1000M,USA,Gold
+2002,Skating,Speed skating,Women,1000M,GER,Silver
+2002,Skating,Speed skating,Men,1500M,NOR,Bronze
+2002,Skating,Speed skating,Men,1500M,USA,Gold
+2002,Skating,Speed skating,Men,1500M,NED,Silver
+2002,Skating,Speed skating,Women,1500M,USA,Bronze
+2002,Skating,Speed skating,Women,1500M,GER,Gold
+2002,Skating,Speed skating,Women,1500M,GER,Silver
+2002,Skating,Speed skating,Women,3000M,CAN,Bronze
+2002,Skating,Speed skating,Women,3000M,GER,Gold
+2002,Skating,Speed skating,Women,3000M,NED,Silver
+2002,Skating,Speed skating,Men,5000M,GER,Bronze
+2002,Skating,Speed skating,Men,5000M,NED,Gold
+2002,Skating,Speed skating,Men,5000M,USA,Silver
+2002,Skating,Speed skating,Women,5000M,CAN,Bronze
+2002,Skating,Speed skating,Women,5000M,GER,Gold
+2002,Skating,Speed skating,Women,5000M,NED,Silver
+2002,Skating,Speed skating,Men,500M,USA,Bronze
+2002,Skating,Speed skating,Men,500M,USA,Gold
+2002,Skating,Speed skating,Men,500M,JPN,Silver
+2002,Skating,Speed skating,Women,500M,GER,Bronze
+2002,Skating,Speed skating,Women,500M,CAN,Gold
+2002,Skating,Speed skating,Women,500M,GER,Silver
+2002,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Bronze
+2002,Skiing,Alpine Skiing,Men,Alpine Combined,NOR,Gold
+2002,Skiing,Alpine Skiing,Men,Alpine Combined,USA,Silver
+2002,Skiing,Alpine Skiing,Women,Alpine Combined,GER,Bronze
+2002,Skiing,Alpine Skiing,Women,Alpine Combined,CRO,Gold
+2002,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Silver
+2002,Skiing,Alpine Skiing,Men,Downhill,AUT,Bronze
+2002,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+2002,Skiing,Alpine Skiing,Men,Downhill,NOR,Silver
+2002,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+2002,Skiing,Alpine Skiing,Women,Downhill,FRA,Gold
+2002,Skiing,Alpine Skiing,Women,Downhill,ITA,Silver
+2002,Skiing,Alpine Skiing,Men,Giant Slalom,NOR,Bronze
+2002,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Gold
+2002,Skiing,Alpine Skiing,Men,Giant Slalom,USA,Silver
+2002,Skiing,Alpine Skiing,Women,Giant Slalom,SUI,Bronze
+2002,Skiing,Alpine Skiing,Women,Giant Slalom,CRO,Gold
+2002,Skiing,Alpine Skiing,Women,Giant Slalom,SWE,Silver
+2002,Skiing,Alpine Skiing,Men,Slalom,AUT,Bronze
+2002,Skiing,Alpine Skiing,Men,Slalom,FRA,Gold
+2002,Skiing,Alpine Skiing,Men,Slalom,FRA,Silver
+2002,Skiing,Alpine Skiing,Women,Slalom,SWE,Bronze
+2002,Skiing,Alpine Skiing,Women,Slalom,CRO,Gold
+2002,Skiing,Alpine Skiing,Women,Slalom,FRA,Silver
+2002,Skiing,Alpine Skiing,Men,Super-G,AUT,Bronze
+2002,Skiing,Alpine Skiing,Men,Super-G,NOR,Gold
+2002,Skiing,Alpine Skiing,Men,Super-G,AUT,Silver
+2002,Skiing,Alpine Skiing,Women,Super-G,ITA,Bronze
+2002,Skiing,Alpine Skiing,Women,Super-G,ITA,Gold
+2002,Skiing,Alpine Skiing,Women,Super-G,CRO,Silver
+2002,Skiing,Cross Country Skiing,Women,10KM,ITA,Bronze
+2002,Skiing,Cross Country Skiing,Women,10KM,NOR,Gold
+2002,Skiing,Cross Country Skiing,Women,10KM,RUS,Silver
+2002,Skiing,Cross Country Skiing,Men,10KM Pursuit,SWE,Bronze
+2002,Skiing,Cross Country Skiing,Men,10KM Pursuit,NOR,Gold
+2002,Skiing,Cross Country Skiing,Men,10KM Pursuit,NOR,Gold
+2002,Skiing,Cross Country Skiing,Men,15KM,EST,Bronze
+2002,Skiing,Cross Country Skiing,Men,15KM,EST,Gold
+2002,Skiing,Cross Country Skiing,Men,15KM,NOR,Silver
+2002,Skiing,Cross Country Skiing,Women,15KM Mass Start,RUS,Bronze
+2002,Skiing,Cross Country Skiing,Women,15KM Mass Start,ITA,Gold
+2002,Skiing,Cross Country Skiing,Women,15KM Mass Start,CZE,Silver
+2002,Skiing,Cross Country Skiing,Women,30KM,NOR,Bronze
+2002,Skiing,Cross Country Skiing,Women,30KM,ITA,Gold
+2002,Skiing,Cross Country Skiing,Women,30KM,ITA,Silver
+2002,Skiing,Cross Country Skiing,Men,30KM Mass Start,NOR,Bronze
+2002,Skiing,Cross Country Skiing,Men,30KM Mass Start,AUT,Gold
+2002,Skiing,Cross Country Skiing,Men,30KM Mass Start,AUT,Silver
+2002,Skiing,Cross Country Skiing,Men,4X10KM Relay,GER,Bronze
+2002,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Gold
+2002,Skiing,Cross Country Skiing,Men,4X10KM Relay,ITA,Silver
+2002,Skiing,Cross Country Skiing,Women,4X5KM Relay,SUI,Bronze
+2002,Skiing,Cross Country Skiing,Women,4X5KM Relay,GER,Gold
+2002,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Silver
+2002,Skiing,Cross Country Skiing,Men,50KM,NOR,Bronze
+2002,Skiing,Cross Country Skiing,Men,50KM,RUS,Gold
+2002,Skiing,Cross Country Skiing,Men,50KM,EST,Silver
+2002,Skiing,Cross Country Skiing,Women,5Km Pursuit,GER,Bronze
+2002,Skiing,Cross Country Skiing,Women,5Km Pursuit,CAN,Gold
+2002,Skiing,Cross Country Skiing,Women,5Km Pursuit,CZE,Silver
+2002,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,ITA,Bronze
+2002,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,NOR,Gold
+2002,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,GER,Silver
+2002,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,NOR,Bronze
+2002,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,RUS,Gold
+2002,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,GER,Silver
+2002,Skiing,Freestyle Skiing,Men,Aerials,BLR,Bronze
+2002,Skiing,Freestyle Skiing,Men,Aerials,CZE,Gold
+2002,Skiing,Freestyle Skiing,Men,Aerials,USA,Silver
+2002,Skiing,Freestyle Skiing,Women,Aerials,CAN,Bronze
+2002,Skiing,Freestyle Skiing,Women,Aerials,AUS,Gold
+2002,Skiing,Freestyle Skiing,Women,Aerials,CAN,Silver
+2002,Skiing,Freestyle Skiing,Men,Moguls,FRA,Bronze
+2002,Skiing,Freestyle Skiing,Men,Moguls,FIN,Gold
+2002,Skiing,Freestyle Skiing,Men,Moguls,USA,Silver
+2002,Skiing,Freestyle Skiing,Women,Moguls,JPN,Bronze
+2002,Skiing,Freestyle Skiing,Women,Moguls,NOR,Gold
+2002,Skiing,Freestyle Skiing,Women,Moguls,USA,Silver
+2002,Skiing,Nordic Combined,Men,Individual,AUT,Bronze
+2002,Skiing,Nordic Combined,Men,Individual,FIN,Gold
+2002,Skiing,Nordic Combined,Men,Individual,FIN,Silver
+2002,Skiing,Nordic Combined,Men,Sprint,AUT,Bronze
+2002,Skiing,Nordic Combined,Men,Sprint,FIN,Gold
+2002,Skiing,Nordic Combined,Men,Sprint,GER,Silver
+2002,Skiing,Nordic Combined,Men,Team,AUT,Bronze
+2002,Skiing,Nordic Combined,Men,Team,FIN,Gold
+2002,Skiing,Nordic Combined,Men,Team,GER,Silver
+2002,Skiing,Ski Jumping,Men,K120 Individual (90M),FIN,Bronze
+2002,Skiing,Ski Jumping,Men,K120 Individual (90M),SUI,Gold
+2002,Skiing,Ski Jumping,Men,K120 Individual (90M),POL,Silver
+2002,Skiing,Ski Jumping,Men,K120 Team (90M),SLO,Bronze
+2002,Skiing,Ski Jumping,Men,K120 Team (90M),GER,Gold
+2002,Skiing,Ski Jumping,Men,K120 Team (90M),FIN,Silver
+2002,Skiing,Ski Jumping,Men,K90 Individual (70M),POL,Bronze
+2002,Skiing,Ski Jumping,Men,K90 Individual (70M),SUI,Gold
+2002,Skiing,Ski Jumping,Men,K90 Individual (70M),GER,Silver
+2002,Skiing,Snowboard,Men,Giant Parallel Slalom,USA,Bronze
+2002,Skiing,Snowboard,Men,Giant Parallel Slalom,SUI,Gold
+2002,Skiing,Snowboard,Men,Giant Parallel Slalom,SWE,Silver
+2002,Skiing,Snowboard,Women,Giant Parallel Slalom,ITA,Bronze
+2002,Skiing,Snowboard,Women,Giant Parallel Slalom,FRA,Gold
+2002,Skiing,Snowboard,Women,Giant Parallel Slalom,FRA,Silver
+2002,Skiing,Snowboard,Men,Half-Pipe,USA,Bronze
+2002,Skiing,Snowboard,Men,Half-Pipe,USA,Gold
+2002,Skiing,Snowboard,Men,Half-Pipe,USA,Silver
+2002,Skiing,Snowboard,Women,Half-Pipe,SUI,Bronze
+2002,Skiing,Snowboard,Women,Half-Pipe,USA,Gold
+2002,Skiing,Snowboard,Women,Half-Pipe,FRA,Silver
+2006,Biathlon,Biathlon,Men,10KM,NOR,Bronze
+2006,Biathlon,Biathlon,Men,10KM,GER,Gold
+2006,Biathlon,Biathlon,Men,10KM,NOR,Silver
+2006,Biathlon,Biathlon,Women,10KM Pursuit,RUS,Bronze
+2006,Biathlon,Biathlon,Women,10KM Pursuit,GER,Gold
+2006,Biathlon,Biathlon,Women,10KM Pursuit,GER,Silver
+2006,Biathlon,Biathlon,Women,12.5KM Mass Start,GER,Bronze
+2006,Biathlon,Biathlon,Women,12.5KM Mass Start,SWE,Gold
+2006,Biathlon,Biathlon,Women,12.5KM Mass Start,GER,Silver
+2006,Biathlon,Biathlon,Men,12.5Km Pursuit,GER,Bronze
+2006,Biathlon,Biathlon,Men,12.5Km Pursuit,FRA,Gold
+2006,Biathlon,Biathlon,Men,12.5Km Pursuit,NOR,Silver
+2006,Biathlon,Biathlon,Women,15KM,RUS,Bronze
+2006,Biathlon,Biathlon,Women,15KM,RUS,Gold
+2006,Biathlon,Biathlon,Women,15KM,GER,Silver
+2006,Biathlon,Biathlon,Men,15KM Mass Start,NOR,Bronze
+2006,Biathlon,Biathlon,Men,15KM Mass Start,GER,Gold
+2006,Biathlon,Biathlon,Men,15KM Mass Start,POL,Silver
+2006,Biathlon,Biathlon,Men,20KM,NOR,Bronze
+2006,Biathlon,Biathlon,Men,20KM,GER,Gold
+2006,Biathlon,Biathlon,Men,20KM,NOR,Silver
+2006,Biathlon,Biathlon,Women,4X6KM Relay,FRA,Bronze
+2006,Biathlon,Biathlon,Women,4X6KM Relay,RUS,Gold
+2006,Biathlon,Biathlon,Women,4X6KM Relay,GER,Silver
+2006,Biathlon,Biathlon,Men,4X7.5KM Relay,FRA,Bronze
+2006,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Gold
+2006,Biathlon,Biathlon,Men,4X7.5KM Relay,RUS,Silver
+2006,Biathlon,Biathlon,Women,7.5KM,UKR,Bronze
+2006,Biathlon,Biathlon,Women,7.5KM,FRA,Gold
+2006,Biathlon,Biathlon,Women,7.5KM,SWE,Silver
+2006,Bobsleigh,Bobsleigh,Men,Four-Man,SUI,Bronze
+2006,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Gold
+2006,Bobsleigh,Bobsleigh,Men,Four-Man,RUS,Silver
+2006,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Bronze
+2006,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Gold
+2006,Bobsleigh,Bobsleigh,Men,Two-Man,CAN,Silver
+2006,Bobsleigh,Bobsleigh,Women,Two-Man,ITA,Bronze
+2006,Bobsleigh,Bobsleigh,Women,Two-Man,GER,Gold
+2006,Bobsleigh,Bobsleigh,Women,Two-Man,USA,Silver
+2006,Bobsleigh,Skeleton,Men,Individual,SUI,Bronze
+2006,Bobsleigh,Skeleton,Men,Individual,CAN,Gold
+2006,Bobsleigh,Skeleton,Men,Individual,CAN,Silver
+2006,Bobsleigh,Skeleton,Women,Individual,CAN,Bronze
+2006,Bobsleigh,Skeleton,Women,Individual,SUI,Gold
+2006,Bobsleigh,Skeleton,Women,Individual,GBR,Silver
+2006,Curling,Curling,Men,Curling,USA,Bronze
+2006,Curling,Curling,Men,Curling,CAN,Gold
+2006,Curling,Curling,Men,Curling,FIN,Silver
+2006,Curling,Curling,Women,Curling,CAN,Bronze
+2006,Curling,Curling,Women,Curling,SWE,Gold
+2006,Curling,Curling,Women,Curling,SUI,Silver
+2006,Ice Hockey,Ice Hockey,Men,Ice Hockey,CZE,Bronze
+2006,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Gold
+2006,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Silver
+2006,Ice Hockey,Ice Hockey,Women,Ice Hockey,USA,Bronze
+2006,Ice Hockey,Ice Hockey,Women,Ice Hockey,CAN,Gold
+2006,Ice Hockey,Ice Hockey,Women,Ice Hockey,SWE,Silver
+2006,Luge,Luge,Men,Doubles,ITA,Bronze
+2006,Luge,Luge,Men,Doubles,AUT,Gold
+2006,Luge,Luge,Men,Doubles,GER,Silver
+2006,Luge,Luge,Men,Singles,LAT,Bronze
+2006,Luge,Luge,Men,Singles,ITA,Gold
+2006,Luge,Luge,Men,Singles,RUS,Silver
+2006,Luge,Luge,Women,Singles,GER,Bronze
+2006,Luge,Luge,Women,Singles,GER,Gold
+2006,Luge,Luge,Women,Singles,GER,Silver
+2006,Skating,Figure skating,Men,Ice Dancing,UKR,Bronze
+2006,Skating,Figure skating,Men,Ice Dancing,RUS,Gold
+2006,Skating,Figure skating,Men,Ice Dancing,USA,Silver
+2006,Skating,Figure skating,Women,Ice Dancing,UKR,Bronze
+2006,Skating,Figure skating,Women,Ice Dancing,RUS,Gold
+2006,Skating,Figure skating,Women,Ice Dancing,USA,Silver
+2006,Skating,Figure skating,Men,Individual,CAN,Bronze
+2006,Skating,Figure skating,Men,Individual,RUS,Gold
+2006,Skating,Figure skating,Men,Individual,SUI,Silver
+2006,Skating,Figure skating,Women,Individual,RUS,Bronze
+2006,Skating,Figure skating,Women,Individual,JPN,Gold
+2006,Skating,Figure skating,Women,Individual,USA,Silver
+2006,Skating,Figure skating,Men,Pairs,CHN,Bronze
+2006,Skating,Figure skating,Men,Pairs,RUS,Gold
+2006,Skating,Figure skating,Men,Pairs,CHN,Silver
+2006,Skating,Figure skating,Women,Pairs,CHN,Bronze
+2006,Skating,Figure skating,Women,Pairs,RUS,Gold
+2006,Skating,Figure skating,Women,Pairs,CHN,Silver
+2006,Skating,Short Track Speed Skating,Men,1000M,USA,Bronze
+2006,Skating,Short Track Speed Skating,Men,1000M,KOR,Gold
+2006,Skating,Short Track Speed Skating,Men,1000M,KOR,Silver
+2006,Skating,Short Track Speed Skating,Women,1000M,CHN,Bronze
+2006,Skating,Short Track Speed Skating,Women,1000M,KOR,Gold
+2006,Skating,Short Track Speed Skating,Women,1000M,CHN,Silver
+2006,Skating,Short Track Speed Skating,Men,1500M,CHN,Bronze
+2006,Skating,Short Track Speed Skating,Men,1500M,KOR,Gold
+2006,Skating,Short Track Speed Skating,Men,1500M,KOR,Silver
+2006,Skating,Short Track Speed Skating,Women,1500M,CHN,Bronze
+2006,Skating,Short Track Speed Skating,Women,1500M,KOR,Gold
+2006,Skating,Short Track Speed Skating,Women,1500M,KOR,Silver
+2006,Skating,Short Track Speed Skating,Women,3000M Relay,ITA,Bronze
+2006,Skating,Short Track Speed Skating,Women,3000M Relay,KOR,Gold
+2006,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Silver
+2006,Skating,Short Track Speed Skating,Men,5000M Relay,USA,Bronze
+2006,Skating,Short Track Speed Skating,Men,5000M Relay,KOR,Gold
+2006,Skating,Short Track Speed Skating,Men,5000M Relay,CAN,Silver
+2006,Skating,Short Track Speed Skating,Men,500M,KOR,Bronze
+2006,Skating,Short Track Speed Skating,Men,500M,USA,Gold
+2006,Skating,Short Track Speed Skating,Men,500M,CAN,Silver
+2006,Skating,Short Track Speed Skating,Women,500M,CAN,Bronze
+2006,Skating,Short Track Speed Skating,Women,500M,CHN,Gold
+2006,Skating,Short Track Speed Skating,Women,500M,BUL,Silver
+2006,Skating,Speed skating,Men,10000M,NED,Bronze
+2006,Skating,Speed skating,Men,10000M,NED,Gold
+2006,Skating,Speed skating,Men,10000M,USA,Silver
+2006,Skating,Speed skating,Men,1000M,NED,Bronze
+2006,Skating,Speed skating,Men,1000M,USA,Gold
+2006,Skating,Speed skating,Men,1000M,USA,Silver
+2006,Skating,Speed skating,Women,1000M,GER,Bronze
+2006,Skating,Speed skating,Women,1000M,NED,Gold
+2006,Skating,Speed skating,Women,1000M,CAN,Silver
+2006,Skating,Speed skating,Men,1500M,USA,Bronze
+2006,Skating,Speed skating,Men,1500M,ITA,Gold
+2006,Skating,Speed skating,Men,1500M,USA,Silver
+2006,Skating,Speed skating,Women,1500M,NED,Bronze
+2006,Skating,Speed skating,Women,1500M,CAN,Gold
+2006,Skating,Speed skating,Women,1500M,CAN,Silver
+2006,Skating,Speed skating,Women,3000M,CAN,Bronze
+2006,Skating,Speed skating,Women,3000M,NED,Gold
+2006,Skating,Speed skating,Women,3000M,NED,Silver
+2006,Skating,Speed skating,Men,5000M,ITA,Bronze
+2006,Skating,Speed skating,Men,5000M,USA,Gold
+2006,Skating,Speed skating,Men,5000M,NED,Silver
+2006,Skating,Speed skating,Women,5000M,CAN,Bronze
+2006,Skating,Speed skating,Women,5000M,CAN,Gold
+2006,Skating,Speed skating,Women,5000M,GER,Silver
+2006,Skating,Speed skating,Men,500M,KOR,Bronze
+2006,Skating,Speed skating,Men,500M,USA,Gold
+2006,Skating,Speed skating,Men,500M,RUS,Silver
+2006,Skating,Speed skating,Women,500M,CHN,Bronze
+2006,Skating,Speed skating,Women,500M,RUS,Gold
+2006,Skating,Speed skating,Women,500M,CHN,Silver
+2006,Skating,Speed skating,Men,Team Pursuit,NED,Bronze
+2006,Skating,Speed skating,Men,Team Pursuit,ITA,Gold
+2006,Skating,Speed skating,Men,Team Pursuit,CAN,Silver
+2006,Skating,Speed skating,Women,Team Pursuit,RUS,Bronze
+2006,Skating,Speed skating,Women,Team Pursuit,GER,Gold
+2006,Skating,Speed skating,Women,Team Pursuit,CAN,Silver
+2006,Skiing,Alpine Skiing,Men,Alpine Combined,AUT,Bronze
+2006,Skiing,Alpine Skiing,Men,Alpine Combined,USA,Gold
+2006,Skiing,Alpine Skiing,Men,Alpine Combined,CRO,Silver
+2006,Skiing,Alpine Skiing,Women,Alpine Combined,SWE,Bronze
+2006,Skiing,Alpine Skiing,Women,Alpine Combined,CRO,Gold
+2006,Skiing,Alpine Skiing,Women,Alpine Combined,AUT,Silver
+2006,Skiing,Alpine Skiing,Men,Downhill,SUI,Bronze
+2006,Skiing,Alpine Skiing,Men,Downhill,FRA,Gold
+2006,Skiing,Alpine Skiing,Men,Downhill,AUT,Silver
+2006,Skiing,Alpine Skiing,Women,Downhill,SWE,Bronze
+2006,Skiing,Alpine Skiing,Women,Downhill,AUT,Gold
+2006,Skiing,Alpine Skiing,Women,Downhill,SUI,Silver
+2006,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Bronze
+2006,Skiing,Alpine Skiing,Men,Giant Slalom,AUT,Gold
+2006,Skiing,Alpine Skiing,Men,Giant Slalom,FRA,Silver
+2006,Skiing,Alpine Skiing,Women,Giant Slalom,SWE,Bronze
+2006,Skiing,Alpine Skiing,Women,Giant Slalom,USA,Gold
+2006,Skiing,Alpine Skiing,Women,Giant Slalom,FIN,Silver
+2006,Skiing,Alpine Skiing,Men,Slalom,AUT,Bronze
+2006,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+2006,Skiing,Alpine Skiing,Men,Slalom,AUT,Silver
+2006,Skiing,Alpine Skiing,Women,Slalom,AUT,Bronze
+2006,Skiing,Alpine Skiing,Women,Slalom,SWE,Gold
+2006,Skiing,Alpine Skiing,Women,Slalom,AUT,Silver
+2006,Skiing,Alpine Skiing,Men,Super-G,SUI,Bronze
+2006,Skiing,Alpine Skiing,Men,Super-G,NOR,Gold
+2006,Skiing,Alpine Skiing,Men,Super-G,AUT,Silver
+2006,Skiing,Alpine Skiing,Women,Super-G,AUT,Bronze
+2006,Skiing,Alpine Skiing,Women,Super-G,AUT,Gold
+2006,Skiing,Alpine Skiing,Women,Super-G,CRO,Silver
+2006,Skiing,Cross Country Skiing,Women,10KM,NOR,Bronze
+2006,Skiing,Cross Country Skiing,Women,10KM,EST,Gold
+2006,Skiing,Cross Country Skiing,Women,10KM,NOR,Silver
+2006,Skiing,Cross Country Skiing,Men,15KM,GER,Bronze
+2006,Skiing,Cross Country Skiing,Men,15KM,EST,Gold
+2006,Skiing,Cross Country Skiing,Men,15KM,CZE,Silver
+2006,Skiing,Cross Country Skiing,Women,30KM,POL,Bronze
+2006,Skiing,Cross Country Skiing,Women,30KM,CZE,Gold
+2006,Skiing,Cross Country Skiing,Women,30KM,RUS,Silver
+2006,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Bronze
+2006,Skiing,Cross Country Skiing,Men,4X10KM Relay,ITA,Gold
+2006,Skiing,Cross Country Skiing,Men,4X10KM Relay,GER,Silver
+2006,Skiing,Cross Country Skiing,Women,4X5KM Relay,ITA,Bronze
+2006,Skiing,Cross Country Skiing,Women,4X5KM Relay,RUS,Gold
+2006,Skiing,Cross Country Skiing,Women,4X5KM Relay,GER,Silver
+2006,Skiing,Cross Country Skiing,Men,50KM,AUT,Bronze
+2006,Skiing,Cross Country Skiing,Men,50KM,ITA,Gold
+2006,Skiing,Cross Country Skiing,Men,50KM,RUS,Silver
+2006,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,ITA,Bronze
+2006,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,RUS,Gold
+2006,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,NOR,Silver
+2006,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,RUS,Bronze
+2006,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,EST,Gold
+2006,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,CZE,Silver
+2006,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,SWE,Bronze
+2006,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,SWE,Gold
+2006,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,FRA,Silver
+2006,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,RUS,Bronze
+2006,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,CAN,Gold
+2006,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,GER,Silver
+2006,Skiing,Cross Country Skiing,Men,Team Sprint,RUS,Bronze
+2006,Skiing,Cross Country Skiing,Men,Team Sprint,SWE,Gold
+2006,Skiing,Cross Country Skiing,Men,Team Sprint,NOR,Silver
+2006,Skiing,Cross Country Skiing,Women,Team Sprint,FIN,Bronze
+2006,Skiing,Cross Country Skiing,Women,Team Sprint,SWE,Gold
+2006,Skiing,Cross Country Skiing,Women,Team Sprint,CAN,Silver
+2006,Skiing,Freestyle Skiing,Men,Aerials,RUS,Bronze
+2006,Skiing,Freestyle Skiing,Men,Aerials,CHN,Gold
+2006,Skiing,Freestyle Skiing,Men,Aerials,BLR,Silver
+2006,Skiing,Freestyle Skiing,Women,Aerials,AUS,Bronze
+2006,Skiing,Freestyle Skiing,Women,Aerials,SUI,Gold
+2006,Skiing,Freestyle Skiing,Women,Aerials,CHN,Silver
+2006,Skiing,Freestyle Skiing,Men,Moguls,USA,Bronze
+2006,Skiing,Freestyle Skiing,Men,Moguls,AUS,Gold
+2006,Skiing,Freestyle Skiing,Men,Moguls,FIN,Silver
+2006,Skiing,Freestyle Skiing,Women,Moguls,FRA,Bronze
+2006,Skiing,Freestyle Skiing,Women,Moguls,CAN,Gold
+2006,Skiing,Freestyle Skiing,Women,Moguls,NOR,Silver
+2006,Skiing,Nordic Combined,Men,Individual,NOR,Bronze
+2006,Skiing,Nordic Combined,Men,Individual,GER,Gold
+2006,Skiing,Nordic Combined,Men,Individual,AUT,Silver
+2006,Skiing,Nordic Combined,Men,Individual Sprint,GER,Bronze
+2006,Skiing,Nordic Combined,Men,Individual Sprint,AUT,Gold
+2006,Skiing,Nordic Combined,Men,Individual Sprint,NOR,Silver
+2006,Skiing,Nordic Combined,Men,Team,FIN,Bronze
+2006,Skiing,Nordic Combined,Men,Team,AUT,Gold
+2006,Skiing,Nordic Combined,Men,Team,GER,Silver
+2006,Skiing,Ski Jumping,Men,K120 Individual (90M),NOR,Bronze
+2006,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Gold
+2006,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Silver
+2006,Skiing,Ski Jumping,Men,K120 Team (90M),NOR,Bronze
+2006,Skiing,Ski Jumping,Men,K120 Team (90M),AUT,Gold
+2006,Skiing,Ski Jumping,Men,K120 Team (90M),FIN,Silver
+2006,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Bronze
+2006,Skiing,Ski Jumping,Men,K90 Individual (70M),NOR,Gold
+2006,Skiing,Ski Jumping,Men,K90 Individual (70M),FIN,Silver
+2006,Skiing,Snowboard,Men,Giant Parallel Slalom,AUT,Bronze
+2006,Skiing,Snowboard,Men,Giant Parallel Slalom,SUI,Gold
+2006,Skiing,Snowboard,Men,Giant Parallel Slalom,SUI,Silver
+2006,Skiing,Snowboard,Women,Giant Parallel Slalom,USA,Bronze
+2006,Skiing,Snowboard,Women,Giant Parallel Slalom,SUI,Gold
+2006,Skiing,Snowboard,Women,Giant Parallel Slalom,GER,Silver
+2006,Skiing,Snowboard,Men,Half-Pipe,FIN,Bronze
+2006,Skiing,Snowboard,Men,Half-Pipe,USA,Gold
+2006,Skiing,Snowboard,Men,Half-Pipe,USA,Silver
+2006,Skiing,Snowboard,Women,Half-Pipe,NOR,Bronze
+2006,Skiing,Snowboard,Women,Half-Pipe,USA,Gold
+2006,Skiing,Snowboard,Women,Half-Pipe,USA,Silver
+2006,Skiing,Snowboard,Men,Snowboard Cross,FRA,Bronze
+2006,Skiing,Snowboard,Men,Snowboard Cross,USA,Gold
+2006,Skiing,Snowboard,Men,Snowboard Cross,SVK,Silver
+2006,Skiing,Snowboard,Women,Snowboard Cross,CAN,Bronze
+2006,Skiing,Snowboard,Women,Snowboard Cross,SUI,Gold
+2006,Skiing,Snowboard,Women,Snowboard Cross,USA,Silver
+2010,Biathlon,Biathlon,Men,10KM,CRO,Bronze
+2010,Biathlon,Biathlon,Men,10KM,FRA,Gold
+2010,Biathlon,Biathlon,Men,10KM,NOR,Silver
+2010,Biathlon,Biathlon,Women,10KM Pursuit,FRA,Bronze
+2010,Biathlon,Biathlon,Women,10KM Pursuit,GER,Gold
+2010,Biathlon,Biathlon,Women,10KM Pursuit,SVK,Silver
+2010,Biathlon,Biathlon,Women,12.5KM Mass Start,GER,Bronze
+2010,Biathlon,Biathlon,Women,12.5KM Mass Start,GER,Gold
+2010,Biathlon,Biathlon,Women,12.5KM Mass Start,RUS,Silver
+2010,Biathlon,Biathlon,Men,12.5Km Pursuit,FRA,Bronze
+2010,Biathlon,Biathlon,Men,12.5Km Pursuit,SWE,Gold
+2010,Biathlon,Biathlon,Men,12.5Km Pursuit,AUT,Silver
+2010,Biathlon,Biathlon,Women,15KM,BLR,Bronze
+2010,Biathlon,Biathlon,Women,15KM,NOR,Gold
+2010,Biathlon,Biathlon,Women,15KM,KAZ,Silver
+2010,Biathlon,Biathlon,Men,15KM Mass Start,SVK,Bronze
+2010,Biathlon,Biathlon,Men,15KM Mass Start,RUS,Gold
+2010,Biathlon,Biathlon,Men,15KM Mass Start,FRA,Silver
+2010,Biathlon,Biathlon,Men,20KM,NOR,Gold
+2010,Biathlon,Biathlon,Men,20KM,BLR,Silver
+2010,Biathlon,Biathlon,Men,20KM,NOR,Silver
+2010,Biathlon,Biathlon,Women,4X6KM Relay,GER,Bronze
+2010,Biathlon,Biathlon,Women,4X6KM Relay,RUS,Gold
+2010,Biathlon,Biathlon,Women,4X6KM Relay,FRA,Silver
+2010,Biathlon,Biathlon,Men,4X7.5KM Relay,RUS,Bronze
+2010,Biathlon,Biathlon,Men,4X7.5KM Relay,NOR,Gold
+2010,Biathlon,Biathlon,Men,4X7.5KM Relay,AUT,Silver
+2010,Biathlon,Biathlon,Women,7.5KM,FRA,Bronze
+2010,Biathlon,Biathlon,Women,7.5KM,SVK,Gold
+2010,Biathlon,Biathlon,Women,7.5KM,GER,Silver
+2010,Bobsleigh,Bobsleigh,Men,Four-Man,CAN,Bronze
+2010,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Gold
+2010,Bobsleigh,Bobsleigh,Men,Four-Man,GER,Silver
+2010,Bobsleigh,Bobsleigh,Men,Two-Man,RUS,Bronze
+2010,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Gold
+2010,Bobsleigh,Bobsleigh,Men,Two-Man,GER,Silver
+2010,Bobsleigh,Bobsleigh,Women,Two-Man,USA,Bronze
+2010,Bobsleigh,Bobsleigh,Women,Two-Man,CAN,Gold
+2010,Bobsleigh,Bobsleigh,Women,Two-Man,CAN,Silver
+2010,Bobsleigh,Skeleton,Men,Individual,RUS,Bronze
+2010,Bobsleigh,Skeleton,Men,Individual,CAN,Gold
+2010,Bobsleigh,Skeleton,Men,Individual,LAT,Silver
+2010,Bobsleigh,Skeleton,Women,Individual,GER,Bronze
+2010,Bobsleigh,Skeleton,Women,Individual,GBR,Gold
+2010,Bobsleigh,Skeleton,Women,Individual,GER,Silver
+2010,Curling,Curling,Men,Curling,SUI,Bronze
+2010,Curling,Curling,Men,Curling,CAN,Gold
+2010,Curling,Curling,Men,Curling,NOR,Silver
+2010,Curling,Curling,Women,Curling,CHN,Bronze
+2010,Curling,Curling,Women,Curling,SWE,Gold
+2010,Curling,Curling,Women,Curling,CAN,Silver
+2010,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Bronze
+2010,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+2010,Ice Hockey,Ice Hockey,Men,Ice Hockey,USA,Silver
+2010,Ice Hockey,Ice Hockey,Women,Ice Hockey,FIN,Bronze
+2010,Ice Hockey,Ice Hockey,Women,Ice Hockey,CAN,Gold
+2010,Ice Hockey,Ice Hockey,Women,Ice Hockey,USA,Silver
+2010,Luge,Luge,Men,Doubles,GER,Bronze
+2010,Luge,Luge,Men,Doubles,AUT,Gold
+2010,Luge,Luge,Men,Doubles,LAT,Silver
+2010,Luge,Luge,Men,Singles,ITA,Bronze
+2010,Luge,Luge,Men,Singles,GER,Gold
+2010,Luge,Luge,Men,Singles,GER,Silver
+2010,Luge,Luge,Women,Singles,GER,Bronze
+2010,Luge,Luge,Women,Singles,GER,Gold
+2010,Luge,Luge,Women,Singles,AUT,Silver
+2010,Skating,Figure skating,Men,Ice Dancing,RUS,Bronze
+2010,Skating,Figure skating,Men,Ice Dancing,CAN,Gold
+2010,Skating,Figure skating,Men,Ice Dancing,USA,Silver
+2010,Skating,Figure skating,Women,Ice Dancing,RUS,Bronze
+2010,Skating,Figure skating,Women,Ice Dancing,CAN,Gold
+2010,Skating,Figure skating,Women,Ice Dancing,USA,Silver
+2010,Skating,Figure skating,Men,Individual,JPN,Bronze
+2010,Skating,Figure skating,Men,Individual,USA,Gold
+2010,Skating,Figure skating,Men,Individual,RUS,Silver
+2010,Skating,Figure skating,Women,Individual,CAN,Bronze
+2010,Skating,Figure skating,Women,Individual,KOR,Gold
+2010,Skating,Figure skating,Women,Individual,JPN,Silver
+2010,Skating,Figure skating,Men,Pairs,GER,Bronze
+2010,Skating,Figure skating,Men,Pairs,CHN,Gold
+2010,Skating,Figure skating,Men,Pairs,CHN,Silver
+2010,Skating,Figure skating,Women,Pairs,GER,Bronze
+2010,Skating,Figure skating,Women,Pairs,CHN,Gold
+2010,Skating,Figure skating,Women,Pairs,CHN,Silver
+2010,Skating,Short Track Speed Skating,Men,1000M,USA,Bronze
+2010,Skating,Short Track Speed Skating,Men,1000M,KOR,Gold
+2010,Skating,Short Track Speed Skating,Men,1000M,KOR,Silver
+2010,Skating,Short Track Speed Skating,Women,1000M,KOR,Bronze
+2010,Skating,Short Track Speed Skating,Women,1000M,CHN,Gold
+2010,Skating,Short Track Speed Skating,Women,1000M,USA,Silver
+2010,Skating,Short Track Speed Skating,Men,1500M,USA,Bronze
+2010,Skating,Short Track Speed Skating,Men,1500M,KOR,Gold
+2010,Skating,Short Track Speed Skating,Men,1500M,USA,Silver
+2010,Skating,Short Track Speed Skating,Women,1500M,KOR,Bronze
+2010,Skating,Short Track Speed Skating,Women,1500M,CHN,Gold
+2010,Skating,Short Track Speed Skating,Women,1500M,KOR,Silver
+2010,Skating,Short Track Speed Skating,Women,3000M Relay,USA,Bronze
+2010,Skating,Short Track Speed Skating,Women,3000M Relay,CHN,Gold
+2010,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Silver
+2010,Skating,Short Track Speed Skating,Men,5000M Relay,USA,Bronze
+2010,Skating,Short Track Speed Skating,Men,5000M Relay,CAN,Gold
+2010,Skating,Short Track Speed Skating,Men,5000M Relay,KOR,Silver
+2010,Skating,Short Track Speed Skating,Men,500M,CAN,Bronze
+2010,Skating,Short Track Speed Skating,Men,500M,CAN,Gold
+2010,Skating,Short Track Speed Skating,Men,500M,KOR,Silver
+2010,Skating,Short Track Speed Skating,Women,500M,ITA,Bronze
+2010,Skating,Short Track Speed Skating,Women,500M,CHN,Gold
+2010,Skating,Short Track Speed Skating,Women,500M,CAN,Silver
+2010,Skating,Speed skating,Men,10000M,NED,Bronze
+2010,Skating,Speed skating,Men,10000M,KOR,Gold
+2010,Skating,Speed skating,Men,10000M,RUS,Silver
+2010,Skating,Speed skating,Men,1000M,USA,Bronze
+2010,Skating,Speed skating,Men,1000M,USA,Gold
+2010,Skating,Speed skating,Men,1000M,KOR,Silver
+2010,Skating,Speed skating,Women,1000M,NED,Bronze
+2010,Skating,Speed skating,Women,1000M,CAN,Gold
+2010,Skating,Speed skating,Women,1000M,NED,Silver
+2010,Skating,Speed skating,Men,1500M,NOR,Bronze
+2010,Skating,Speed skating,Men,1500M,NED,Gold
+2010,Skating,Speed skating,Men,1500M,USA,Silver
+2010,Skating,Speed skating,Women,1500M,CZE,Bronze
+2010,Skating,Speed skating,Women,1500M,NED,Gold
+2010,Skating,Speed skating,Women,1500M,CAN,Silver
+2010,Skating,Speed skating,Women,3000M,CAN,Bronze
+2010,Skating,Speed skating,Women,3000M,CZE,Gold
+2010,Skating,Speed skating,Women,3000M,GER,Silver
+2010,Skating,Speed skating,Men,5000M,RUS,Bronze
+2010,Skating,Speed skating,Men,5000M,NED,Gold
+2010,Skating,Speed skating,Men,5000M,KOR,Silver
+2010,Skating,Speed skating,Women,5000M,CAN,Bronze
+2010,Skating,Speed skating,Women,5000M,CZE,Gold
+2010,Skating,Speed skating,Women,5000M,GER,Silver
+2010,Skating,Speed skating,Men,500M,JPN,Bronze
+2010,Skating,Speed skating,Men,500M,KOR,Gold
+2010,Skating,Speed skating,Men,500M,JPN,Silver
+2010,Skating,Speed skating,Women,500M,CHN,Bronze
+2010,Skating,Speed skating,Women,500M,KOR,Gold
+2010,Skating,Speed skating,Women,500M,GER,Silver
+2010,Skating,Speed skating,Men,Team Pursuit,NED,Bronze
+2010,Skating,Speed skating,Men,Team Pursuit,CAN,Gold
+2010,Skating,Speed skating,Men,Team Pursuit,USA,Silver
+2010,Skating,Speed skating,Women,Team Pursuit,POL,Bronze
+2010,Skating,Speed skating,Women,Team Pursuit,GER,Gold
+2010,Skating,Speed skating,Women,Team Pursuit,JPN,Silver
+2010,Skiing,Alpine Skiing,Men,Downhill,USA,Bronze
+2010,Skiing,Alpine Skiing,Men,Downhill,SUI,Gold
+2010,Skiing,Alpine Skiing,Men,Downhill,NOR,Silver
+2010,Skiing,Alpine Skiing,Women,Downhill,AUT,Bronze
+2010,Skiing,Alpine Skiing,Women,Downhill,USA,Gold
+2010,Skiing,Alpine Skiing,Women,Downhill,USA,Silver
+2010,Skiing,Alpine Skiing,Men,Giant Slalom,NOR,Bronze
+2010,Skiing,Alpine Skiing,Men,Giant Slalom,SUI,Gold
+2010,Skiing,Alpine Skiing,Men,Giant Slalom,NOR,Silver
+2010,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Bronze
+2010,Skiing,Alpine Skiing,Women,Giant Slalom,GER,Gold
+2010,Skiing,Alpine Skiing,Women,Giant Slalom,SLO,Silver
+2010,Skiing,Alpine Skiing,Men,Slalom,SWE,Bronze
+2010,Skiing,Alpine Skiing,Men,Slalom,ITA,Gold
+2010,Skiing,Alpine Skiing,Men,Slalom,CRO,Silver
+2010,Skiing,Alpine Skiing,Women,Slalom,CZE,Bronze
+2010,Skiing,Alpine Skiing,Women,Slalom,GER,Gold
+2010,Skiing,Alpine Skiing,Women,Slalom,AUT,Silver
+2010,Skiing,Alpine Skiing,Men,Super Combined,SUI,Bronze
+2010,Skiing,Alpine Skiing,Men,Super Combined,USA,Gold
+2010,Skiing,Alpine Skiing,Men,Super Combined,CRO,Silver
+2010,Skiing,Alpine Skiing,Women,Super Combined,SWE,Bronze
+2010,Skiing,Alpine Skiing,Women,Super Combined,GER,Gold
+2010,Skiing,Alpine Skiing,Women,Super Combined,USA,Silver
+2010,Skiing,Alpine Skiing,Men,Super-G,USA,Bronze
+2010,Skiing,Alpine Skiing,Men,Super-G,NOR,Gold
+2010,Skiing,Alpine Skiing,Men,Super-G,USA,Silver
+2010,Skiing,Alpine Skiing,Women,Super-G,USA,Bronze
+2010,Skiing,Alpine Skiing,Women,Super-G,AUT,Gold
+2010,Skiing,Alpine Skiing,Women,Super-G,SLO,Silver
+2010,Skiing,Cross Country Skiing,Women,10KM,NOR,Bronze
+2010,Skiing,Cross Country Skiing,Women,10KM,SWE,Gold
+2010,Skiing,Cross Country Skiing,Women,10KM,EST,Silver
+2010,Skiing,Cross Country Skiing,Men,15KM,CZE,Bronze
+2010,Skiing,Cross Country Skiing,Men,15KM,SUI,Gold
+2010,Skiing,Cross Country Skiing,Men,15KM,ITA,Silver
+2010,Skiing,Cross Country Skiing,Women,30KM,FIN,Bronze
+2010,Skiing,Cross Country Skiing,Women,30KM,POL,Gold
+2010,Skiing,Cross Country Skiing,Women,30KM,NOR,Silver
+2010,Skiing,Cross Country Skiing,Men,4X10KM Relay,CZE,Bronze
+2010,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+2010,Skiing,Cross Country Skiing,Men,4X10KM Relay,NOR,Silver
+2010,Skiing,Cross Country Skiing,Women,4X5KM Relay,FIN,Bronze
+2010,Skiing,Cross Country Skiing,Women,4X5KM Relay,NOR,Gold
+2010,Skiing,Cross Country Skiing,Women,4X5KM Relay,GER,Silver
+2010,Skiing,Cross Country Skiing,Men,50KM,SWE,Bronze
+2010,Skiing,Cross Country Skiing,Men,50KM,NOR,Gold
+2010,Skiing,Cross Country Skiing,Men,50KM,GER,Silver
+2010,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,SWE,Bronze
+2010,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,SWE,Gold
+2010,Skiing,Cross Country Skiing,Men,Combined 15 + 15KM Mass Start,GER,Silver
+2010,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,POL,Bronze
+2010,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,NOR,Gold
+2010,Skiing,Cross Country Skiing,Women,Combined 7.5 + 7.5Km Mass Start,SWE,Silver
+2010,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,NOR,Bronze
+2010,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,RUS,Gold
+2010,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,RUS,Silver
+2010,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,SLO,Bronze
+2010,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,NOR,Gold
+2010,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,POL,Silver
+2010,Skiing,Cross Country Skiing,Men,Team Sprint,RUS,Bronze
+2010,Skiing,Cross Country Skiing,Men,Team Sprint,NOR,Gold
+2010,Skiing,Cross Country Skiing,Men,Team Sprint,GER,Silver
+2010,Skiing,Cross Country Skiing,Women,Team Sprint,RUS,Bronze
+2010,Skiing,Cross Country Skiing,Women,Team Sprint,GER,Gold
+2010,Skiing,Cross Country Skiing,Women,Team Sprint,SWE,Silver
+2010,Skiing,Freestyle Skiing,Men,Aerials,CHN,Bronze
+2010,Skiing,Freestyle Skiing,Men,Aerials,BLR,Gold
+2010,Skiing,Freestyle Skiing,Men,Aerials,USA,Silver
+2010,Skiing,Freestyle Skiing,Women,Aerials,CHN,Bronze
+2010,Skiing,Freestyle Skiing,Women,Aerials,AUS,Gold
+2010,Skiing,Freestyle Skiing,Women,Aerials,CHN,Silver
+2010,Skiing,Freestyle Skiing,Men,Moguls,USA,Bronze
+2010,Skiing,Freestyle Skiing,Men,Moguls,CAN,Gold
+2010,Skiing,Freestyle Skiing,Men,Moguls,AUS,Silver
+2010,Skiing,Freestyle Skiing,Women,Moguls,USA,Bronze
+2010,Skiing,Freestyle Skiing,Women,Moguls,USA,Gold
+2010,Skiing,Freestyle Skiing,Women,Moguls,CAN,Silver
+2010,Skiing,Freestyle Skiing,Men,Ski Cross,NOR,Bronze
+2010,Skiing,Freestyle Skiing,Men,Ski Cross,SUI,Gold
+2010,Skiing,Freestyle Skiing,Men,Ski Cross,AUT,Silver
+2010,Skiing,Freestyle Skiing,Women,Ski Cross,FRA,Bronze
+2010,Skiing,Freestyle Skiing,Women,Ski Cross,CAN,Gold
+2010,Skiing,Freestyle Skiing,Women,Ski Cross,NOR,Silver
+2010,Skiing,Nordic Combined,Men,"Individual, Ski Jumping K90 (70M)",ITA,Bronze
+2010,Skiing,Nordic Combined,Men,"Individual, Ski Jumping K90 (70M)",FRA,Gold
+2010,Skiing,Nordic Combined,Men,"Individual, Ski Jumping K90 (70M)",USA,Silver
+2010,Skiing,Nordic Combined,Men,Sprint K120,AUT,Bronze
+2010,Skiing,Nordic Combined,Men,Sprint K120,USA,Gold
+2010,Skiing,Nordic Combined,Men,Sprint K120,USA,Silver
+2010,Skiing,Nordic Combined,Men,"Team, 4X5 KM",GER,Bronze
+2010,Skiing,Nordic Combined,Men,"Team, 4X5 KM",AUT,Gold
+2010,Skiing,Nordic Combined,Men,"Team, 4X5 KM",USA,Silver
+2010,Skiing,Ski Jumping,Men,K120 Individual (90M),AUT,Bronze
+2010,Skiing,Ski Jumping,Men,K120 Individual (90M),SUI,Gold
+2010,Skiing,Ski Jumping,Men,K120 Individual (90M),POL,Silver
+2010,Skiing,Ski Jumping,Men,K120 Team (90M),NOR,Bronze
+2010,Skiing,Ski Jumping,Men,K120 Team (90M),AUT,Gold
+2010,Skiing,Ski Jumping,Men,K120 Team (90M),GER,Silver
+2010,Skiing,Ski Jumping,Men,K90 Individual (70M),AUT,Bronze
+2010,Skiing,Ski Jumping,Men,K90 Individual (70M),SUI,Gold
+2010,Skiing,Ski Jumping,Men,K90 Individual (70M),POL,Silver
+2010,Skiing,Snowboard,Men,Giant Parallel Slalom,FRA,Bronze
+2010,Skiing,Snowboard,Men,Giant Parallel Slalom,CAN,Gold
+2010,Skiing,Snowboard,Men,Giant Parallel Slalom,AUT,Silver
+2010,Skiing,Snowboard,Women,Giant Parallel Slalom,AUT,Bronze
+2010,Skiing,Snowboard,Women,Giant Parallel Slalom,NED,Gold
+2010,Skiing,Snowboard,Women,Giant Parallel Slalom,RUS,Silver
+2010,Skiing,Snowboard,Men,Half-Pipe,USA,Bronze
+2010,Skiing,Snowboard,Men,Half-Pipe,USA,Gold
+2010,Skiing,Snowboard,Men,Half-Pipe,FIN,Silver
+2010,Skiing,Snowboard,Women,Half-Pipe,USA,Bronze
+2010,Skiing,Snowboard,Women,Half-Pipe,AUS,Gold
+2010,Skiing,Snowboard,Women,Half-Pipe,USA,Silver
+2010,Skiing,Snowboard,Men,Snowboard Cross,FRA,Bronze
+2010,Skiing,Snowboard,Men,Snowboard Cross,USA,Gold
+2010,Skiing,Snowboard,Men,Snowboard Cross,CAN,Silver
+2010,Skiing,Snowboard,Women,Snowboard Cross,SUI,Bronze
+2010,Skiing,Snowboard,Women,Snowboard Cross,CAN,Gold
+2010,Skiing,Snowboard,Women,Snowboard Cross,FRA,Silver
+2014,Biathlon,Biathlon,Men,10KM,CZE,Bronze
+2014,Biathlon,Biathlon,Men,10KM,NOR,Gold
+2014,Biathlon,Biathlon,Men,10KM,AUT,Silver
+2014,Biathlon,Biathlon,Women,10KM Pursuit,SLO,Bronze
+2014,Biathlon,Biathlon,Women,10KM Pursuit,BLR,Gold
+2014,Biathlon,Biathlon,Women,10KM Pursuit,NOR,Silver
+2014,Biathlon,Biathlon,Women,12.5KM Mass Start,NOR,Bronze
+2014,Biathlon,Biathlon,Women,12.5KM Mass Start,BLR,Gold
+2014,Biathlon,Biathlon,Women,12.5KM Mass Start,CZE,Silver
+2014,Biathlon,Biathlon,Men,12.5Km Pursuit,FRA,Bronze
+2014,Biathlon,Biathlon,Men,12.5Km Pursuit,FRA,Gold
+2014,Biathlon,Biathlon,Men,12.5Km Pursuit,CZE,Silver
+2014,Biathlon,Biathlon,Women,15KM,BLR,Bronze
+2014,Biathlon,Biathlon,Women,15KM,BLR,Gold
+2014,Biathlon,Biathlon,Women,15KM,SUI,Silver
+2014,Biathlon,Biathlon,Men,15KM Mass Start,CZE,Bronze
+2014,Biathlon,Biathlon,Men,15KM Mass Start,NOR,Gold
+2014,Biathlon,Biathlon,Men,15KM Mass Start,FRA,Silver
+2014,Biathlon,Biathlon,Men,20KM,RUS,Bronze
+2014,Biathlon,Biathlon,Men,20KM,FRA,Gold
+2014,Biathlon,Biathlon,Men,20KM,GER,Silver
+2014,Biathlon,Biathlon,Women,4X6KM Relay,NOR,Bronze
+2014,Biathlon,Biathlon,Women,4X6KM Relay,UKR,Gold
+2014,Biathlon,Biathlon,Women,4X6KM Relay,RUS,Silver
+2014,Biathlon,Biathlon,Men,4X7.5KM Relay,AUT,Bronze
+2014,Biathlon,Biathlon,Men,4X7.5KM Relay,RUS,Gold
+2014,Biathlon,Biathlon,Men,4X7.5KM Relay,GER,Silver
+2014,Biathlon,Biathlon,Women,7.5KM,UKR,Bronze
+2014,Biathlon,Biathlon,Women,7.5KM,SVK,Gold
+2014,Biathlon,Biathlon,Women,7.5KM,RUS,Silver
+2014,Biathlon,Biathlon,Men,Relay Mix,ITA,Bronze
+2014,Biathlon,Biathlon,Men,Relay Mix,NOR,Gold
+2014,Biathlon,Biathlon,Men,Relay Mix,CZE,Silver
+2014,Biathlon,Biathlon,Women,Relay Mix,ITA,Bronze
+2014,Biathlon,Biathlon,Women,Relay Mix,NOR,Gold
+2014,Biathlon,Biathlon,Women,Relay Mix,CZE,Silver
+2014,Bobsleigh,Bobsleigh,Men,Four-Man,USA,Bronze
+2014,Bobsleigh,Bobsleigh,Men,Four-Man,RUS,Gold
+2014,Bobsleigh,Bobsleigh,Men,Four-Man,LAT,Silver
+2014,Bobsleigh,Bobsleigh,Men,Two-Man,USA,Bronze
+2014,Bobsleigh,Bobsleigh,Men,Two-Man,RUS,Gold
+2014,Bobsleigh,Bobsleigh,Men,Two-Man,SUI,Silver
+2014,Bobsleigh,Bobsleigh,Women,Two-Woman,USA,Bronze
+2014,Bobsleigh,Bobsleigh,Women,Two-Woman,CAN,Gold
+2014,Bobsleigh,Bobsleigh,Women,Two-Woman,USA,Silver
+2014,Bobsleigh,Skeleton,Men,Individual,USA,Bronze
+2014,Bobsleigh,Skeleton,Men,Individual,RUS,Gold
+2014,Bobsleigh,Skeleton,Men,Individual,LAT,Silver
+2014,Bobsleigh,Skeleton,Women,Individual,RUS,Bronze
+2014,Bobsleigh,Skeleton,Women,Individual,GBR,Gold
+2014,Bobsleigh,Skeleton,Women,Individual,USA,Silver
+2014,Curling,Curling,Men,Curling,SWE,Bronze
+2014,Curling,Curling,Men,Curling,CAN,Gold
+2014,Curling,Curling,Men,Curling,GBR,Silver
+2014,Curling,Curling,Women,Curling,GBR,Bronze
+2014,Curling,Curling,Women,Curling,CAN,Gold
+2014,Curling,Curling,Women,Curling,SWE,Silver
+2014,Ice Hockey,Ice Hockey,Men,Ice Hockey,FIN,Bronze
+2014,Ice Hockey,Ice Hockey,Men,Ice Hockey,CAN,Gold
+2014,Ice Hockey,Ice Hockey,Men,Ice Hockey,SWE,Silver
+2014,Ice Hockey,Ice Hockey,Women,Ice Hockey,SUI,Bronze
+2014,Ice Hockey,Ice Hockey,Women,Ice Hockey,CAN,Gold
+2014,Ice Hockey,Ice Hockey,Women,Ice Hockey,USA,Silver
+2014,Luge,Luge,Men,Doubles,LAT,Bronze
+2014,Luge,Luge,Men,Doubles,GER,Gold
+2014,Luge,Luge,Men,Doubles,AUT,Silver
+2014,Luge,Luge,Men,Mixed Relay,LAT,Bronze
+2014,Luge,Luge,Men,Mixed Relay,GER,Gold
+2014,Luge,Luge,Men,Mixed Relay,RUS,Silver
+2014,Luge,Luge,Women,Mixed Relay,LAT,Bronze
+2014,Luge,Luge,Women,Mixed Relay,GER,Gold
+2014,Luge,Luge,Women,Mixed Relay,RUS,Silver
+2014,Luge,Luge,Men,Singles,ITA,Bronze
+2014,Luge,Luge,Men,Singles,GER,Gold
+2014,Luge,Luge,Men,Singles,RUS,Silver
+2014,Luge,Luge,Women,Singles,USA,Bronze
+2014,Luge,Luge,Women,Singles,GER,Gold
+2014,Luge,Luge,Women,Singles,GER,Silver
+2014,Skating,Figure skating,Men,Ice Dancing,RUS,Bronze
+2014,Skating,Figure skating,Men,Ice Dancing,USA,Gold
+2014,Skating,Figure skating,Men,Ice Dancing,CAN,Silver
+2014,Skating,Figure skating,Women,Ice Dancing,RUS,Bronze
+2014,Skating,Figure skating,Women,Ice Dancing,USA,Gold
+2014,Skating,Figure skating,Women,Ice Dancing,CAN,Silver
+2014,Skating,Figure skating,Men,Individual,KAZ,Bronze
+2014,Skating,Figure skating,Men,Individual,JPN,Gold
+2014,Skating,Figure skating,Men,Individual,CAN,Silver
+2014,Skating,Figure skating,Women,Individual,ITA,Bronze
+2014,Skating,Figure skating,Women,Individual,RUS,Gold
+2014,Skating,Figure skating,Women,Individual,KOR,Silver
+2014,Skating,Figure skating,Men,Pairs,GER,Bronze
+2014,Skating,Figure skating,Men,Pairs,RUS,Gold
+2014,Skating,Figure skating,Men,Pairs,RUS,Silver
+2014,Skating,Figure skating,Women,Pairs,GER,Bronze
+2014,Skating,Figure skating,Women,Pairs,RUS,Gold
+2014,Skating,Figure skating,Women,Pairs,RUS,Silver
+2014,Skating,Figure skating,Men,Team,USA,Bronze
+2014,Skating,Figure skating,Men,Team,RUS,Gold
+2014,Skating,Figure skating,Men,Team,CAN,Silver
+2014,Skating,Figure skating,Women,Team,USA,Bronze
+2014,Skating,Figure skating,Women,Team,RUS,Gold
+2014,Skating,Figure skating,Women,Team,CAN,Silver
+2014,Skating,Short Track Speed Skating,Men,1000M,NED,Bronze
+2014,Skating,Short Track Speed Skating,Men,1000M,RUS,Gold
+2014,Skating,Short Track Speed Skating,Men,1000M,RUS,Silver
+2014,Skating,Short Track Speed Skating,Women,1000M,KOR,Bronze
+2014,Skating,Short Track Speed Skating,Women,1000M,KOR,Gold
+2014,Skating,Short Track Speed Skating,Women,1000M,CHN,Silver
+2014,Skating,Short Track Speed Skating,Men,1500M,RUS,Bronze
+2014,Skating,Short Track Speed Skating,Men,1500M,CAN,Gold
+2014,Skating,Short Track Speed Skating,Men,1500M,CHN,Silver
+2014,Skating,Short Track Speed Skating,Women,1500M,ITA,Bronze
+2014,Skating,Short Track Speed Skating,Women,1500M,CHN,Gold
+2014,Skating,Short Track Speed Skating,Women,1500M,KOR,Silver
+2014,Skating,Short Track Speed Skating,Women,3000M Relay,ITA,Bronze
+2014,Skating,Short Track Speed Skating,Women,3000M Relay,KOR,Gold
+2014,Skating,Short Track Speed Skating,Women,3000M Relay,CAN,Silver
+2014,Skating,Short Track Speed Skating,Men,5000M Relay,CHN,Bronze
+2014,Skating,Short Track Speed Skating,Men,5000M Relay,RUS,Gold
+2014,Skating,Short Track Speed Skating,Men,5000M Relay,USA,Silver
+2014,Skating,Short Track Speed Skating,Men,500M,CAN,Bronze
+2014,Skating,Short Track Speed Skating,Men,500M,RUS,Gold
+2014,Skating,Short Track Speed Skating,Men,500M,CHN,Silver
+2014,Skating,Short Track Speed Skating,Women,500M,KOR,Bronze
+2014,Skating,Short Track Speed Skating,Women,500M,CHN,Gold
+2014,Skating,Short Track Speed Skating,Women,500M,ITA,Silver
+2014,Skating,Speed skating,Men,10000M,NED,Bronze
+2014,Skating,Speed skating,Men,10000M,NED,Gold
+2014,Skating,Speed skating,Men,10000M,NED,Silver
+2014,Skating,Speed skating,Men,1000M,NED,Bronze
+2014,Skating,Speed skating,Men,1000M,NED,Gold
+2014,Skating,Speed skating,Men,1000M,CAN,Silver
+2014,Skating,Speed skating,Women,1000M,NED,Bronze
+2014,Skating,Speed skating,Women,1000M,CHN,Gold
+2014,Skating,Speed skating,Women,1000M,NED,Silver
+2014,Skating,Speed skating,Men,1500M,CAN,Bronze
+2014,Skating,Speed skating,Men,1500M,POL,Gold
+2014,Skating,Speed skating,Men,1500M,NED,Silver
+2014,Skating,Speed skating,Women,1500M,NED,Bronze
+2014,Skating,Speed skating,Women,1500M,NED,Gold
+2014,Skating,Speed skating,Women,1500M,NED,Silver
+2014,Skating,Speed skating,Women,3000M,RUS,Bronze
+2014,Skating,Speed skating,Women,3000M,NED,Gold
+2014,Skating,Speed skating,Women,3000M,CZE,Silver
+2014,Skating,Speed skating,Men,5000M,NED,Bronze
+2014,Skating,Speed skating,Men,5000M,NED,Gold
+2014,Skating,Speed skating,Men,5000M,NED,Silver
+2014,Skating,Speed skating,Women,5000M,NED,Bronze
+2014,Skating,Speed skating,Women,5000M,CZE,Gold
+2014,Skating,Speed skating,Women,5000M,NED,Silver
+2014,Skating,Speed skating,Men,500M,NED,Bronze
+2014,Skating,Speed skating,Men,500M,NED,Gold
+2014,Skating,Speed skating,Men,500M,NED,Silver
+2014,Skating,Speed skating,Women,500M,NED,Bronze
+2014,Skating,Speed skating,Women,500M,KOR,Gold
+2014,Skating,Speed skating,Women,500M,RUS,Silver
+2014,Skating,Speed skating,Men,Team Pursuit,POL,Bronze
+2014,Skating,Speed skating,Men,Team Pursuit,NED,Gold
+2014,Skating,Speed skating,Men,Team Pursuit,KOR,Silver
+2014,Skating,Speed skating,Women,Team Pursuit,RUS,Bronze
+2014,Skating,Speed skating,Women,Team Pursuit,NED,Gold
+2014,Skating,Speed skating,Women,Team Pursuit,POL,Silver
+2014,Skiing,Alpine Skiing,Men,Downhill,NOR,Bronze
+2014,Skiing,Alpine Skiing,Men,Downhill,AUT,Gold
+2014,Skiing,Alpine Skiing,Men,Downhill,ITA,Silver
+2014,Skiing,Alpine Skiing,Women,Downhill,SUI,Bronze
+2014,Skiing,Alpine Skiing,Women,Downhill,SLO,Gold
+2014,Skiing,Alpine Skiing,Women,Downhill,SUI,Gold
+2014,Skiing,Alpine Skiing,Men,Giant Slalom,FRA,Bronze
+2014,Skiing,Alpine Skiing,Men,Giant Slalom,USA,Gold
+2014,Skiing,Alpine Skiing,Men,Giant Slalom,FRA,Silver
+2014,Skiing,Alpine Skiing,Women,Giant Slalom,GER,Bronze
+2014,Skiing,Alpine Skiing,Women,Giant Slalom,SLO,Gold
+2014,Skiing,Alpine Skiing,Women,Giant Slalom,AUT,Silver
+2014,Skiing,Alpine Skiing,Men,Slalom,NOR,Bronze
+2014,Skiing,Alpine Skiing,Men,Slalom,AUT,Gold
+2014,Skiing,Alpine Skiing,Men,Slalom,AUT,Silver
+2014,Skiing,Alpine Skiing,Women,Slalom,AUT,Bronze
+2014,Skiing,Alpine Skiing,Women,Slalom,USA,Gold
+2014,Skiing,Alpine Skiing,Women,Slalom,AUT,Silver
+2014,Skiing,Alpine Skiing,Men,Super Combined,ITA,Bronze
+2014,Skiing,Alpine Skiing,Men,Super Combined,SUI,Gold
+2014,Skiing,Alpine Skiing,Men,Super Combined,CRO,Silver
+2014,Skiing,Alpine Skiing,Women,Super Combined,USA,Bronze
+2014,Skiing,Alpine Skiing,Women,Super Combined,GER,Gold
+2014,Skiing,Alpine Skiing,Women,Super Combined,AUT,Silver
+2014,Skiing,Alpine Skiing,Men,Super-G,CAN,Bronze
+2014,Skiing,Alpine Skiing,Men,Super-G,USA,Bronze
+2014,Skiing,Alpine Skiing,Men,Super-G,NOR,Gold
+2014,Skiing,Alpine Skiing,Men,Super-G,USA,Silver
+2014,Skiing,Alpine Skiing,Women,Super-G,AUT,Bronze
+2014,Skiing,Alpine Skiing,Women,Super-G,AUT,Gold
+2014,Skiing,Alpine Skiing,Women,Super-G,GER,Silver
+2014,Skiing,Cross Country Skiing,Women,10KM,NOR,Bronze
+2014,Skiing,Cross Country Skiing,Women,10KM,POL,Gold
+2014,Skiing,Cross Country Skiing,Women,10KM,SWE,Silver
+2014,Skiing,Cross Country Skiing,Men,15KM,SWE,Bronze
+2014,Skiing,Cross Country Skiing,Men,15KM,SUI,Gold
+2014,Skiing,Cross Country Skiing,Men,15KM,SWE,Silver
+2014,Skiing,Cross Country Skiing,Women,30KM,NOR,Bronze
+2014,Skiing,Cross Country Skiing,Women,30KM,NOR,Gold
+2014,Skiing,Cross Country Skiing,Women,30KM,NOR,Silver
+2014,Skiing,Cross Country Skiing,Men,4X10KM Relay,FRA,Bronze
+2014,Skiing,Cross Country Skiing,Men,4X10KM Relay,SWE,Gold
+2014,Skiing,Cross Country Skiing,Men,4X10KM Relay,RUS,Silver
+2014,Skiing,Cross Country Skiing,Women,4X5KM Relay,GER,Bronze
+2014,Skiing,Cross Country Skiing,Women,4X5KM Relay,SWE,Gold
+2014,Skiing,Cross Country Skiing,Women,4X5KM Relay,FIN,Silver
+2014,Skiing,Cross Country Skiing,Men,50KM,RUS,Bronze
+2014,Skiing,Cross Country Skiing,Men,50KM,RUS,Gold
+2014,Skiing,Cross Country Skiing,Men,50KM,RUS,Silver
+2014,Skiing,Cross Country Skiing,Men,Combined 15+15K,NOR,Bronze
+2014,Skiing,Cross Country Skiing,Men,Combined 15+15K,SUI,Gold
+2014,Skiing,Cross Country Skiing,Men,Combined 15+15K,SWE,Silver
+2014,Skiing,Cross Country Skiing,Women,Combined7.5+7.5,NOR,Bronze
+2014,Skiing,Cross Country Skiing,Women,Combined7.5+7.5,NOR,Gold
+2014,Skiing,Cross Country Skiing,Women,Combined7.5+7.5,SWE,Silver
+2014,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,SWE,Bronze
+2014,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,NOR,Gold
+2014,Skiing,Cross Country Skiing,Men,Sprint 1.5KM,SWE,Silver
+2014,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,SLO,Bronze
+2014,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,NOR,Gold
+2014,Skiing,Cross Country Skiing,Women,Sprint 1.5KM,NOR,Silver
+2014,Skiing,Cross Country Skiing,Men,Team Sprint,SWE,Bronze
+2014,Skiing,Cross Country Skiing,Men,Team Sprint,FIN,Gold
+2014,Skiing,Cross Country Skiing,Men,Team Sprint,RUS,Silver
+2014,Skiing,Cross Country Skiing,Women,Team Sprint,SWE,Bronze
+2014,Skiing,Cross Country Skiing,Women,Team Sprint,NOR,Gold
+2014,Skiing,Cross Country Skiing,Women,Team Sprint,FIN,Silver
+2014,Skiing,Freestyle Skiing,Men,Aerials,CHN,Bronze
+2014,Skiing,Freestyle Skiing,Men,Aerials,BLR,Gold
+2014,Skiing,Freestyle Skiing,Men,Aerials,AUS,Silver
+2014,Skiing,Freestyle Skiing,Women,Aerials,AUS,Bronze
+2014,Skiing,Freestyle Skiing,Women,Aerials,BLR,Gold
+2014,Skiing,Freestyle Skiing,Women,Aerials,CHN,Silver
+2014,Skiing,Freestyle Skiing,Men,Moguls,RUS,Bronze
+2014,Skiing,Freestyle Skiing,Men,Moguls,CAN,Gold
+2014,Skiing,Freestyle Skiing,Men,Moguls,CAN,Silver
+2014,Skiing,Freestyle Skiing,Women,Moguls,USA,Bronze
+2014,Skiing,Freestyle Skiing,Women,Moguls,CAN,Gold
+2014,Skiing,Freestyle Skiing,Women,Moguls,CAN,Silver
+2014,Skiing,Freestyle Skiing,Men,Ski Cross,FRA,Bronze
+2014,Skiing,Freestyle Skiing,Men,Ski Cross,FRA,Gold
+2014,Skiing,Freestyle Skiing,Men,Ski Cross,FRA,Silver
+2014,Skiing,Freestyle Skiing,Women,Ski Cross,SWE,Bronze
+2014,Skiing,Freestyle Skiing,Women,Ski Cross,CAN,Gold
+2014,Skiing,Freestyle Skiing,Women,Ski Cross,CAN,Silver
+2014,Skiing,Freestyle Skiing,Men,Ski Halfpipe,FRA,Bronze
+2014,Skiing,Freestyle Skiing,Men,Ski Halfpipe,USA,Gold
+2014,Skiing,Freestyle Skiing,Men,Ski Halfpipe,CAN,Silver
+2014,Skiing,Freestyle Skiing,Women,Ski Halfpipe,JPN,Bronze
+2014,Skiing,Freestyle Skiing,Women,Ski Halfpipe,USA,Gold
+2014,Skiing,Freestyle Skiing,Women,Ski Halfpipe,FRA,Silver
+2014,Skiing,Freestyle Skiing,Men,Ski Slopestyle,USA,Bronze
+2014,Skiing,Freestyle Skiing,Men,Ski Slopestyle,USA,Gold
+2014,Skiing,Freestyle Skiing,Men,Ski Slopestyle,USA,Silver
+2014,Skiing,Freestyle Skiing,Women,Ski Slopestyle,CAN,Bronze
+2014,Skiing,Freestyle Skiing,Women,Ski Slopestyle,CAN,Gold
+2014,Skiing,Freestyle Skiing,Women,Ski Slopestyle,USA,Silver
+2014,Skiing,Nordic Combined,Men,Ind. K90 (70M),NOR,Bronze
+2014,Skiing,Nordic Combined,Men,Ind. K90 (70M),GER,Gold
+2014,Skiing,Nordic Combined,Men,Ind. K90 (70M),JPN,Silver
+2014,Skiing,Nordic Combined,Men,Sprint K120,GER,Bronze
+2014,Skiing,Nordic Combined,Men,Sprint K120,NOR,Gold
+2014,Skiing,Nordic Combined,Men,Sprint K120,NOR,Silver
+2014,Skiing,Nordic Combined,Men,"Team, 4X5 KM",AUT,Bronze
+2014,Skiing,Nordic Combined,Men,"Team, 4X5 KM",NOR,Gold
+2014,Skiing,Nordic Combined,Men,"Team, 4X5 KM",GER,Silver
+2014,Skiing,Ski Jumping,Women,K90 Individual,FRA,Bronze
+2014,Skiing,Ski Jumping,Women,K90 Individual,GER,Gold
+2014,Skiing,Ski Jumping,Women,K90 Individual,AUT,Silver
+2014,Skiing,Ski Jumping,Men,Large Hill,SLO,Bronze
+2014,Skiing,Ski Jumping,Men,Large Hill,POL,Gold
+2014,Skiing,Ski Jumping,Men,Large Hill,JPN,Silver
+2014,Skiing,Ski Jumping,Men,Normal Hill,NOR,Bronze
+2014,Skiing,Ski Jumping,Men,Normal Hill,POL,Gold
+2014,Skiing,Ski Jumping,Men,Normal Hill,SLO,Silver
+2014,Skiing,Ski Jumping,Men,Teams,JPN,Bronze
+2014,Skiing,Ski Jumping,Men,Teams,GER,Gold
+2014,Skiing,Ski Jumping,Men,Teams,AUT,Silver
+2014,Skiing,Snowboard,Men,Giant Parallel Slalom,SLO,Bronze
+2014,Skiing,Snowboard,Men,Giant Parallel Slalom,RUS,Gold
+2014,Skiing,Snowboard,Men,Giant Parallel Slalom,SUI,Silver
+2014,Skiing,Snowboard,Women,Giant Parallel Slalom,RUS,Bronze
+2014,Skiing,Snowboard,Women,Giant Parallel Slalom,SUI,Gold
+2014,Skiing,Snowboard,Women,Giant Parallel Slalom,JPN,Silver
+2014,Skiing,Snowboard,Men,Half-Pipe,JPN,Bronze
+2014,Skiing,Snowboard,Men,Half-Pipe,SUI,Gold
+2014,Skiing,Snowboard,Men,Half-Pipe,JPN,Silver
+2014,Skiing,Snowboard,Women,Half-Pipe,USA,Bronze
+2014,Skiing,Snowboard,Women,Half-Pipe,USA,Gold
+2014,Skiing,Snowboard,Women,Half-Pipe,AUS,Silver
+2014,Skiing,Snowboard,Men,Parallel Slalom,AUT,Bronze
+2014,Skiing,Snowboard,Men,Parallel Slalom,RUS,Gold
+2014,Skiing,Snowboard,Men,Parallel Slalom,SLO,Silver
+2014,Skiing,Snowboard,Women,Parallel Slalom,GER,Bronze
+2014,Skiing,Snowboard,Women,Parallel Slalom,AUT,Gold
+2014,Skiing,Snowboard,Women,Parallel Slalom,GER,Silver
+2014,Skiing,Snowboard,Men,Slopestyle,CAN,Bronze
+2014,Skiing,Snowboard,Men,Slopestyle,USA,Gold
+2014,Skiing,Snowboard,Men,Slopestyle,NOR,Silver
+2014,Skiing,Snowboard,Women,Slopestyle,GBR,Bronze
+2014,Skiing,Snowboard,Women,Slopestyle,USA,Gold
+2014,Skiing,Snowboard,Women,Slopestyle,FIN,Silver
+2014,Skiing,Snowboard,Men,Snowboard Cross,USA,Bronze
+2014,Skiing,Snowboard,Men,Snowboard Cross,FRA,Gold
+2014,Skiing,Snowboard,Men,Snowboard Cross,RUS,Silver
+2014,Skiing,Snowboard,Women,Snowboard Cross,FRA,Bronze
+2014,Skiing,Snowboard,Women,Snowboard Cross,CZE,Gold
+2014,Skiing,Snowboard,Women,Snowboard Cross,CAN,Silver
