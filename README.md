@@ -7,6 +7,6 @@ Host Bump shows how many medals the host country won during their Olympics and t
 
 Raw Sports Data shows every medal given out at the Winter Olympics. You can find the year, sport, discipline, gender, event, country, and medal type.
 
-Both are broken down into Gold, Silver, Bronze, and Total.
+Data is broken down into Gold, Silver, Bronze, and Total.
 
 2018 data will eventually be necessary!
